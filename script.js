@@ -60,13 +60,21 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
               <div class="slideshow-container">
                   <div class="mySlides fade">
-                      <img src="img/1st-place.jpg" style="width:100%">
+                      <img src="img/majaliwa.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
                       <img src="img/2nd-place.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/prize.jpg" style="width:100%">
+                      <img src="img/1st-place.jpg" style="width:100%">
+                  </div>
+
+                  <div class="mySlides fade">
+                      <img src="img/majaliwa.jpg" style="width:100%">
+                  </div>
+
+                  <div class="mySlides fade">
+                      <img src="img/dotto.jpg" style="width:100%">
                   </div>
                   <a class="prev">&#10094;</a>
                   <a class="next">&#10095;</a>
@@ -268,16 +276,34 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>The winners of the Safal Kiswahili Prize for African Literature 2022 were awarded by <strong>His Excellency Majaliwa Kassim Majaliwa</strong>, Prime Minister of the United Republic of Tanzania at a special ceremony at the Mlimani City Conference Center in Dar es Salaam, on the 25th of January 2023.</p>
 <p>&nbsp;</p>
 
+<P>
+<strong><img class=" wp-image-460 alignleft" src="img/majaliwa.jpg"  width="300" height="224"></a></strong>
+</p>
+
 <p>The Safal Kiswahili Prize for African Literature was founded in 2014 by Dr. Lizzy Attree and Dr. Mukoma Wa Ngugi to recognize writing in African languages and encourage translation from, between, and into African languages.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>The 2022 judges; Prof F.E.M.K. Senkoro (chair, Professor Emeritus), Dr. Magdaline Nakhumicha Wafula (Moi University, Kenya), and Dr. Hamisi Babusa (Kenyatta University, Kenya) selected the following and they both received prize money of US $5,000 Dollars each. <p>&nbsp;</p> <strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category. <p>&nbsp;</p> <strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.</p>
+<p>
+    The 2022 judges; Prof F.E.M.K. Senkoro (chair, Professor Emeritus), Dr. Magdaline Nakhumicha Wafula (Moi University, Kenya), and Dr. Hamisi Babusa (Kenyatta University, Kenya) selected the following and they both received prize money of US $5,000 Dollars each. <p>&nbsp;</p> 
+    <strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category. <p>&nbsp;</p> 
+    <strong><img class=" wp-image-460 alignleft" src="img/dotto.jpg"  width="300" height="224"></a></strong>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+    <strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.<p>&nbsp;</p>
+    <strong><img class=" wp-image-460 alignleft" src="img/salum.jpg"  width="300" height="224"></a></strong>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <p><strong>Dotto Rangimoto </strong>was born in Morogoro, Tanzania, in 1986. He won the Safal Kiswahili Prize in 2017, and his winning manuscript, <em>Mwanangu Rudi Nyumbani,</em> was subsequently published by Mkuki na Nyota Publishers, Dar es Salaam. Dotto completed his secondary education in 2004 at Morogoro Secondary School. Thereafter he has been involved in small enterprise business and farming. He is a great enthusiast of Kiswahili Literature, especially novels and poetry.</p>
 <p>&nbsp;</p>
+
 
 <p><strong>Salum Makamba</strong> is a young writer from Tanzania. In addition to novels, he writes short stories, poems, fiction, essays and articles on various social issues. Salum trained as a medical doctor from the University of Dar es Salaam.</p>
 <p>&nbsp;</p>
