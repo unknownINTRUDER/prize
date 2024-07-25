@@ -99,14 +99,16 @@ document.addEventListener('DOMContentLoaded', function() {
             initializeSlideshow();
         } else if (contentId === 'content2') {
             contentArea.innerHTML = `
-                <h1 class="entry-title">Safal Kiswahili Awards</h1>
+                <h1 class="entry-title">Safal Kiswahili Prize for</h1>
+                <h1 class="entry-title">African Literature</h1>
+
                 <p>&nbsp;</p>
                 <div class="entry-content">
                     <p><img class="size-medium wp-image-550" src="img/prize.jpg" alt="" width="300" height="200"></p>
                     <p>&nbsp;</p>
                     <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
                     <p>&nbsp;</p>
-                    <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Awards</strong></p>
+                    <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Prize for African Literature</strong></p>
                     <p>&nbsp;</p>
                 </div>
             `;
@@ -132,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>Rules of Submission</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:kiswahiliprize@safalkiswahiliawards.com">kiswahiliprize@kiswahiliprize.com</a> .</p>
+                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:submission@kiswahiliprize.org">submission@kiswahiliprize.org</a> .</p>
                 </div>
             `;
         } else if (contentId === 'content6') {
@@ -150,8 +152,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>&nbsp;</p>
                 <p>3rd Prize – $2,500 in any genre</p>
                 <p>&nbsp;</p>
-                <p>The winning prose entry will be published in Kiswahili by either Mkuki na Nyota or East African Educational Publishers (EAEP). And the best poetry book will be translated and published in English by the African Poetry Book Fund.</p>
-                <p>An award ceremony will be held with the four prize winning writers in attendance. The first and second award ceremonies were held in Kenya and Tanzania respectively. The third award ceremony will also be held in East Africa.</p>
+                <p>The winning manuscripts will be considered for publication by Mkuki na Nyota.</p>
+                <p>An award ceremony will be held with the four prize winning writers in attendance. The first and second award ceremonies were held in Kenya and Tanzania respectively, the 2025 Awards will be held in Tanzania. </p>
             </div>
             `;
         }

@@ -13,7 +13,7 @@ html{
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #8d8a8a;
+    background-color: white;
 }
 
 /* Adjust logo and search bar */
@@ -29,8 +29,8 @@ header {
 
 /* Logo styles */
 .logo {
-    margin-left: 130px; /* Adjust margin for logo position */
     animation: logoFadeIn 1s ease-out forwards; /* Animation definition */
+    align-items: inherit;
 }
 
 .logo img {
@@ -44,6 +44,7 @@ header {
     display: flex;
     justify-content: center; /* Align items horizontally at the center */
     align-items: center; /* Align items vertically at the center */
+    margin-top: 20px;
 }
 
 .search-bar input[type="text"],

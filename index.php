@@ -40,7 +40,7 @@
                     <li><a href="#" class="sidebar-link" data-content="content3">2024 Call for Submissions</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content4">About the Prize</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content5">Rules of Submission</a></li>
-                    <li><a href="#" class="sidebar-link" data-content="content6">Awards</a></li>
+                    <li><a href="#" class="sidebar-link" data-content="content6">Awards Criteria</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content7">Judges</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle">Winners</a>
