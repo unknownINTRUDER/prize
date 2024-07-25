@@ -326,6 +326,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>The second-place winner in the Fiction category was<strong> Isaac Ndolo </strong>(Kenya) for his manuscript<strong> <em>Wimbo wa Hatima</em></strong> (<strong>The Final Song</strong>), and in the Poetry category was<strong> Ally Bakari Mchanyato </strong>(Tanzania) for his manuscript<strong> Uswahilini. </strong>Each received 2,500 USD.</p>
 <p>&nbsp;</p>
 
+    <strong><img class=" wp-image-460 alignleft" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="img/Ally.jpg"  width="300" height="224"></a></strong>
+
+
 <p>The winning manuscripts are published by Mkuki na Nyota publishers.</p>
 <p>&nbsp;</p>
 
