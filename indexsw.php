@@ -9,8 +9,8 @@
 <body>
 
         <div class="language-switch">
-        <a href="../english"><button >English</button></a>
-        <a href="../swahili"><button >Kiswahili</button></a>
+        <a href="index.php"><button >English</button></a>
+        <a href="indexsw.php"><button >Kiswahili</button></a>
         </div>
 
 
