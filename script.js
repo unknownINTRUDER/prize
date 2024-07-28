@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded', function() {
     const sidebarLinks = document.querySelectorAll('.sidebar-link');
     const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
@@ -51,6 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 
+    
     
 
 
@@ -181,38 +184,53 @@ document.addEventListener('DOMContentLoaded', function() {
                         <h2>2021 Judges:</h2>
                         <p>&nbsp;</p>
 
-                        <p>
-                        <strong><img fetchpriority="high" decoding="async" class="size-medium wp-image-456 alignleft" src="img/Aldin.jpg" alt="Aldin" width="261" height="300" ,sizes="(max-width: 261px) 100vw, 261px"></a><p>&nbsp;</p> Prof Aldin K. Mutembei</strong> (BA Ed.; MA Ling (Dar); MA (Lit); PhD (Leiden), holds a Chair as the Mwalimu Julius Nyerere Professor in Kiswahili at the University of Dar es Salaam. He is a former Director of the Institute of Kiswahili Studies; and the current Director of the Confucius Institute at the University of Dar es Salaam. He teaches Kiswahili/African Literature, Communication, Literary Theories and Orature and Kiswahili language to speakers of other languages. He has published four &nbsp;literary works, among which is a novel, <em>Kisiki Kikavu</em>. (E &amp; D Limited, 2005), and a literary theory book, <em>Korasi Katika Fasihi: Nadharia Mpya ya Uhakiki</em> (Institute of Kiswahili Studies, University of Dar es Salaam, 2012).       
-                        </p>
-
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-
-                        <p>
-                        <strong><img decoding="async" class="size-medium wp-image-458 alignleft" src="img/Dr-Salma-Omar-Hamad.jpg" alt="Dr. Salma Omar Hamad" width="261" height="300"></a> <p>&nbsp;</p> Dr. Salma Omar Hamad </strong> was born in Pemba, Zanzibar. She is currently a Lecturer of Kiswahili Literature and Linguistics at The Open University of Tanzania. She did her BA in Education (Hons) at State University of Zanzibar (SUZA); majoring in Kiswahili; MA in Linguistics at the University of &nbsp;Dar es Salaam, specializing in Kiswahili; and a PhD in Kiswahili from SUZA. She is the author of several short stories awaiting publication and has also contributed to short story anthologies, such as her story “Shibe Inatumaliza” in a collection entitled <em>Tumbo Lisiloshiba na Hadithi Nyingine</em> (Longhorn Publishers, 2016).
-                        </p>
-
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-
-                        <p>
-                        <strong><img decoding="async" class="size-medium wp-image-457 alignleft" src="img/MAITARIA.jpg" alt="Dr. Maitaria" width="261" height="300"></a> <p>&nbsp;</p> Dr. Joseph Nyehita Maitaria </strong>is a Senior Lecturer and the Chairperson of the Department of Humanities and Languages in the School of Education and Social Sciences (SESS), Karatina University, Kenya. He holds a BA (Education) in Kiswahili and Christian Religious Education (Kenyatta University); MA in Kiswahili (Kenyatta University) and PhD in Kiswahili Literary Genres and Kiswahili Poetry (Kenyatta University). He is a committee member of various Kiswahili associations and is presently the Secretary of the East Africa Kiswahili Association (CHAKAMA) and Kiswahili Scholars Association of Kenya (CHAKITA). An author of Kiswahili books, he has also published widely in academic journals in the area of Kiswahili Poetry.
-                        </p>
-
-                        <p>&nbsp;</p>
-                        <p>&nbsp;</p>
-
-                        <p>
-                        <strong><img loading="lazy" decoding="async" class="size-medium wp-image-459 alignleft" src="img/Babusa.jpg" alt="Dr. Hamisi Babusa" width="261" height="300"></a> <p>&nbsp;</p> Dr. Hamisi Babusa</strong> is a Lecturer of Kiswahili and Language Education at Kenyatta University. He has also taught in other universities, among them St. Lawrence University, in Canton, NY, USA. Among his publications are <em>Kamusi Teule</em>, a dictionary of Kiswahili proverbs with their equivalents in English, several short stories and poems in various anthologies. Dr. Babusa has also written children novellas like<em> Binti Kitabu</em> &nbsp;and also <em>Makumba</em>, science fiction series, for which in 2018 he was recognized as one of the top twenty scientists in Kenya.
-                        </p>
                         
+                        <div class="container-judges"> 
+                        <strong><img src="img/Aldin.jpg" alt="Aldin" width="261" height="300" class="left-img">
+                        <p>&nbsp;</p>
+                        <p> Prof Aldin K. Mutembei</strong> (BA Ed.; MA Ling (Dar); MA (Lit); PhD (Leiden), holds a Chair as the Mwalimu Julius Nyerere Professor in Kiswahili at the University of Dar es Salaam. He is a former Director of the Institute of Kiswahili Studies; and the current Director of the Confucius Institute at the University of Dar es Salaam. He teaches Kiswahili/African Literature, Communication, Literary Theories and Orature and Kiswahili language to speakers of other languages. He has published four &nbsp;literary works, among which is a novel, <em>Kisiki Kikavu</em>. (E &amp; D Limited, 2005), and a literary theory book, <em>Korasi Katika Fasihi: Nadharia Mpya ya Uhakiki</em> (Institute of Kiswahili Studies, University of Dar es Salaam, 2012).</p>
+                        </div>
+                        <p>&nbsp;</p>
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
 
-                        <p>
-                        <strong><img loading="lazy" decoding="async" class=" wp-image-460 alignleft" src="img/Rocha.jpg" alt="Prof Rocha Chimerah" width="257" height="224"></a> <p>&nbsp;</p> Prof Rocha Chimerah</strong> is a Professor of Kiswahili Linguistics at Pwani University in Kenya. He received his PhD from Ohio University in the USA in 1989, taught in Rwanda for 8 years and has published many papers in refereed journals in East Africa and abroad in the areas of Kiswahili Linguistics, Language and Literature. He has written a number of acclaimed novels and plays. Among his published novels are <em>Nyongo Mkalia Ini</em> and <em>Siri Sirini</em> ( a three-volume sequel). He won the Noma Award in 2000 for his co-authorship of the book <em>Ufundishaji wa Fasihi: Nadharia na Mbinu</em>. His book, <em>Kiswahili: Past, Present and Future Horizon</em> was listed in the 100 Best African Books of the 20<sup>th</sup> Century Award in Harare, Zimbabwe, in 2002.
-                        </p>
 
+                        <div class="container-judges"> 
+                        <img src="img/Dr-Salma-Omar-Hamad.jpg" alt="Dr. Salma Omar Hamad" width="261" height="300" class="left-img">
+                        <p>&nbsp;</p>
+                        <p><strong>Dr. Salma Omar Hamad </strong> was born in Pemba, Zanzibar. She is currently a Lecturer of Kiswahili Literature and Linguistics at The Open University of Tanzania. She did her BA in Education (Hons) at State University of Zanzibar (SUZA); majoring in Kiswahili; MA in Linguistics at the University of &nbsp;Dar es Salaam, specializing in Kiswahili; and a PhD in Kiswahili from SUZA. She is the author of several short stories awaiting publication and has also contributed to short story anthologies, such as her story “Shibe Inatumaliza” in a collection entitled <em>Tumbo Lisiloshiba na Hadithi Nyingine</em> (Longhorn Publishers, 2016).</p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+
+
+                        <div class="container-judges"> 
+                        <img class="left-img" src="img/MAITARIA.jpg" alt="Dr. Maitaria" width="261" height="300">
+                        <p>&nbsp;</p>
+                        <strong> <p> Dr. Joseph Nyehita Maitaria </strong>is a Senior Lecturer and the Chairperson of the Department of Humanities and Languages in the School of Education and Social Sciences (SESS), Karatina University, Kenya. He holds a BA (Education) in Kiswahili and Christian Religious Education (Kenyatta University); MA in Kiswahili (Kenyatta University) and PhD in Kiswahili Literary Genres and Kiswahili Poetry (Kenyatta University). He is a committee member of various Kiswahili associations and is presently the Secretary of the East Africa Kiswahili Association (CHAKAMA) and Kiswahili Scholars Association of Kenya (CHAKITA). An author of Kiswahili books, he has also published widely in academic journals in the area of Kiswahili Poetry.</p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+
+
+                        <div class="container-judges"> 
+                        <img class="left-size" src="img/Babusa.jpg" alt="Dr. Hamisi Babusa" width="261" height="300">
+                        <p>&nbsp;</p>
+                        <strong><p>Dr. Hamisi Babusa</strong> is a Lecturer of Kiswahili and Language Education at Kenyatta University. He has also taught in other universities, among them St. Lawrence University, in Canton, NY, USA. Among his publications are <em>Kamusi Teule</em>, a dictionary of Kiswahili proverbs with their equivalents in English, several short stories and poems in various anthologies. Dr. Babusa has also written children novellas like<em> Binti Kitabu</em> &nbsp;and also <em>Makumba</em>, science fiction series, for which in 2018 he was recognized as one of the top twenty scientists in Kenya.</p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+
+
+                        <div class="container-judges"> 
+                        <img class="left-img" src="img/Rocha.jpg" alt="Prof Rocha Chimerah" width="257" height="224">
+                        <p>&nbsp;</p>
+                        <strong><p>Prof Rocha Chimerah</strong> is a Professor of Kiswahili Linguistics at Pwani University in Kenya. He received his PhD from Ohio University in the USA in 1989, taught in Rwanda for 8 years and has published many papers in refereed journals in East Africa and abroad in the areas of Kiswahili Linguistics, Language and Literature. He has written a number of acclaimed novels and plays. Among his published novels are <em>Nyongo Mkalia Ini</em> and <em>Siri Sirini</em> ( a three-volume sequel). He won the Noma Award in 2000 for his co-authorship of the book <em>Ufundishaji wa Fasihi: Nadharia na Mbinu</em>. His book, <em>Kiswahili: Past, Present and Future Horizon</em> was listed in the 100 Best African Books of the 20<sup>th</sup> Century Award in Harare, Zimbabwe, in 2002.</p>
+                        </div>
+                        <p>&nbsp;</p>
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
                         
@@ -241,10 +259,9 @@ document.addEventListener('DOMContentLoaded', function() {
                         <p>&nbsp;</p>
                         <p><strong>Ngugi Wa Thiong’o Foundation</strong> is powered by the interest and passion to raise the visibility of African Languages in Kenya, Africa and the world, as vehicles for performance, creativity, innovations, and scholarship. It sees African languages as the new intellectual frontier in everything from culture, biological sciences, technology and medicine. <a href="http://ngugiwathiongofoundation.org">http://ngugiwathiongofoundation.org</a></p>
                         <p>&nbsp;</p>
-                        <p><strong>Board of Trustees:</strong> Abdilatif Abdalla (Chair), Mukoma Wa Ngugi, Lizzy Attree, Happiness Bulugu, Walter Bgoya, Henry Chakava, Chege Githiora, Clarissa Vierke, Farouk Topan, Carole Boyce Davies, and Ngugi Wa Thiong’o.</p>
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
-                        <p><strong>The website is</strong>: https://safalkiswahiliawards</p>
+                        <p><strong>The website is</strong>: https://kiswahiliprize.org</p>
                         <p>&nbsp;</p>
                        </div><!-- end .entry-content -->
 		
@@ -535,3 +552,5 @@ document.addEventListener('DOMContentLoaded', function() {
     // Automatically load the Home content when the page is opened
     loadContent('content1');
 });
+
+

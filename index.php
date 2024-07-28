@@ -7,13 +7,21 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
+        <div class="language-switch">
+            <button >English</button>
+            <a href="indexsw.php"><button id="sw-button" class="language-button" onclick="showSwahili()">Kiswahili</button></a>
+        </div>
+
+
     <!-- Header Section -->
     <header>
         <div class="logo">
             <!-- Adjusted logo with position -->
-            <img src="img/LOGO.png" alt="Logo" >
+            <img src="img/LOGO.png" alt="Logo"  >
         </div>
         <!-- Search bar added -->
+         
        
     </header>
     <div class="search-bar">

@@ -36,6 +36,7 @@ header {
 .logo img {
     width: 100px; /* Adjust width as needed */
     height: 110px; /* Adjust height as needed */
+    align-content: center;
 }
 
 .search-bar {
@@ -97,6 +98,11 @@ h2{
     width: 80%;
 }
 
+img {
+    float: left;
+    
+  }
+
 .sidebar {
     width: 25%;
     background-color: #cac8c8;
@@ -147,14 +153,14 @@ h2{
 }
 
 /* Next and previous buttons */
+
 .prev, .next {
     cursor: pointer;
-    position: absolute;
-    top: 50%;
+    position: relative;
+    top: 60%;
     width: auto;
-    padding: 16px;
-    margin-top: -22px;
-    color: white;
+    padding: 8px;
+    color: rgb(36, 35, 35);
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
@@ -226,5 +232,38 @@ h2{
     display: block;
 }
 
+.language-switch {
+    text-align: right;
+    padding: 10px;
+}
+
+.language-switch button {
+    margin: 0 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
 
 
+.container-judges{
+    display: flex;
+    align-items: flex-start;
+}
+
+.left-img{
+    float: left;
+    margin-right: 20px;
+    
+}
+
+@media (max-width:768px){
+    .container-judges{
+        display: block;
+    }
+
+    .left-img{
+        float: none;
+        margin: 0 auto;
+        max-width: 100%;
+        display: block;
+    }
+}
