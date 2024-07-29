@@ -9,7 +9,7 @@
 <body>
 
         <div class="language-switch">
-        <a href="index.php"><button >English</button></a>
+        <a href="../"><button >English</button></a>
         <a href="swahili"><button >Kiswahili</button></a>
         </div>
 
