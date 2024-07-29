@@ -10,7 +10,7 @@
 
         <div class="language-switch">
             <button >English</button>
-            <a href="indexsw.php"><button id="sw-button" class="language-button" onclick="showSwahili()">Kiswahili</button></a>
+            <a href="swahili"><button id="sw-button" class="language-button" onclick="showSwahili()">Kiswahili</button></a>
         </div>
 
 
