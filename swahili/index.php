@@ -10,7 +10,7 @@
 
         <div class="language-switch">
         <a href="../swahili"><button >English</button></a>
-        <a href="../swahili"><button >Kiswahili</button></a>
+        <a href="swahili"><button >Kiswahili</button></a>
         </div>
 
 
