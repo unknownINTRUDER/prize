@@ -183,12 +183,36 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
             <h1 class="entry-title">UTARATIBU WA KUSHIRIKI</h1>
             <p>&nbsp;</p>
-            <div class="slideshow-container">  
-                <img src="" style="width:100%">    
-            </div>
+            <p>&nbsp;</p>
+            <p><strong>WITO WA KUWASILISHA MISWADA KATIKA TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA - KWA MWAKA 2024</strong></p>
+            <p>&nbsp;</p>
+            <p>Dar es Salaam, Tanzania 30 Julai 2024…. Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika hivi leo imewatangazia washiriki kuwasilisha miswada yao kwa ajili ya shindano la mwaka huu wa 2024.<p/>
+            <p>&nbsp;</p>
+            <p>Hapo awali, Tuzo hii ikiitwa Tuzo ya Kiswahili ya Safal-Cornell ya Fasihi ya Afrika. Sasa jina lake limebadilishwa ili kuakisi jina la mdhamini - yaani kampuni ya Safal Group, kupitia kampuni zake tanzu za Mabati Rolling Mills (MRM) ya Kenya, na ALAF Limited ya Tanzania. Safal Group ni kampuni kubwa inayotengeneza vifaa vya ujenzi katika nchi tisa za Afrika ya Mashariki na Kusini, vyenye ubora wa hali ya juu kwa wateja wake mamilioni barani Afrika. Na pia husambaza bidhaa mbalimbali za chapa ambazo zinaaminika sokoni.</p>
+            <p>&nbsp;</p>
+            <p>Uwasilishaji wa miswada kwa mashindano ya mwaka huu unaanza leo tarehe <strong>30 Julai 2024</strong> na kumalizika tarehe <strong>30 Novemba, 2024</strong>. Waandishi kutoka Afrika Mashariki, na popote duniani wanaoandika kwa Kiswahili, wanahimizwa kuwasilisha miswada yao na kushiriki katika mashindano. Kwa mara nyengine tena, waandishi wanawake wanahimizwa nao wajitokeze  Kwa wingi kushiriki katika mashindano haya. </p>
+            <p>&nbsp;</p>
+            <p><img src="img/uwasilishaji.jpg" style="width:100%"></p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
+            <h2>Wanaotaka kushiriki katika shindano la mwaka huu wanahimizwa kuiwasilisha miswada yao  <strong>ambayo haijachapishwa kwa njia yoyote ile</strong> katika tanzu za riwaya, ushairi, mkusanyo wa hadithi fupi, tamthilia, wasifu na riwaya za picha. Vitabu vilivyokwisha chapishwa havitazingatiwa. </h2>
+            <p>&nbsp;</p>
+            <p>Zawadi za jumla ya <strong>Dola 15,000</strong> za Marekani zitatolewa kama ifuatavyo: mshindi wa kwanza katika utanzu wa riwaya na ushairi kila mmojawao atapata <strong>Dola 5,000;</strong> na washindi wa nafasi ya pili katika utanzu wa riwaya au ushairi, au utanzu wowote mwengine, watapata zawadi ya <strong>Dola 2,500 </strong>kila mmoja</p>
+            <p>&nbsp;</p>
+            <p><strong>Miswada itakayoshinda itachapishwa vitabu na kampuni ya uchapishaji ya Mkuki na Nyota Publishers (Tanzania),</strong> ambayo inaweza kushirikiana na wachapishaji wengine ili kurahisisha upatikanaji wa vitabu vilivyoshinda. Vitabu vya miswada ya ushairi itakayoshinda vitafasiriwa kwa Kiingereza na kuchapishwa na Africa Poetry Book Fund</p>
+            <p>&nbsp;</p>
+            <h3>Sherehe ya kuwapa zawadi washindi wa mwaka 2024 itafanyika Julai 2025, na waandishi wote walioorodheshwa watahudhuria.</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            <h2>Mwongozo wa Uwasilishaji:</h2>
+            <p>&nbsp;</p>
+
+            <p>Wanaotaka kushiriki wanaombwa wapeleke miswada yao kwa anwani hii: <a href=kiswahiliprize@kiswahiliprize.org>kiswahiliprize@kiswahiliprize.org</a> Tarehe ya mwisho ya kupokewa miswada ni 30 Novemba, 2024. <strong>Miswada ya riwaya lazima iwe ni baina ya maneno 40,000 hadi 60,000; mkusanyo wa hadithi fupi usizidi maneno 40,000, na kila hadithi isipungue maneno 1,000 na isizidi maneno 6,000; na diwani ya mashairi iwe ni baina ya kurasa 60 na 70.</strong></p>
+            
             `;
             initializeSlideshow();
         } else if (contentId === 'content2') {
