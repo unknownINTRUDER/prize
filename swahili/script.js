@@ -206,7 +206,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
             <h2>Mwongozo wa Uwasilishaji:</h2>
             <p>&nbsp;</p>
@@ -247,11 +246,16 @@ document.addEventListener('DOMContentLoaded', function() {
             `;
         } else if (contentId === 'content5') {
             contentArea.innerHTML = `
-                <h2>Rules of Submission</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:submission@kiswahiliprize.org">submission@kiswahiliprize.org</a> .</p>
-                </div>
+                
+            <h1>Mwongozo wa Uwasilishaji:</h1>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+
+            <h2>Wanaotaka kushiriki wanaombwa wapeleke miswada yao kwa anwani hii: <a href=kiswahiliprize@kiswahiliprize.org>kiswahiliprize@kiswahiliprize.org</a> </h2>
+            <p>&nbsp;</p>
+            <h3>Tarehe ya mwisho ya kupokewa miswada ni 30 Novemba, 2024. <strong>Miswada ya riwaya lazima iwe ni baina ya maneno 40,000 hadi 60,000; mkusanyo wa hadithi fupi usizidi maneno 40,000, na kila hadithi isipungue maneno 1,000 na isizidi maneno 6,000; na diwani ya mashairi iwe ni baina ya kurasa 60 na 70.</strong></h3>
+            
             `;
         } else if (contentId === 'content6') {
             contentArea.innerHTML = `
