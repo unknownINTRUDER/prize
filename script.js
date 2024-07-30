@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>Rules of Submission</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:submission@kiswahiliprize.org">submission@kiswahiliprize.org</a> .</p>
+                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a> .</p>
                 </div>
             `;
         } else if (contentId === 'content6') {
