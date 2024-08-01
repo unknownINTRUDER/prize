@@ -63,21 +63,21 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
               <div class="slideshow-container">
                   <div class="mySlides fade">
-                      <img src="swahili/img/majaliwa.jpg" style="width:100%">
+                      <img src="img/majaliwa.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="swahili/img/2nd-place.jpg" style="width:100%">
+                      <img src="img/2nd-place.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="swahili/img/1st-place.jpg" style="width:100%">
-                  </div>
-
-                  <div class="mySlides fade">
-                      <img src="swahili/img/majaliwa.jpg" style="width:100%">
+                      <img src="img/1st-place.jpg" style="width:100%">
                   </div>
 
                   <div class="mySlides fade">
-                      <img src="swahili/img/dotto.jpg" style="width:100%">
+                      <img src="img/majaliwa.jpg" style="width:100%">
+                  </div>
+
+                  <div class="mySlides fade">
+                      <img src="img/dotto.jpg" style="width:100%">
                   </div>
                   <a class="prev">&#10094;</a>
                   <a class="next">&#10095;</a>
@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
             <p>&nbsp;</p>
             <div class="slideshow-container">  
-                <img src="swahili/img/CALL-FOR-SUBMISSION.jpg" style="width:100%">    
+                <img src="img/CALL-FOR-SUBMISSION.jpg" style="width:100%">    
             </div>
             <p>&nbsp;</p>
             <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 <p>&nbsp;</p>
                 <div class="entry-content">
-                    <p><img class="size-medium wp-image-550" src="swahili/img/prize.jpg" alt="" width="300" height="200"></p>
+                    <p><img class="size-medium wp-image-550" src="img/prize.jpg" alt="" width="300" height="200"></p>
                     <p>&nbsp;</p>
                     <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
                     <p>&nbsp;</p>
@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>Rules of Submission</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a> .</p>
+                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:submission@kiswahiliprize.org">submission@kiswahiliprize.org</a> .</p>
                 </div>
             `;
         } else if (contentId === 'content6') {
@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                         
                         <div class="container-judges"> 
-                        <strong><img src="swahili/img/Aldin.jpg" alt="Aldin" width="261" height="300" class="left-img">
+                        <strong><img src="img/Aldin.jpg" alt="Aldin" width="261" height="300" class="left-img">
                         <p>&nbsp;</p>
                         <p> Prof Aldin K. Mutembei</strong> (BA Ed.; MA Ling (Dar); MA (Lit); PhD (Leiden), holds a Chair as the Mwalimu Julius Nyerere Professor in Kiswahili at the University of Dar es Salaam. He is a former Director of the Institute of Kiswahili Studies; and the current Director of the Confucius Institute at the University of Dar es Salaam. He teaches Kiswahili/African Literature, Communication, Literary Theories and Orature and Kiswahili language to speakers of other languages. He has published four &nbsp;literary works, among which is a novel, <em>Kisiki Kikavu</em>. (E &amp; D Limited, 2005), and a literary theory book, <em>Korasi Katika Fasihi: Nadharia Mpya ya Uhakiki</em> (Institute of Kiswahili Studies, University of Dar es Salaam, 2012).</p>
                         </div>
@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img src="swahili/img/Dr-Salma-Omar-Hamad.jpg" alt="Dr. Salma Omar Hamad" width="261" height="300" class="left-img">
+                        <img src="img/Dr-Salma-Omar-Hamad.jpg" alt="Dr. Salma Omar Hamad" width="261" height="300" class="left-img">
                         <p>&nbsp;</p>
                         <p><strong>Dr. Salma Omar Hamad </strong> was born in Pemba, Zanzibar. She is currently a Lecturer of Kiswahili Literature and Linguistics at The Open University of Tanzania. She did her BA in Education (Hons) at State University of Zanzibar (SUZA); majoring in Kiswahili; MA in Linguistics at the University of &nbsp;Dar es Salaam, specializing in Kiswahili; and a PhD in Kiswahili from SUZA. She is the author of several short stories awaiting publication and has also contributed to short story anthologies, such as her story “Shibe Inatumaliza” in a collection entitled <em>Tumbo Lisiloshiba na Hadithi Nyingine</em> (Longhorn Publishers, 2016).</p>
                         </div>
@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img class="left-img" src="swahili/img/MAITARIA.jpg" alt="Dr. Maitaria" width="261" height="300">
+                        <img class="left-img" src="img/MAITARIA.jpg" alt="Dr. Maitaria" width="261" height="300">
                         <p>&nbsp;</p>
                         <strong> <p> Dr. Joseph Nyehita Maitaria </strong>is a Senior Lecturer and the Chairperson of the Department of Humanities and Languages in the School of Education and Social Sciences (SESS), Karatina University, Kenya. He holds a BA (Education) in Kiswahili and Christian Religious Education (Kenyatta University); MA in Kiswahili (Kenyatta University) and PhD in Kiswahili Literary Genres and Kiswahili Poetry (Kenyatta University). He is a committee member of various Kiswahili associations and is presently the Secretary of the East Africa Kiswahili Association (CHAKAMA) and Kiswahili Scholars Association of Kenya (CHAKITA). An author of Kiswahili books, he has also published widely in academic journals in the area of Kiswahili Poetry.</p>
                         </div>
@@ -216,7 +216,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img class="left-size" src="swahili/img/Babusa.jpg" alt="Dr. Hamisi Babusa" width="261" height="300">
+                        <img class="left-size" src="img/Babusa.jpg" alt="Dr. Hamisi Babusa" width="261" height="300">
                         <p>&nbsp;</p>
                         <strong><p>Dr. Hamisi Babusa</strong> is a Lecturer of Kiswahili and Language Education at Kenyatta University. He has also taught in other universities, among them St. Lawrence University, in Canton, NY, USA. Among his publications are <em>Kamusi Teule</em>, a dictionary of Kiswahili proverbs with their equivalents in English, several short stories and poems in various anthologies. Dr. Babusa has also written children novellas like<em> Binti Kitabu</em> &nbsp;and also <em>Makumba</em>, science fiction series, for which in 2018 he was recognized as one of the top twenty scientists in Kenya.</p>
                         </div>
@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img class="left-img" src="swahili/img/Rocha.jpg" alt="Prof Rocha Chimerah" width="257" height="224">
+                        <img class="left-img" src="img/Rocha.jpg" alt="Prof Rocha Chimerah" width="257" height="224">
                         <p>&nbsp;</p>
                         <strong><p>Prof Rocha Chimerah</strong> is a Professor of Kiswahili Linguistics at Pwani University in Kenya. He received his PhD from Ohio University in the USA in 1989, taught in Rwanda for 8 years and has published many papers in refereed journals in East Africa and abroad in the areas of Kiswahili Linguistics, Language and Literature. He has written a number of acclaimed novels and plays. Among his published novels are <em>Nyongo Mkalia Ini</em> and <em>Siri Sirini</em> ( a three-volume sequel). He won the Noma Award in 2000 for his co-authorship of the book <em>Ufundishaji wa Fasihi: Nadharia na Mbinu</em>. His book, <em>Kiswahili: Past, Present and Future Horizon</em> was listed in the 100 Best African Books of the 20<sup>th</sup> Century Award in Harare, Zimbabwe, in 2002.</p>
                         </div>
@@ -296,7 +296,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 <P>
-<strong><img class=" wp-image-460 alignleft" src="swahili/img/majaliwa.jpg"  width="300" height="224"></a></strong>
+<strong><img class=" wp-image-460 alignleft" src="img/majaliwa.jpg"  width="300" height="224"></a></strong>
 </p>
 
 <p>The Safal Kiswahili Prize for African Literature was founded in 2014 by Dr. Lizzy Attree and Dr. Mukoma Wa Ngugi to recognize writing in African languages and encourage translation from, between, and into African languages.</p>
@@ -308,12 +308,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>
     The 2022 judges; Prof F.E.M.K. Senkoro (chair, Professor Emeritus), Dr. Magdaline Nakhumicha Wafula (Moi University, Kenya), and Dr. Hamisi Babusa (Kenyatta University, Kenya) selected the following and they both received prize money of US $5,000 Dollars each. <p>&nbsp;</p> 
     <strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category. <p>&nbsp;</p> 
-    <strong><img class=" wp-image-460 alignleft" src="swahili/img/dotto.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="img/dotto.jpg"  width="300" height="224"></a></strong>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
 
     <strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.<p>&nbsp;</p>
-    <strong><img class=" wp-image-460 alignleft" src="swahili/img/salum.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="img/salum.jpg"  width="300" height="224"></a></strong>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
 </p>
@@ -345,8 +345,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>The second-place winner in the Fiction category was<strong> Isaac Ndolo </strong>(Kenya) for his manuscript<strong> <em>Wimbo wa Hatima</em></strong> (<strong>The Final Song</strong>), and in the Poetry category was<strong> Ally Bakari Mchanyato </strong>(Tanzania) for his manuscript<strong> Uswahilini. </strong>Each received 2,500 USD.</p>
 <p>&nbsp;</p>
 
-    <strong><img class=" wp-image-460 alignleft" src="swahili/img/Isaac.jpg"  width="300" height="224"></a></strong>
-    <strong><img class=" wp-image-460 alignleft" src="swahili/img/Ally.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="img/Ally.jpg"  width="300" height="224"></a></strong>
 
 
 <p>The winning manuscripts are published by Mkuki na Nyota publishers.</p>
@@ -453,58 +453,74 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
                 <h1 class="entry-title">Trustees</h1>
                 <p>&nbsp;</p> <p>&nbsp;</p>
-                <div class="entry-content">
-			        <p>
-                        <a href="https://kiswahiliprize.cornell.edu/files/2014/11/Mukoma-Jeremy-Weate1-photo-1b3dmh2.png"><img decoding="async" class="wp-image-50 alignleft" src="https://kiswahiliprize.cornell.edu/files/2014/11/Mukoma-Jeremy-Weate1-photo-1b3dmh2.png" alt="Mukoma-Jeremy Weate(1) photo" width="154" height="178"></a> <p></p>
-                        <strong>Mukoma Wa Ngugi, </strong>co-founder,&nbsp;is an Assistant Professor of English at Cornell University and the author of&nbsp;<a title="" href="http://www.amazon.com/Black-Nairobi-Melville-International-Crime/dp/1612192106"><em>Black Star Nairobi</em>&nbsp;</a>(Melville, 2013) and&nbsp;<a title="" href="http://www.penguinbooks.co.za/book/9780143026174/"><em>Nairobi Heat</em></a>&nbsp;(Penguin, SA 2009,&nbsp;<a title="" href="http://mhpbooks.com/books/nairobi-heat/">Melville House Publishing</a>, 2011), and an anthology of poetry titled&nbsp;<a title="" href="http://www.amazon.com/Hurling-Words-Consciousness-Mukoma-Ngugi/dp/1592214630"><em>Hurling Words at Consciousness</em></a>&nbsp;(AWP, 2006). He is a columnist for&nbsp;<a title="" href="http://thisisafrica.me/">This is Africa</a>.&nbsp;Mukoma holds a PhD in English from the University of Wisconsin, Madison, an MA in Creative Writing from Boston University and a BA in English and Political Science from Albright College.&nbsp; In 2013,&nbsp;<em>New African</em>&nbsp;magazine named him one of the 100 most Influential Africans.
-                    </p>
-                    <p>
-                        The German translation of&nbsp;<em>Nairobi Heat</em>&nbsp;was named the 2014 Crime Book of the Season by&nbsp;<a title="" href="http://www.buchmarkt.de/content/59045-die-buchkultur-jury-hat-entschieden-bester-krimi-der-saison-2014-nairobi-heat-von-mukoma-wa-ngugi-.htm">Buchkultur</a>.&nbsp; In 2009, he was shortlisted for the&nbsp;<a title="" href="http://www.caineprize.com/">Caine Prize for African Writing&nbsp;</a>&nbsp;and in 2010 for the&nbsp;<a title="" href="http://www.penguinbooks.co.za/african-winners/index.php">Penguin Prize for African Writing&nbsp;</a>for his novel manuscript,&nbsp;<em>The First and Second Books of Transition</em>. A new novel titled&nbsp;<em>Mrs. Shaw</em>&nbsp;is forthcoming from Ohio U/Swallow Press and&nbsp;<em>Hunting Words with my Father</em>&nbsp;(poems) from the Africa Poetry Fund in 2016. A German translation of&nbsp;<em>Black Star Nairobi</em>&nbsp;is forthcoming in 2015.
-                    </p>
+
+                        <img class="left-img" src="swahili/img/Mukoma.png" alt="Mukoma-Jeremy photo" width="154" height="178">
+                        <p><strong>Mukoma Wa Ngugi, </strong>co-founder,&nbsp;is an Assistant Professor of English at Cornell University and the author of&nbsp;<a title="" href="http://www.amazon.com/Black-Nairobi-Melville-International-Crime/dp/1612192106"><em>Black Star Nairobi</em>&nbsp;</a>(Melville, 2013) and&nbsp;<a title="" href="http://www.penguinbooks.co.za/book/9780143026174/"><em>Nairobi Heat</em></a>&nbsp;(Penguin, SA 2009,&nbsp;<a title="" href="http://mhpbooks.com/books/nairobi-heat/">Melville House Publishing</a>, 2011), and an anthology of poetry titled&nbsp;<a title="" href="http://www.amazon.com/Hurling-Words-Consciousness-Mukoma-Ngugi/dp/1592214630"><em>Hurling Words at Consciousness</em></a>&nbsp;(AWP, 2006). He is a columnist for&nbsp;<a title="" href="http://thisisafrica.me/">This is Africa</a>.&nbsp;Mukoma holds a PhD in English from the University of Wisconsin, Madison, an MA in Creative Writing from Boston University and a BA in English and Political Science from Albright College.&nbsp; In 2013,&nbsp;<em>New African</em>&nbsp;magazine named him one of the 100 most Influential Africans.</p>
+                        <p>The German translation of&nbsp;<em>Nairobi Heat</em>&nbsp;was named the 2014 Crime Book of the Season by&nbsp;<a title="" href="http://www.buchmarkt.de/content/59045-die-buchkultur-jury-hat-entschieden-bester-krimi-der-saison-2014-nairobi-heat-von-mukoma-wa-ngugi-.htm">Buchkultur</a>.&nbsp; In 2009, he was shortlisted for the&nbsp;<a title="" href="http://www.caineprize.com/">Caine Prize for African Writing&nbsp;</a>&nbsp;and in 2010 for the&nbsp;<a title="" href="http://www.penguinbooks.co.za/african-winners/index.php">Penguin Prize for African Writing&nbsp;</a>for his novel manuscript,&nbsp;<em>The First and Second Books of Transition</em>. A new novel titled&nbsp;<em>Mrs. Shaw</em>&nbsp;is forthcoming from Ohio U/Swallow Press and&nbsp;<em>Hunting Words with my Father</em>&nbsp;(poems) from the Africa Poetry Fund in 2016. A German translation of&nbsp;<em>Black Star Nairobi</em>&nbsp;is forthcoming in 2015.</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     
                     
-                    <p>
-                        <strong><a href="https://kiswahiliprize.cornell.edu/files/2014/11/Abdilatif-Abdalla-Nov-12-13-photo-14rtor9.jpg"><img decoding="async" class=" wp-image-112 alignleft" src="https://kiswahiliprize.cornell.edu/files/2014/11/Abdilatif-Abdalla-Nov-12-13-photo-14rtor9-193x300.jpg" alt="Abdilatif Abdalla Nov 12-13 photo" width="135" height="210" srcset="https://kiswahiliprize.cornell.edu/files/2014/11/Abdilatif-Abdalla-Nov-12-13-photo-14rtor9-193x300.jpg 193w, https://kiswahiliprize.cornell.edu/files/2014/11/Abdilatif-Abdalla-Nov-12-13-photo-14rtor9.jpg 282w" sizes="(max-width: 135px) 100vw, 135px"></a> <p></p> Abdilatif Abdalla</strong> is best known for his poetry volume ‘Sauti ya Dhiki’ (Voice of Agony, published in 1973), written in prison in Kenya between 1969-1972. He had been imprisoned for authoring the critical pamphlet ‘Kenya: Twendapi?’ (Kenya: where are we going? 1968), condemning the dictatorial features of Jomo Kenyatta’s KANU rule. Abdalla has also been involved in a multitude of translation and editing projects, between postcolonial novels (Ayi Kwei Armah), Qur’an translations, historic Swahili poetry, and critical academic works, next to being a driving-force in the shaping of a democratic opposition to the Moi-regime from exile in London (with Ngugi et al.) through the 1980s and 1990s.
-                    </p>
+                        <p><img class="left-img" src="swahili/img/Abdilatif.jpg" alt="Abdilatif Abdalla photo" width="135" height="210">
+                        <strong>Abdilatif Abdalla</strong> is best known for his poetry volume ‘Sauti ya Dhiki’ (Voice of Agony, published in 1973), written in prison in Kenya between 1969-1972. He had been imprisoned for authoring the critical pamphlet ‘Kenya: Twendapi?’ (Kenya: where are we going? 1968), condemning the dictatorial features of Jomo Kenyatta’s KANU rule. Abdalla has also been involved in a multitude of translation and editing projects, between postcolonial novels (Ayi Kwei Armah), Qur’an translations, historic Swahili poetry, and critical academic works, next to being a driving-force in the shaping of a democratic opposition to the Moi-regime from exile in London (with Ngugi et al.) through the 1980s and 1990s.</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    
-                    <p>
-                        <strong><a href="https://kiswahiliprize.cornell.edu/files/2014/11/WalterBgoya3-1qni2m8.jpeg"><img loading="lazy" decoding="async" class=" wp-image-194 alignleft" src="https://kiswahiliprize.cornell.edu/files/2014/11/WalterBgoya3-1qni2m8-300x297.jpeg" alt="WalterBgoya3" width="197" height="195" srcset="https://kiswahiliprize.cornell.edu/files/2014/11/WalterBgoya3-1qni2m8-300x297.jpeg 300w, https://kiswahiliprize.cornell.edu/files/2014/11/WalterBgoya3-1qni2m8-120x120.jpeg 120w, https://kiswahiliprize.cornell.edu/files/2014/11/WalterBgoya3-1qni2m8.jpeg 438w" sizes="(max-width: 197px) 100vw, 197px"></a> <p></p> Walter Bgoya,</strong> 1972 to 1990 Walter Bgoya directed the Tanzania Publishing House (TPH), which promoted Dar es Salaam as a progressive centre for intellectuals internationally. The TPH publications included Walter Rodney’s “How Europe Underdeveloped Africa”,Agostinho Neto’s “Sacred Hope”,Samora Machel’s “Establishing People’s Power to Serve the Masses,” and Issa Shivji’s “Class Struggle in Tanzania”. In 1991 Bgoya founded Mkuki na Nyota, an independent book publishing company based in Dar es Salaam. Bgoya said, in response to the general absence of independent scholarly publishing in Tanzania: “We are proud to publish relevant, beautiful, and affordable books, and place them in the hands of passionate readers in Tanzania and around the world.” Mkuki na Nyota books, children’s books, trade books and educational books, in both English and Kiswahili. This publisher actively translates literature into Kiswahili, including books like The Little Prince from the original French. Bgoya is a founding member of the African Books Collective, a collective owned and governed by African publishers. Mkuki na Nyota also works with NGOs to promote reading and education in Tanzania. Bgoya is a also a founding member of the African Publishers Network and was the Chairperson of the jury for the prestigious NOMA Award for Publishing in Africa. Walter Bgoya has delivered numerous papers on the themes of reading, writing, publishing and the quest for an authentic African voice in the literary world.
-                    </p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     
-                    
-                    <p>
-                        <strong><a href="https://kiswahiliprize.cornell.edu/files/2014/11/Boyce-Davies-photo-for-site-2gou2dl.jpg"><img loading="lazy" decoding="async" class="size-full wp-image-190 alignleft" src="https://kiswahiliprize.cornell.edu/files/2014/11/Boyce-Davies-photo-for-site-2gou2dl.jpg" alt="Boyce Davies photo for site" width="161" height="240"></a><p></p>Carole Boyce-Davies </strong><strong>is</strong> Professor of Africana Studies and English at Cornell University. Her most recently published book <i>Caribbean Spaces. Escape Routes from Twilight Zones</i>, dealing with the issue of internationalizing Caribbean culture was long listed for the BOCA Prize in non-fiction. Born in Trinidad and Tobago, she studied African Literature at the University of Ibadan. Of several visiting professorships and Fulbright teaching and research fellowships, her Fall, 2014 distinguished visiting professorship at Beijing Foreign Studies University, Beijing, China is one of the most memorable. &nbsp;She is the author of the prize-wining <i>Left of Karl Marx. The Political Life of Black Communist Claudia Jones</i> (Duke University Press, 2008) and <i>Black Women, Writing and Identity: Migrations of the Subject </i>(Routledge, 1994) and over 100 published journal articles and book chapters. Dr. Boyce Davies has also published the following critical editions<i>: Ngambika. Studies of Women in African Literature</i> (Africa World Press, 1986); <i>Out of the Kumbla. Caribbean Women and Literature</i> (Africa World Press, 1990); a two-volume collection of critical and creative writing entitled <i>Moving Beyond Boundaries</i> (New York University Press, 1995<i>): International Dimensions of Black Women’s Writing </i>(volume 1), and <i>Black Women’s Diasporas</i> (volume 2) and<i> Claudia Jones</i> <i>Beyond Containment: Autobiographical Reflections, Poetry, Essays </i>(Banbury: Ayebia, 2011). Her work specifically on the African diaspora include: <i>The African Diaspora: African Origins and New World Identities</i> (with Ali Mazrui and Isidore Okpewho, Indiana University Press, 1999); <i>Decolonizing the Academy. African Diaspora Studies</i> (Africa World Press, 2003) and serving as the general editor of the 3-volume <i>The Encyclopedia of the African Diaspora </i>(Oxford: ABC-CLIO, 2008). &nbsp;She is working on a new book project on “Black Women and Political Leadership in the African Diaspora.”
-                    </p>
+
+                        <img class="left-img" src="swahili/img/WalterBgoya.jpeg" alt="WalterBgoya3" width="197" height="195">
+                        <p><strong>Walter Bgoya,</strong> 1972 to 1990 Walter Bgoya directed the Tanzania Publishing House (TPH), which promoted Dar es Salaam as a progressive centre for intellectuals internationally. The TPH publications included Walter Rodney’s “How Europe Underdeveloped Africa”,Agostinho Neto’s “Sacred Hope”,Samora Machel’s “Establishing People’s Power to Serve the Masses,” and Issa Shivji’s “Class Struggle in Tanzania”. In 1991 Bgoya founded Mkuki na Nyota, an independent book publishing company based in Dar es Salaam. Bgoya said, in response to the general absence of independent scholarly publishing in Tanzania: “We are proud to publish relevant, beautiful, and affordable books, and place them in the hands of passionate readers in Tanzania and around the world.” Mkuki na Nyota books, children’s books, trade books and educational books, in both English and Kiswahili. This publisher actively translates literature into Kiswahili, including books like The Little Prince from the original French. Bgoya is a founding member of the African Books Collective, a collective owned and governed by African publishers. Mkuki na Nyota also works with NGOs to promote reading and education in Tanzania. Bgoya is a also a founding member of the African Publishers Network and was the Chairperson of the jury for the prestigious NOMA Award for Publishing in Africa. Walter Bgoya has delivered numerous papers on the themes of reading, writing, publishing and the quest for an authentic African voice in the literary world.</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     
-                    <p><b><a href="https://kiswahiliprize.cornell.edu/files/2014/11/Chege-Githiora-photo-rya1ao.png"><img loading="lazy" decoding="async" class=" wp-image-114 alignleft" src="https://kiswahiliprize.cornell.edu/files/2014/11/Chege-Githiora-photo-rya1ao-300x224.png" alt="Chege Githiora photo" width="126" height="94" srcset="https://kiswahiliprize.cornell.edu/files/2014/11/Chege-Githiora-photo-rya1ao-300x224.png 300w, https://kiswahiliprize.cornell.edu/files/2014/11/Chege-Githiora-photo-rya1ao.png 728w" sizes="(max-width: 126px) 100vw, 126px"></a></b></p>
-                    <p><b>Chege Githiora </b>is a<b> </b>Senior Lecturer in Swahili in the department of the languages and cultures of Africa, at the School of Oriental and African Studies (SOAS), University of London. He was born and raised in Kenya, then studied in Mexico and USA where he also taught Swahili language and literature at El Colegio de Mexico, Boston University, and Michigan State University from where he graduated with a PhD in Linguistics, in 1999. He writes and translates from and into Gĩkũyũ, English, Swahili and Spanish. His research Interests and publications are in the areas of multilingualism, variation in language, urban youth codes, Spanish language and Afro-Latin American culture and society, lexicography and translation. He also teaches and researches on the structure of Bantu Languages with focus on Gĩkũyũ and Kiswahili.</p>
+                    
+                        <img class="left-img" src="swahili/img/Boyce-Davies.jpg" alt="Boyce Davies photo for site" width="161" height="240">
+                        <p><>strong>Carole Boyce-Davies </strong>is Professor of Africana Studies and English at Cornell University. Her most recently published book <i>Caribbean Spaces. Escape Routes from Twilight Zones</i>, dealing with the issue of internationalizing Caribbean culture was long listed for the BOCA Prize in non-fiction. Born in Trinidad and Tobago, she studied African Literature at the University of Ibadan. Of several visiting professorships and Fulbright teaching and research fellowships, her Fall, 2014 distinguished visiting professorship at Beijing Foreign Studies University, Beijing, China is one of the most memorable. &nbsp;She is the author of the prize-wining <i>Left of Karl Marx. The Political Life of Black Communist Claudia Jones</i> (Duke University Press, 2008) and <i>Black Women, Writing and Identity: Migrations of the Subject </i>(Routledge, 1994) and over 100 published journal articles and book chapters. Dr. Boyce Davies has also published the following critical editions<i>: Ngambika. Studies of Women in African Literature</i> (Africa World Press, 1986); <i>Out of the Kumbla. Caribbean Women and Literature</i> (Africa World Press, 1990); a two-volume collection of critical and creative writing entitled <i>Moving Beyond Boundaries</i> (New York University Press, 1995<i>): International Dimensions of Black Women’s Writing </i>(volume 1), and <i>Black Women’s Diasporas</i> (volume 2) and<i> Claudia Jones</i> <i>Beyond Containment: Autobiographical Reflections, Poetry, Essays </i>(Banbury: Ayebia, 2011). Her work specifically on the African diaspora include: <i>The African Diaspora: African Origins and New World Identities</i> (with Ali Mazrui and Isidore Okpewho, Indiana University Press, 1999); <i>Decolonizing the Academy. African Diaspora Studies</i> (Africa World Press, 2003) and serving as the general editor of the 3-volume <i>The Encyclopedia of the African Diaspora </i>(Oxford: ABC-CLIO, 2008). &nbsp;She is working on a new book project on “Black Women and Political Leadership in the African Diaspora.”</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     
-                    <p><strong><a href="https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790.jpg"><img loading="lazy" decoding="async" class="size-medium wp-image-496 alignleft" src="https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790-300x200.jpg" alt="Sarit Shah " width="300" height="200" srcset="https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790-300x200.jpg 300w, https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790-1024x683.jpg 1024w, https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790-768x512.jpg 768w, https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790-1536x1024.jpg 1536w, https://kiswahiliprize.cornell.edu/files/2021/12/IMG_7790.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px"></a>Sarit Shah </strong>Born and schooled in Kenya, qualified in the UK and USA, Sarit is a British Citizen residing permanently in South Africa to manage the Safal Group’s widely spread business interests.</p>
-                    <p>Sarit has extensive experience in business leadership and development, and is currently fully occupied in managing his wide business role within the Safal Group, a market leader in the Roofing &amp; Steel Industry in most countries in Eastern and Southern Africa, and India.</p>
-                    <p>After graduating with a BSc (Hons) in Electrical and Electronic Engineering from Manchester University in 1988, Sarit gained brief work experience in the UK before embarking on a full time MBA through the University of Rochester, New York, USA. On completion in 1991 he moved to Uganda to start a business importing and stocking to sell building products. This ultimately led to his relocation to South Africa in 1996, and the commencement of his journey at the Safal Group in various leadership roles as below.</p>
+                        <img class="left-img" src="swahili/img/Chege.png" alt="Chege Githiora photo" width="126" height="94"  300w, 728w">
+                        <p><b>Chege Githiora </b>is a<b> </b>Senior Lecturer in Swahili in the department of the languages and cultures of Africa, at the School of Oriental and African Studies (SOAS), University of London. He was born and raised in Kenya, then studied in Mexico and USA where he also taught Swahili language and literature at El Colegio de Mexico, Boston University, and Michigan State University from where he graduated with a PhD in Linguistics, in 1999. He writes and translates from and into Gĩkũyũ, English, Swahili and Spanish. His research Interests and publications are in the areas of multilingualism, variation in language, urban youth codes, Spanish language and Afro-Latin American culture and society, lexicography and translation. He also teaches and researches on the structure of Bantu Languages with focus on Gĩkũyũ and Kiswahili.</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                     
-                    <p><a href="https://kiswahiliprize.cornell.edu/files/2014/11/Ngugi-Wa-Thiongo-photo-1nnfumc.jpg"><img loading="lazy" decoding="async" class=" wp-image-51 alignleft" src="https://kiswahiliprize.cornell.edu/files/2014/11/Ngugi-Wa-Thiongo-photo-1nnfumc.jpg" alt="Ngugi Wa Thiong'o photo" width="135" height="203"></a><b>Ngugi wa Thiong’o</b> teaches in the Departments of Comparative Literature and English at the University of California, Irvine. Born in Kenya, into a large peasant family, he was educated at Kamandura, Manguu and Kinyogori primary schools and Alliance High School, all in Kenya; Makerere University College (then a campus of London University), Kampala, Uganda; and the University of Leeds, Britain. He is recipient of seven Honorary Doctorates. A many-sided intellectual, he is novelist, essayist, playwright, journalist, editor, academic and social activist. Ngũgĩ burst onto the literary scene in East Africa with the performance of his first major play, <i>The Black Hermit</i>, at the National Theatre in Kampala. He is the author of <i>Petals of Blood</i>, <i>Decolonising the Mind</i>, and other books. He is the recipient of the <a href="http://en.wikipedia.org/wiki/Lotus_Prize_for_Literature">Lotus Prize for Literature</a> and <a href="http://en.wikipedia.org/wiki/Nonino#International_Nonino_Prize">Nonino International Prize for Literature</a>; he was nominated for the prestigious&nbsp;<a href="http://en.wikipedia.org/wiki/Man_Booker_International_Prize">Man Booker International Prize</a>. In 2012, he was awarded a&nbsp;<a href="http://en.wikipedia.org/wiki/National_Book_Critics_Circle_Award">National Book Critics Circle Award</a> for&nbsp;<i>In the House of the Interpreter</i>, as well as the 2014&nbsp;<a href="http://en.wikipedia.org/w/index.php?title=Nicol%C3%A1s_Guill%C3%A9n_Lifetime_Achievement_Award_for_Philosophical_Literature&amp;action=edit&amp;redlink=1">Nicolás Guillén Lifetime Achievement Award for Philosophical Literature</a>. In 2010 and 2014, he was a finalist for the Nobel Prize for Literature.</p>
+                        <img class="left-img" src="swahili/img/sarit.jpg" alt="Sarit Shah " width="300" height="200">
+                        <strong>Sarit Shah </strong>Born and schooled in Kenya, qualified in the UK and USA, Sarit is a British Citizen residing permanently in South Africa to manage the Safal Group’s widely spread business interests.</p>
+                        <p>Sarit has extensive experience in business leadership and development, and is currently fully occupied in managing his wide business role within the Safal Group, a market leader in the Roofing &amp; Steel Industry in most countries in Eastern and Southern Africa, and India.</p>
+                        <p>After graduating with a BSc (Hons) in Electrical and Electronic Engineering from Manchester University in 1988, Sarit gained brief work experience in the UK before embarking on a full time MBA through the University of Rochester, New York, USA. On completion in 1991 he moved to Uganda to start a business importing and stocking to sell building products. This ultimately led to his relocation to South Africa in 1996, and the commencement of his journey at the Safal Group in various leadership roles as below.</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
                     
-                    <p><a href="https://kiswahiliprize.cornell.edu/files/2021/12/farouk-topan.jpg"><img loading="lazy" decoding="async" class="wp-image-486 alignleft" src="https://kiswahiliprize.cornell.edu/files/2021/12/farouk-topan.jpg" alt="Dr Farouk Topan" width="134" height="205"></a><strong>Dr. Farouk Topan</strong> is a prominent Swahili scholar and writer who pioneered the study and teaching of Swahili literature in Kiswahili at the University of Dar-es-Salaam and the University of Nairobi. He has published widely on various aspects of Swahili literature, religion, spirit possession and identity in East Africa.</p>
-                    <p>Dr. Topan taught at SOAS and was one of the founder editors of the departmental Journal of African Cultural Studies (JACS). He has also been teaching at the Aga Khan University Institute for the Study of Muslim Civilizations.​</p>
+                        <img class="left-img" src="swahili/img/Ngugi.jpg" alt="Ngugi Wa Thiong'o photo" width="135" height="203">
+                        <p><b>Ngugi wa Thiong’o</b> teaches in the Departments of Comparative Literature and English at the University of California, Irvine. Born in Kenya, into a large peasant family, he was educated at Kamandura, Manguu and Kinyogori primary schools and Alliance High School, all in Kenya; Makerere University College (then a campus of London University), Kampala, Uganda; and the University of Leeds, Britain. He is recipient of seven Honorary Doctorates. A many-sided intellectual, he is novelist, essayist, playwright, journalist, editor, academic and social activist. Ngũgĩ burst onto the literary scene in East Africa with the performance of his first major play, <i>The Black Hermit</i>, at the National Theatre in Kampala. He is the author of <i>Petals of Blood</i>, <i>Decolonising the Mind</i>, and other books. He is the recipient of the <a href="http://en.wikipedia.org/wiki/Lotus_Prize_for_Literature">Lotus Prize for Literature</a> and <a href="http://en.wikipedia.org/wiki/Nonino#International_Nonino_Prize">Nonino International Prize for Literature</a>; he was nominated for the prestigious&nbsp;<a href="http://en.wikipedia.org/wiki/Man_Booker_International_Prize">Man Booker International Prize</a>. In 2012, he was awarded a&nbsp;<a href="http://en.wikipedia.org/wiki/National_Book_Critics_Circle_Award">National Book Critics Circle Award</a> for&nbsp;<i>In the House of the Interpreter</i>, as well as the 2014&nbsp;<a href="http://en.wikipedia.org/w/index.php?title=Nicol%C3%A1s_Guill%C3%A9n_Lifetime_Achievement_Award_for_Philosophical_Literature&amp;action=edit&amp;redlink=1">Nicolás Guillén Lifetime Achievement Award for Philosophical Literature</a>. In 2010 and 2014, he was a finalist for the Nobel Prize for Literature.</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+
+                        <img class="left-img" src="swahili/img/farouk-topan.jpg" alt="Dr Farouk Topan" width="134" height="205">
+                        <p><strong>Dr. Farouk Topan</strong> is a prominent Swahili scholar and writer who pioneered the study and teaching of Swahili literature in Kiswahili at the University of Dar-es-Salaam and the University of Nairobi. He has published widely on various aspects of Swahili literature, religion, spirit possession and identity in East Africa.</p>
+                        <p>Dr. Topan taught at SOAS and was one of the founder editors of the departmental Journal of African Cultural Studies (JACS). He has also been teaching at the Aga Khan University Institute for the Study of Muslim Civilizations.​</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+
+                    <img class="left-img" src="swahili/img/Vierke-1-261x300.jpg" alt="Clarissa Vierke" width="158" height="182">
+                    <p><strong>Clarissa Vierke </strong>is professor of Literatures in African Languages at the University of Bayreuth. She loves Swahili language and literature. When she was still a student of African languages and literatures more than twenty years ago, she started to help to organizing the annual Bayreuth Swahili Colloquium and she still runs it every year. Her research has mostly focused on old, pre-colonial Swahili poetry which has been preserved in Arabic script. In recent years, she has concentrated on some of these manuscripts which have travelled widely all along the East African Coast and can be found in Kenya, Tanzania as well as Mozambique. Together with colleagues from Francophone and comparative literature, she has a research project on the networks of literature and arts, linking various countries and parts of the Indian Ocean. Clarissa Vierke is principal investigator of the Cluster of excellence “Africa Multiple. Reconfiguring African Studies” and the spokesperson of the research section Arts and Aesthetics. Together with colleagues from Leipzig and Cologne in Germany, Stellenbosch (South Africa), Wukari (Nigeria) and Eldoret (Kenya), she set up the project “Recalibrating Afrikanistik” funded by the Volkswagen foundation with the aim to plan the future of the study of African languages and literatures.</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                     
-                    <p><strong><a href="https://kiswahiliprize.cornell.edu/files/2021/08/Vierke-1.jpg"><img loading="lazy" decoding="async" class="wp-image-454 alignleft" src="https://kiswahiliprize.cornell.edu/files/2021/08/Vierke-1-261x300.jpg" alt="Clarissa Vierke" width="158" height="182" srcset="https://kiswahiliprize.cornell.edu/files/2021/08/Vierke-1-261x300.jpg 261w, https://kiswahiliprize.cornell.edu/files/2021/08/Vierke-1.jpg 450w" sizes="(max-width: 158px) 100vw, 158px"></a>Clarissa Vierke </strong>is professor of Literatures in African Languages at the University of Bayreuth. She loves Swahili language and literature. When she was still a student of African languages and literatures more than twenty years ago, she started to help to organizing the annual Bayreuth Swahili Colloquium and she still runs it every year. Her research has mostly focused on old, pre-colonial Swahili poetry which has been preserved in Arabic script. In recent years, she has concentrated on some of these manuscripts which have travelled widely all along the East African Coast and can be found in Kenya, Tanzania as well as Mozambique. Together with colleagues from Francophone and comparative literature, she has a research project on the networks of literature and arts, linking various countries and parts of the Indian Ocean. Clarissa Vierke is principal investigator of the Cluster of excellence “Africa Multiple. Reconfiguring African Studies” and the spokesperson of the research section Arts and Aesthetics. Together with colleagues from Leipzig and Cologne in Germany, Stellenbosch (South Africa), Wukari (Nigeria) and Eldoret (Kenya), she set up the project “Recalibrating Afrikanistik” funded by the Volkswagen foundation with the aim to plan the future of the study of African languages and literatures.</p>
-                    <p>Additional trustees will be announced.</p>
+                    <h2>Additional trustees will be announced.</h2>
 		        </div>
             `;
         }
