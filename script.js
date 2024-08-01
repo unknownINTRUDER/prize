@@ -63,21 +63,21 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
               <div class="slideshow-container">
                   <div class="mySlides fade">
-                      <img src="img/majaliwa.jpg" style="width:100%">
+                      <img src="swahili/img/majaliwa.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/2nd-place.jpg" style="width:100%">
+                      <img src="swahili/img/2nd-place.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/1st-place.jpg" style="width:100%">
-                  </div>
-
-                  <div class="mySlides fade">
-                      <img src="img/majaliwa.jpg" style="width:100%">
+                      <img src="swahili/img/1st-place.jpg" style="width:100%">
                   </div>
 
                   <div class="mySlides fade">
-                      <img src="img/dotto.jpg" style="width:100%">
+                      <img src="swahili/img/majaliwa.jpg" style="width:100%">
+                  </div>
+
+                  <div class="mySlides fade">
+                      <img src="swahili/img/dotto.jpg" style="width:100%">
                   </div>
                   <a class="prev">&#10094;</a>
                   <a class="next">&#10095;</a>
@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
             <p>&nbsp;</p>
             <div class="slideshow-container">  
-                <img src="img/CALL-FOR-SUBMISSION.jpg" style="width:100%">    
+                <img src="swahili/img/CALL-FOR-SUBMISSION.jpg" style="width:100%">    
             </div>
             <p>&nbsp;</p>
             <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 <p>&nbsp;</p>
                 <div class="entry-content">
-                    <p><img class="size-medium wp-image-550" src="img/prize.jpg" alt="" width="300" height="200"></p>
+                    <p><img class="size-medium wp-image-550" src="swahili/img/prize.jpg" alt="" width="300" height="200"></p>
                     <p>&nbsp;</p>
                     <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
                     <p>&nbsp;</p>
@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                         
                         <div class="container-judges"> 
-                        <strong><img src="img/Aldin.jpg" alt="Aldin" width="261" height="300" class="left-img">
+                        <strong><img src="swahili/img/Aldin.jpg" alt="Aldin" width="261" height="300" class="left-img">
                         <p>&nbsp;</p>
                         <p> Prof Aldin K. Mutembei</strong> (BA Ed.; MA Ling (Dar); MA (Lit); PhD (Leiden), holds a Chair as the Mwalimu Julius Nyerere Professor in Kiswahili at the University of Dar es Salaam. He is a former Director of the Institute of Kiswahili Studies; and the current Director of the Confucius Institute at the University of Dar es Salaam. He teaches Kiswahili/African Literature, Communication, Literary Theories and Orature and Kiswahili language to speakers of other languages. He has published four &nbsp;literary works, among which is a novel, <em>Kisiki Kikavu</em>. (E &amp; D Limited, 2005), and a literary theory book, <em>Korasi Katika Fasihi: Nadharia Mpya ya Uhakiki</em> (Institute of Kiswahili Studies, University of Dar es Salaam, 2012).</p>
                         </div>
@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img src="img/Dr-Salma-Omar-Hamad.jpg" alt="Dr. Salma Omar Hamad" width="261" height="300" class="left-img">
+                        <img src="swahili/img/Dr-Salma-Omar-Hamad.jpg" alt="Dr. Salma Omar Hamad" width="261" height="300" class="left-img">
                         <p>&nbsp;</p>
                         <p><strong>Dr. Salma Omar Hamad </strong> was born in Pemba, Zanzibar. She is currently a Lecturer of Kiswahili Literature and Linguistics at The Open University of Tanzania. She did her BA in Education (Hons) at State University of Zanzibar (SUZA); majoring in Kiswahili; MA in Linguistics at the University of &nbsp;Dar es Salaam, specializing in Kiswahili; and a PhD in Kiswahili from SUZA. She is the author of several short stories awaiting publication and has also contributed to short story anthologies, such as her story “Shibe Inatumaliza” in a collection entitled <em>Tumbo Lisiloshiba na Hadithi Nyingine</em> (Longhorn Publishers, 2016).</p>
                         </div>
@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img class="left-img" src="img/MAITARIA.jpg" alt="Dr. Maitaria" width="261" height="300">
+                        <img class="left-img" src="swahili/img/MAITARIA.jpg" alt="Dr. Maitaria" width="261" height="300">
                         <p>&nbsp;</p>
                         <strong> <p> Dr. Joseph Nyehita Maitaria </strong>is a Senior Lecturer and the Chairperson of the Department of Humanities and Languages in the School of Education and Social Sciences (SESS), Karatina University, Kenya. He holds a BA (Education) in Kiswahili and Christian Religious Education (Kenyatta University); MA in Kiswahili (Kenyatta University) and PhD in Kiswahili Literary Genres and Kiswahili Poetry (Kenyatta University). He is a committee member of various Kiswahili associations and is presently the Secretary of the East Africa Kiswahili Association (CHAKAMA) and Kiswahili Scholars Association of Kenya (CHAKITA). An author of Kiswahili books, he has also published widely in academic journals in the area of Kiswahili Poetry.</p>
                         </div>
@@ -216,7 +216,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img class="left-size" src="img/Babusa.jpg" alt="Dr. Hamisi Babusa" width="261" height="300">
+                        <img class="left-size" src="swahili/img/Babusa.jpg" alt="Dr. Hamisi Babusa" width="261" height="300">
                         <p>&nbsp;</p>
                         <strong><p>Dr. Hamisi Babusa</strong> is a Lecturer of Kiswahili and Language Education at Kenyatta University. He has also taught in other universities, among them St. Lawrence University, in Canton, NY, USA. Among his publications are <em>Kamusi Teule</em>, a dictionary of Kiswahili proverbs with their equivalents in English, several short stories and poems in various anthologies. Dr. Babusa has also written children novellas like<em> Binti Kitabu</em> &nbsp;and also <em>Makumba</em>, science fiction series, for which in 2018 he was recognized as one of the top twenty scientists in Kenya.</p>
                         </div>
@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
                         <div class="container-judges"> 
-                        <img class="left-img" src="img/Rocha.jpg" alt="Prof Rocha Chimerah" width="257" height="224">
+                        <img class="left-img" src="swahili/img/Rocha.jpg" alt="Prof Rocha Chimerah" width="257" height="224">
                         <p>&nbsp;</p>
                         <strong><p>Prof Rocha Chimerah</strong> is a Professor of Kiswahili Linguistics at Pwani University in Kenya. He received his PhD from Ohio University in the USA in 1989, taught in Rwanda for 8 years and has published many papers in refereed journals in East Africa and abroad in the areas of Kiswahili Linguistics, Language and Literature. He has written a number of acclaimed novels and plays. Among his published novels are <em>Nyongo Mkalia Ini</em> and <em>Siri Sirini</em> ( a three-volume sequel). He won the Noma Award in 2000 for his co-authorship of the book <em>Ufundishaji wa Fasihi: Nadharia na Mbinu</em>. His book, <em>Kiswahili: Past, Present and Future Horizon</em> was listed in the 100 Best African Books of the 20<sup>th</sup> Century Award in Harare, Zimbabwe, in 2002.</p>
                         </div>
@@ -296,7 +296,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 <P>
-<strong><img class=" wp-image-460 alignleft" src="img/majaliwa.jpg"  width="300" height="224"></a></strong>
+<strong><img class=" wp-image-460 alignleft" src="swahili/img/majaliwa.jpg"  width="300" height="224"></a></strong>
 </p>
 
 <p>The Safal Kiswahili Prize for African Literature was founded in 2014 by Dr. Lizzy Attree and Dr. Mukoma Wa Ngugi to recognize writing in African languages and encourage translation from, between, and into African languages.</p>
@@ -308,12 +308,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>
     The 2022 judges; Prof F.E.M.K. Senkoro (chair, Professor Emeritus), Dr. Magdaline Nakhumicha Wafula (Moi University, Kenya), and Dr. Hamisi Babusa (Kenyatta University, Kenya) selected the following and they both received prize money of US $5,000 Dollars each. <p>&nbsp;</p> 
     <strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category. <p>&nbsp;</p> 
-    <strong><img class=" wp-image-460 alignleft" src="img/dotto.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="swahili/img/dotto.jpg"  width="300" height="224"></a></strong>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
 
     <strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.<p>&nbsp;</p>
-    <strong><img class=" wp-image-460 alignleft" src="img/salum.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="swahili/img/salum.jpg"  width="300" height="224"></a></strong>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
 </p>
@@ -345,8 +345,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>The second-place winner in the Fiction category was<strong> Isaac Ndolo </strong>(Kenya) for his manuscript<strong> <em>Wimbo wa Hatima</em></strong> (<strong>The Final Song</strong>), and in the Poetry category was<strong> Ally Bakari Mchanyato </strong>(Tanzania) for his manuscript<strong> Uswahilini. </strong>Each received 2,500 USD.</p>
 <p>&nbsp;</p>
 
-    <strong><img class=" wp-image-460 alignleft" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
-    <strong><img class=" wp-image-460 alignleft" src="img/Ally.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="swahili/img/Isaac.jpg"  width="300" height="224"></a></strong>
+    <strong><img class=" wp-image-460 alignleft" src="swahili/img/Ally.jpg"  width="300" height="224"></a></strong>
 
 
 <p>The winning manuscripts are published by Mkuki na Nyota publishers.</p>
