@@ -90,14 +90,29 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
             <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
             <p>&nbsp;</p>
-            <div class="slideshow-container">  
-                <img src="img/CALL-FOR-SUBMISSION.jpg" style="width:100%">    
-            </div>
+
+            <p>Dar es Salaam, Tanzania, July 30, 2024... <b>The Safal Kiswahili African Literature Prize</b> today announced that participants should submit their manuscripts for this year’s 2024 competition.</p>
             <p>&nbsp;</p>
+            <p>Previously known as the Safal-Cornell Kiswahili African Literature Prize, its name has now been changed to reflect the sponsor's name - namely Safal Group, through its subsidiaries<b> Mabati Rolling Mills (MRM)</b> of Kenya and <b>ALAF Limited</b> of Tanzania. Safal Group is a leading company manufacturing high-quality building materials in nine East and Southern African countries, providing superior products to millions of customers across Africa. It also distributes a variety of trusted brand products in the market.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+                <img src="img/call-for-submission-english.JPG" style="width:100%">    
+            <p>&nbsp;</p>
+
+
+
             <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
             <p>&nbsp;</p>
-            <p>The Safal Kiswahili Prize for African Literature has today announced the call for submissions of manuscripts for its 9<sup>th</sup> edition. The prize, formerly knowns as The Safal-Cornell Kiswahili Prize for Africa Literature re-branded its name to reflect the parent organization and main sponsor, the Safal Group Limited, with its member companies Mabati Rolling Mills (MRM) in Kenya and ALAF (ALAF) in Tanzania.&nbsp; The Safal Group is Africa’s largest supplier of building solutions in in 8 countries.</p>
-            <p>&nbsp;</p>
+        <p>Submissions for this year's competition begin today,<b> July 30, 2024</b>, and end on <b>November 30, 2024.</b> Writers from East Africa and anywhere in the world who write in Kiswahili are encouraged to submit their manuscripts and participate in the competition. Once again, female writers are especially encouraged to come forward and participate in large numbers.</p>
+        <p>&nbsp;</p>
+        <p>Those wishing to participate in this year's competition are encouraged to submit manuscripts that have not been published in any form in the categories of novel, poetry, short story collection, drama, biography, and graphic novels. Published books will not be considered.</p>
+        <p>&nbsp;</p>
+        <p>Total prizes of <b>$15,000</b> will be awarded as follows: the first-place winner in the novel and poetry categories will each receive<b> $5,000</b>; and the second-place winners in the novel or poetry categories, or any other category, will receive <b>$2,500</b> each.</p>
+        <p>&nbsp;</p>
+        <p>The winning manuscripts will be published by Mkuki na Nyota Publishers (Tanzania), which may collaborate with other publishers to facilitate the availability of the winning books. The poetry manuscripts that win will be translated into English and published by the Africa Poetry Book Fund.</p>
+        <p>&nbsp;</p>
+        <p><b>The award ceremony for the 2024 winners will take place in July 2025, and all shortlisted authors will attend.</b></p>            <p>&nbsp;</p>
             `;
             initializeSlideshow();
         } else if (contentId === 'content2') {
