@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>&nbsp;</p>
             <p>Uwasilishaji wa miswada kwa mashindano ya mwaka huu unaanza leo tarehe <strong>30 Julai 2024</strong> na kumalizika tarehe <strong>30 Novemba, 2024</strong>. Waandishi kutoka Afrika Mashariki, na popote duniani wanaoandika kwa Kiswahili, wanahimizwa kuwasilisha miswada yao na kushiriki katika mashindano. Kwa mara nyengine tena, waandishi wanawake wanahimizwa nao wajitokeze  Kwa wingi kushiriki katika mashindano haya. </p>
             <p>&nbsp;</p>
-            <p><img src="img/uwasilishaji.jpg" style="width:100%"></p>
+            <p><img src="img/submission-swahili" style="width:100%"></p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
