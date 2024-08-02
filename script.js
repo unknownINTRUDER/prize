@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>&nbsp;</p>
             <p>&nbsp;</p>
 
-                <img src="img/call-for-submission-english.JPG" style="width:100%">    
+                <img src="swahili/img/call-for-submission-english.JPG" style="width:100%">    
             <p>&nbsp;</p>
 
 
