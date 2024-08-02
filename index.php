@@ -105,8 +105,8 @@
         <li><a href="#">Safal Group</a></li>
         <li><a href="www.alaf.co.tz">ALAF Limited</a></li>
         <li><a href="#">Safal ALAF Foundation</a></li>
-        <li><a href="mabati.com">MRM Limited</a></li>
-        <li><a href="safalmrmfoundation.org">Safal MRM Foundation</a></li>
+        <li><a href="../mabati.com">MRM Limited</a></li>
+        <li><a href="../safalmrmfoundation.org">Safal MRM Foundation</a></li>
       </ul>
       
       <ul class="box">
