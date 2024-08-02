@@ -85,6 +85,56 @@
        
     </div>
 
+    <footer>
+  <div class="content">
+    <div class="top">
+      <div class="logo-details">
+        <i class="fab fa-map-marker"></i>
+      </div>
+      <div class="media-icons">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+      </div>
+    </div>
+    <div class="link-boxes">
+      <ul class="box">
+        <li class="link_name">MEMBERS</li>
+        <li><a href="#">Safal Group</a></li>
+        <li><a href="www.alaf.co.tz">ALAF Limited</a></li>
+        <li><a href="#">Safal ALAF Foundation</a></li>
+        <li><a href="mabati.com">MRM Limited</a></li>
+        <li><a href="safalmrmfoundation.org">Safal MRM Foundation</a></li>
+      </ul>
+      
+      <ul class="box">
+        <li class="link_name">SAFAL KISWAHILI PRIZE</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Submission</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+      <ul class="box input-box">
+        <li class="link_name">Subscribe</li>
+        <li><input type="text" placeholder="Enter your email"></li>
+        <li><input type="button" value="Subscribe"></li>
+      </ul>
+    </div>
+  </div>
+  <div class="bottom-details">
+    <div class="bottom_text">
+      <span class="copyright_text">Copyright &#169; 2024. All rights reserved</span>
+      <span class="policy_terms">
+        <a href="#">Privacy policy</a>
+        <a href="#">Terms & condition</a>
+      </span>
+    </div>
+  </div>
+</footer>
+
+
     <script src="script.js"></script>
 </body>
 </html>
