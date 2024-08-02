@@ -159,16 +159,22 @@ document.addEventListener('DOMContentLoaded', function() {
             <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
             <p>&nbsp;</p>
 
+
             <p>Dar es Salaam, Tanzania, July 30, 2024... <b>The Safal Kiswahili African Literature Prize</b> today announced that participants should submit their manuscripts for this year’s 2024 competition.</p>
             <p>&nbsp;</p>
             <p>Previously known as the Safal-Cornell Kiswahili African Literature Prize, its name has now been changed to reflect the sponsor's name - namely Safal Group, through its subsidiaries<b> Mabati Rolling Mills (MRM)</b> of Kenya and <b>ALAF Limited</b> of Tanzania. Safal Group is a leading company manufacturing high-quality building materials in nine East and Southern African countries, providing superior products to millions of customers across Africa. It also distributes a variety of trusted brand products in the market.</p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
 
-                <img src="swahili/img/call-for-submission-english.jpg" style="width:100%">    
+                <img src="swahili/img/call-for-submission-english.JPG" style="width:100%">    
+            <p>&nbsp;</p>
             <p>&nbsp;</p>
 
 
+            <h2>SEND THE SUBMISSION TO: <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a>.</h2>
+
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
 
             <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
             <p>&nbsp;</p>
@@ -220,8 +226,25 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>Rules of Submission</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Please send unpublished manuscripts or books (fiction, poetry, collections of short stories, and memoir, or graphic novels) published in Kiswahili within two years of the award year to, <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a> .</p>
-                </div>
+			<p>Please send unpublished&nbsp;manuscripts (fiction, poetry, collections of short stories, and memoir, or graphic novels) in Kiswahili to, <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a>.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+            <p>Only one entry per writer may be submitted each year.&nbsp;Previous winners are not eligible for 12 months.</p>
+            <p>&nbsp;</p>
+
+            <ul>
+                <li>Manuscripts should not be less than 50,000 words for fiction and 60 pages for poetry</li>
+                <li>All entries must be in Kiswahili</li>
+                <li>Entries should be attached in Microsoft Word or Rich Text format, with the title of the story as the file name</li>
+                <li>The first page of the story should include the name of the story and the number of words</li>
+                <li>The entry must be typed in Times New Roman 12 point font with 1.5 line spacing</li>
+                <li>Send submissions as attachments</li>
+                <li>The email included with the submission attachment should include the following information: Legal Name, Pen Name,&nbsp; Telephone Number, Short Bio, Age, and Country of Residence</li>
+                <li>For published works, please have your publisher send three (3) hard copies to: Africana Studies and Research Center, 310 Triphammer Road, Ithaca, NY 14850</li>
+                </ul>
+<p>&nbsp;</p>
+
             `;
         } else if (contentId === 'content6') {
             contentArea.innerHTML = `
