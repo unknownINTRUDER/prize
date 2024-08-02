@@ -118,9 +118,9 @@
         <li><a href="#">Contact Us</a></li>
       </ul>
       <ul class="box input-box">
-        <li class="link_name">Subscribe</li>
+        <li class="link_name">Join Our Team</li>
         <li><input type="text" placeholder="Enter your email"></li>
-        <li><input type="button" value="Subscribe"></li>
+        <li><input type="button" value="Join"></li>
       </ul>
     </div>
   </div>
