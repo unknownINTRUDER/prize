@@ -102,11 +102,12 @@
     <div class="link-boxes">
       <ul class="box">
         <li class="link_name">MEMBERS</li>
-        <li><a href="#">Safal Group</a></li>
-        <li><a href="www.alaf.co.tz">ALAF Limited</a></li>
+        <li><a href="https://www.safalgroup.com" target="_blank">Safal Group</a></li>
+        <li><a href="https://www.alaf.co.tz" target="_blank">ALAF Limited</a></li>
         <li><a href="#">Safal ALAF Foundation</a></li>
-        <li><a href="../mabati.com">MRM Limited</a></li>
-        <li><a href="../safalmrmfoundation.org">Safal MRM Foundation</a></li>
+        <li><a href="https://www.mabati.com" target="_blank">MRM Limited</a></li>
+        <li><a href="https://www.safalmrmfoundation.org" target="_blank">Safal MRM Foundation</a></li>
+
       </ul>
       
       <ul class="box">
