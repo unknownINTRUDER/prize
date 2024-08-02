@@ -82,6 +82,74 @@ document.addEventListener('DOMContentLoaded', function() {
                   <a class="prev">&#10094;</a>
                   <a class="next">&#10095;</a>
               </div>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+              <h2><strong>SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></h2>
+<p>&nbsp;</p>
+
+<p>This Kiswahili prize is sponsored by Safal Group, through its branches Mabati Rolling Mills (MRM), Kenya and ALAF, Tanzania; and Ngugi wa Thiong’o Foundation.</p>
+<p>The main objectives of this Prize, established in 2014 by <strong>Dr. Lizzy Attree</strong> and <strong>Dr. Mukoma wa Ngugi</strong>, are to appreciate writing in African languages, to promote the art of translation between African languages themselves, and to also translate writings from other languages into African languages.</p>
+<p>&nbsp;</p>
+
+<p>The judges of 2023, <strong>Prof Kyallo W. Wamitila</strong> of the University of Nairobi, <strong>Dr. Zuhura Badru</strong> of the University of Dodoma, and <strong>Mr. Ali Mwalim Rashid</strong> of the National University, Zanzibar, chose the manuscript <strong><em>Dunia Duara</em></strong> written by <strong>Philipo Oyaro</strong> (Tanzania) as the first-place winner in the Novel category; and the manuscript <strong><em>Changa la Macho</em></strong>, written by <strong>Fatuma Salim</strong> (Zanzibar, Tanzania), as the winner in the Poetry category. Each of them received 5,000 US Dollars.</p>
+<p>&nbsp;</p>
+
+<p>In his speech, <strong>Dr. Asiimwe</strong> congratulated these winners and praised the leadership of the Safal-Cornell Prize, its board, and the sponsors - led by Safal Group - for their significant work in promoting literature in African languages, especially Kiswahili.</p>
+<p>The CEO of Safal Group, <strong>Mr. Anders Lindgren</strong>, also spoke at the event, highlighting the importance of the Kiswahili language in the development of the East African region. "Through our support of this Prize, Safal Group companies are firmly committed to advancing African languages, and I congratulate the Safal-MRM Foundation for organizing these award ceremonies."</p>
+<p>&nbsp;</p>
+
+<p>The second-place winner in the Novel category was <strong>Ahmad Simba</strong> (Tanzania) who wrote <strong><em>Safari ya Maisha</em></strong>; and the second-place winner in the Poetry category was Lenard Mtesigwa (Tanzania) for his collection titled <strong><em>Ndani ya Subira Kichwangomba</em></strong>. Each received 2,500 US Dollars. Both were shortlisted in the 2022 Shortlist.</p>
+<p>&nbsp;</p>
+
+<p>As previously announced, other shortlisted manuscripts included: <strong><em>Salome Anaishi</em></strong>, a novel written by Nicholas Ogal, and the collection <strong><em>Maisha ya Kesho</em></strong>, poems written by John Karithi - both from Kenya.</p>
+<p>Two short story collections were also shortlisted. They are <strong><em>Mtoto wa Mama na Hadithi Nyingine</em></strong>, by Edwin Omindo (Kenya), and <strong><em>Koti la Karani na Hadithi Nyingine</em></strong>, by Stallone Joyfully (Tanzania).</p>
+<p>These winners and their fellow shortlisted authors attended the award ceremony in Nairobi.</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>For Editors:&nbsp;</strong></p>
+<p>The Safal Kiswahili African Literature Prize, worth a total of 15,000 US Dollars, is awarded annually for the best manuscripts in the genres of novel, poetry, biography, drama, and graphic novels. The winning manuscripts are published as books by Mkuki na Nyota. And the best poetry manuscript is translated into English and published as a book by the Africa Poetry Book Fund.</p>
+<p>This Prize is sponsored by Mabati Rolling Mills, Kenya, and ALAF Limited, Tanzania (which are among the companies of Safal Mauritius Limited); also by Ngugi wa Thiong’o Foundation.</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="swahili/img/3rd-place.jpg" style="width:100%"></p>
+<p>&nbsp;</p>   
+<p><img src="swahili/img/Ally.jpg" style="width:100%"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>The company&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>and its branches (including Mabati Rolling Mills Limited, Kenya, and ALAF Limited, Tanzania) are commonly known as The Safal Group. This is the largest roofing sheet manufacturing company in 12 African countries.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>was established over 50 years ago. It is the largest roofing sheet manufacturing company in Kenya and leads in this craft segment. It also leads the African continent in manufacturing roofing sheets using the highest available technology. Its famous roofing sheets are highly regarded and trusted by millions of builders. www.mabati.com</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p><strong>Safal MRM Foundation</strong>, headquartered in Kenya, is the charitable arm of Mabati Rolling Mills and Safal Group that deals with various types of assistance. Among the assistance provided in Mariakani, Kenya, is the establishment and continued funding of the Mabati Technical Training Institute, and the Mabati Medical Centre. www.safalmrmfoundation.org</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><img src="img/ALAF.PNG" style="width:15%"></p><p>&nbsp;</p><p>&nbsp;</p>
+<p><strong>ALAF Limited (ALAF)&nbsp;</strong>is a leading roofing sheet manufacturing company in Tanzania. Since its establishment in 1960, ALAF has made significant contributions to the country's construction activities. ALAF not only manufactures roofing sheets but also various types of metal wires used in roof construction. ALAF also manufactures metal pipes used in various craft activities. www.alaf.co.tz</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p><strong>Safal ALAF Foundation</strong>, headquartered in Tanzania, is the charitable arm of ALAF and Safal Group that deals with various types of assistance. www.safalalaffoundation.org</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Ngugi Wa Thiong’o Foundation</strong>. This foundation draws its strength from the desire and passion to promote and highlight African languages in Kenya, across Africa, and globally, recognizing them as suitable tools for conducting activities in the arts, creativity, innovation, and academics. It also recognizes these languages as having the potential to lead in every field – from culture, biological sciences, technology to medicine.&nbsp;&nbsp; http://ngugiwathiongofoundation.org</p>
+<p>&nbsp;</p>
+
+<p><strong>Mkuki na Nyota Publishers&nbsp;</strong>is an independent organization publishing developmental, liberating, affordable, and elegant books. This organization was established in 1991 due to the lack of high-quality books in Tanzania. Its motto is to publish "Books That Matter, Affordable Books, and Elegant Books."&nbsp;<a href="http://www.mkukinanyota.com">http://www.mkukinanyota.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Africa Poetry Book Fund&nbsp;</strong>strengthens and promotes the publication of poetic arts through its books, competitions, workshops, seminars, as well as partnering with publishers, festivals, agents, schools, universities, conferences, and other poetry-related groups in Africa.&nbsp;<a href="http://africanpoetrybf.unl.edu/">http://africanpoetrybf.unl.edu/</a></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
             `;
