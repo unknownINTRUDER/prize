@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>&nbsp;</p>
 
 
-            <h2>SEND THE SUBMISSION TO: <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a>.</h2>
+            <h2>SEND THE SUBMISSION TO: <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a></h2>
 
             <p>&nbsp;</p>
             <p>&nbsp;</p>
@@ -241,7 +241,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 <li>The entry must be typed in Times New Roman 12 point font with 1.5 line spacing</li>
                 <li>Send submissions as attachments</li>
                 <li>The email included with the submission attachment should include the following information: Legal Name, Pen Name,&nbsp; Telephone Number, Short Bio, Age, and Country of Residence</li>
-                <li>For published works, please have your publisher send three (3) hard copies to: Africana Studies and Research Center, 310 Triphammer Road, Ithaca, NY 14850</li>
                 </ul>
 <p>&nbsp;</p>
 
@@ -251,7 +250,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <h1 class="entry-title">Award Criteria</h1>
             <p>&nbsp;</p>
             <div class="entry-content">
-                <p>The prize will be awarded to the best unpublished manuscript or book published within two years of the award year across the categories of Fiction/Nonfiction/Graphic Novels. The total proposed awards of $15,000 US dollars will be divided as follows:</p>
+                <p>The prize will be awarded to the best unpublished manuscript across the categories of Fiction/Nonfiction/Graphic Novels. The total proposed awards of $15,000 US dollars will be divided as follows:</p>
                 <p>&nbsp;</p>
                 <p>1st Fiction Prize – $5,000</p>
                 <p>&nbsp;</p>
