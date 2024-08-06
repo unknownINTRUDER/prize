@@ -73,6 +73,13 @@ document.addEventListener('DOMContentLoaded', function() {
             	<h1 style="text-align: left;" class="entry-title">HOME</h1>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
+            <h2><strong>TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA</strong></h2>
+            <p>&nbsp;</p>
+
+            <p>Tuzo hii ya kiswahili inafadhiliwa na kampuni ya Safal Group, kupitia matawi yake ya Mabati Rolling Mills (MRM), Kenya na ALAF, Tanzania; na Wakfu wa Ngugi wa Thiong’o.</p>
+            <p>Madhumuni makuu ya Tuzo hii, iliyoanzishwa mwaka 2014 na <strong>Dkt. Lizzy Attree</strong> na <strong>Dkt. Mukoma wa Ngugi</strong>, ni kuthamini uandishi kwa lugha za Kiafrika, kuhimiza sanaa ya tafsiri baina ya lugha za Kiafrika zenyewe kwa zenyewe, na pia kutafsiri maandishi ya lugha nyengine kwa lugha za Kiafrika.</p>
+            <p>&nbsp;</p>
+          
 
 
               <div class="slideshow-container">
@@ -102,36 +109,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 		
-			<h2><strong>TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA</strong></h2>
-            <p>&nbsp;</p>
-            
-
-<p>Tuzo hii ya kiswahili inafadhiliwa na kampuni ya Safal Group, kupitia matawi yake ya Mabati Rolling Mills (MRM), Kenya na ALAF, Tanzania; na Wakfu wa Ngugi wa Thiong’o.</p>
-<p>Madhumuni makuu ya Tuzo hii, iliyoanzishwa mwaka 2014 na <strong>Dkt. Lizzy Attree</strong> na <strong>Dkt. Mukoma wa Ngugi</strong>, ni kuthamini uandishi kwa lugha za Kiafrika, kuhimiza sanaa ya tafsiri baina ya lugha za Kiafrika zenyewe kwa zenyewe, na pia kutafsiri maandishi ya lugha nyengine kwa lugha za Kiafrika.</p>
-<p>&nbsp;</p>
-
-<p>Majaji wa mwaka 2023, <strong>Prof Kyallo W. Wamitila</strong> wa Chuo Kikuu cha Nairobi, <strong>Dkt. Zuhura Badru</strong> wa Chuo Kikuu cha Dodoma, na <strong>Bw. Ali Mwalim Rashid</strong> wa Chuo Kikuu cha Taifa, Zanzibar,walichagua mswada wa <strong><em>Dunia Duara </em></strong>ulioandikwa na <strong>Philipo Oyaro </strong>(Tanzania), kuwa mshindi wa kwanza katika Kitengo cha Riwaya; na mswada <strong><em>Changa la Macho</em></strong>, ulioandikwa na <strong>Fatuma Salim </strong>(Zanzibar, Tanzania), kuwa mshindi katika kitengo cha Ushairi. Kila mmoja wao alipokea Dola za Marekani 5,000.</p>
-<p>&nbsp;</p>
-
-<p>Katika hotuba yake, <strong>Dkt. Asiimwe</strong> aliwapongeza washindi hao na kuupongeza uongozi wa Tuzo ya Safal-Cornell, bodi yake, na wadhamini – wakiongozwa na Safal Group – kwa kazi yao muhimu ya kukuza fasihi katika lugha za Kiafrika, hasa Kiswahili.</p>
-<p>Mkurugenzi Mtendaji wa Safal Group, <strong>Bw. Anders Lindgren</strong>, naye alizungumza katika hafla hiyo na kuangazia umuhimu wa lugha ya Kiswahili katika maendeleo ya ukanda wa Afrika Mashariki. “Kupitia uungwaji mkono wetu wa Tuzo hii, kampuni za Kundi la SAFAL zimejitolea kwa dhati kuendeleza lugha za Kiafrika, na nawapongeza Wakfu wa Safal-MRM kwa kazi yao ya kuandaa sherehe hizi za Tuzo.”</p>
-<p>&nbsp;</p>
-
-<p>Mshindi wa pili katika Kitengo cha Riwaya alikuwa ni <strong>Ahmad Simba</strong> (Tanzania) aliyeandika <strong><em>Safari ya Maisha</em></strong>; na mshindi wa pili katika kitengo cha Ushairi alikuwa ni Lenard Mtesigwa (Tanzania) kwa diwani yake itwaayo <strong><em>Ndani ya Subira Kichwangomba</em></strong>. Kila mmoja alitunukiwa Dola za Marekani 2,500. Wote wawili walikuwa wameorodheshwa kwenye Orodha Fupi ya mwaka 2022.</p>
-<p>&nbsp;</p>
-
-<p>Kama ilivyotangazwa awali, miswada mengine iliyoteuliwa ilikuwa ni: <strong><em>Salome Anaishi</em></strong>, &nbsp;riwaya iliyoandikwa na Nicholas Ogal, na diwani <strong><em>Maisha ya Kesho</em></strong>, &nbsp;mashairi yaliyoandkwa na John Karithi – wote wawili kutoka Kenya.</p>
-<p>Mikusanyo miwili ya hadithi fupi pia iliorodheshwa. Nayo ni <strong><em>Mtoto wa Mama na Hadithi Nyingine</em></strong>, wa Edwin Omindo (Kenya), na <strong><em>Koti la Karani na Hadithi Nyingine</em></strong>, wa Stallone Joyfully (Tanzania).</p>
-<p>Washindi hao na wenzao walikuwemo katika Orodha Fupi pia walihudhuria hafla hiyo ya utoaji tuzo jijini Nairobi.</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Kwa Wahariri:&nbsp;</strong></p>
-<p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika, yenye thamani ya jumla ya Dola za Marekani 15,000, hutolewa kila mwaka kwa miswada bora katika fani za riwaya, ushairi, wasifu, tamthilia na riwaya za picha. Miswada inayoshinda huchapishwa vitabu na shirika la Mkuki na Nyota. Na mswada bora wa ushairi hufasiriwa kwa Kiingereza na kuchapishwa kitabu na shirika la Africa Poetry Book Fund.</p>
-<p>Tuzo hii inadhaminiwa na kampuni ya Mabati Rolling Mills, Kenya, na kampuni ya ALAF Limited, Tanzania (ambazo ni miongoni mwa kampuni za Safal Mauritius Limited); pia na Wakfu wa Ngugi wa Thiong’o (Ngugi wa Thiong’o Foundation).</p>
+  
 
 
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <p><img src="img/3rd-place.jpg" style="width:100%"></p>
 <p>&nbsp;</p>   
@@ -142,36 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 
-<p>Kampuni ya&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>na matawi yake (ambayo ni pamoja na Mabati Rolling Mills Limited, Kenya, na ALAF Limited, Tanzania) inajulikana kwa jina la jumla la The Safal Group. Hii ni kampuni kubwa kabisa inayotengeneza mabati katika nchi 12 za Afrika.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
-<p>&nbsp;</p>
 
-<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>ilibuniwa zaidi ya miaka 50 iliyopita. Ni kampuni kubwa kabisa Kenya inayotengeneza mabati ya kuezekea mapaa, na inaongoza katika utanzu huu wa ufundi. Pia inaongoza katika bara la Afrika kwa kutengeneza mabati ikitumia teknolojia ya hali ya juu kabisa inayopatikana duniani. Mabati yake maarufu yanasifika na yanaaminiwa na mamilioni ya wajenzi. www.mabati.com</p>
-<p><img src="img/MRM.JPEG" style="width:30%"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<p><strong>Safal MRM Foundation</strong>, yenye makao yake Kenya, ni kitengo cha Mabati Rolling Mills na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. Miongoni mwa misaada hiyo, inayotolewa Mariakani, Kenya, ni kuanzisha na kuendelea kugharimia uendeshaji wa Taasisi ya Mabati ya Mafunzo ya Teknolojia (Mabati Technical Training Institute), na Kituo cha Mabati cha Matibabu (Mabati Medical Centre). www.safalmrmfoundation.org</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-<p><img src="img/ALAF.PNG" style="width:15%"></p><p>&nbsp;</p><p>&nbsp;</p>
-<p><strong>ALAF Limited (ALAF)&nbsp;</strong>ni kampuni ya Tanzania inayoongoza katika utengenezaji wa mabati ya kuezekea mapaa. Tangu ilipobuniwa mwaka 1960, ALAF imeendelea kuchangia kwa kiasi kikubwa katika shughuli za ujenzi nchini. ALAF haitengenezi mabati ya kuezekea mapaa tu, bali pia aina za nyaya za chuma zinazotumika katika ujenzi wa mapaa. ALAF pia inatengeneza mabomba ya metali yanayotumika katika shughuli mbalimbali za ufundi. www.alaf.co.tz</p>
-<p><img src="img/ALAF-Foundation.jpg" style="width:25%"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<p><strong>Safal ALAF Foundation</strong>, yenye makao yake Tanzania, ni kitengo cha ALAF na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. www.safalalaffoundation.org</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p><strong>Idara ya Taaluma za Afrika na Utafiti&nbsp;</strong>inachangia kwa kiasi kikubwa katika shughuli za kitaaluma, kitamaduni na za kijamii kwenye Chuo Kikuu cha Cornell, Ithaca.&nbsp;<a href="http://www.asrc.cornell.edu">http://africana.cornell.edu</a></p>
-<p>&nbsp;</p>
-
-<p><strong>Ngugi Wa Thiong’o Foundation</strong>.Wakfu huu unapata nguvu zake kutokana na hamu na ari ya kukuza na kuonekana kwa Lugha za Kiafrika nchini Kenya, barani Afrika, na duniani, na kutambuliwa kuwa ni vyombo mwafaka vya kuendeshea shughuli za sanaa ya uigizaji, ubunifu, uvumbuzi, na taaluma. Pia unazitambua lugha hizi kwamba zina uwezo wa kuwa mstari wa mbele katika kila fani – tangu utamaduni, sayansi za kibiolojia, teknolojia hadi tiba.&nbsp;&nbsp; http://ngugiwathiongofoundation.org</p>
-<p>&nbsp;</p>
-
-<p><strong>Mkuki na Nyota Publishers&nbsp;</strong>ni shirika huru la uchapishaji vitabu vya kimaendeleo, kiukombozi, vya bei nafuu na maridadi. Shirika hili lilianzishwa mwaka 1991 kutokana na ukosefu wa vitabu vya kiwango cha juu nchini Tanzania. Kaulimbiu yake ni kuchapisha “Vitabu Vinavyofaa, Vitabu vya Bei Nafuu, na Vitabu Maridadi.&nbsp;<a href="http://www.mkukinanyota.com">http://www.mkukinanyota.com</a></p>
-<p>&nbsp;</p>
-
-<p><strong>Africa Poetry Book Fund&nbsp;</strong>inaimarisha na kuendeleza uchapishaji wa sanaa za kishairi kupitia vitabu vyake, mashindano, warsha, semina, pamoja na kushirikiana na wachapishaji, matamasha, mawakala, vyuo, vyuo vikuu, makongamano, na vikundi vyengine vinavyohusika na ushairi Afrika.&nbsp;<a href="http://africanpoetrybf.unl.edu/">http://africanpoetrybf.unl.edu/</a></p>
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -229,6 +181,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Kiafrika ilianzishwa na Mukoma Wa Ngugi na Lizzy Attree 2014 kuimarisha uandishi katika lugha za Kiafrika na kuhimiza utafsiri kutoka, kati ya na kwa lugha za Kiafrika. Tuzo hii inatoa mfano wa kihistoria wa ufadhili kwa Afrika kutoka Waafrika na kuonyesha kuwa hisani ya Kiafrika inaweza na inafaa kuwa kiini cha utungaji wa sanaa za kitamaduni za Kiafrika.”</p>
 <p>&nbsp;</p>
 
+<p>Hapo awali, Tuzo hii ikiitwa Tuzo ya Kiswahili ya Safal-Cornell ya Fasihi ya Afrika. Sasa jina lake limebadilishwa ili kuakisi jina la mdhamini - yaani kampuni ya Safal Group, kupitia kampuni zake tanzu za Mabati Rolling Mills (MRM) ya Kenya, na ALAF Limited ya Tanzania. Safal Group ni kampuni kubwa inayotengeneza vifaa vya ujenzi katika nchi tisa za Afrika ya Mashariki na Kusini, vyenye ubora wa hali ya juu kwa wateja wake mamilioni barani Afrika. Na pia husambaza bidhaa mbalimbali za chapa ambazo zinaaminika sokoni.</p>
+<p>&nbsp;</p>
+
 <p>Zaidi ya watu milioni 140 wanazungumza Kiswahili katika Afrika Mashariki na Kusini. Kiswahili pia ni mojawapo ya lugha rasmi Kenya na Tanzania. Kupitia waandishi na malenga mashuhuri wa Kiafrika wanaoandika katika Kiswahili kama vile Shaban Roberts na Ebrahim Hussein, kuna sanaa nyingi ya Kiswahili inayoendelea kutumika kama lugha kuu kwenye vyuo vikuu vya kusifika kama Chuo Kikuu cha Nairobi, Chuo Kikuu cha Boston na Chuo Kikuu cha Wisconsin-Madison. Yaani, Kiswahili ni lugha iliyosadikishwa na inafaa kutambuliwa hivyo.</p>
 <p>&nbsp;</p>
 
@@ -239,6 +194,37 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 <p>Taarifa hio pekee yake inadokeza kwa nini tuzo ya kimataifa ya fasihi ya Kiswahili ni jambo la kihistoria na inatoa mfano kwa fasihi katika lugha zingine za Kiafrika na kuchangia pakubwa kwa fasihi duniani.</p>
+<p>&nbsp;</p>
+
+<p>Kampuni ya&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>na matawi yake (ambayo ni pamoja na Mabati Rolling Mills Limited, Kenya, na ALAF Limited, Tanzania) inajulikana kwa jina la jumla la The Safal Group. Hii ni kampuni kubwa kabisa inayotengeneza mabati katika nchi 12 za Afrika.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>ilibuniwa zaidi ya miaka 50 iliyopita. Ni kampuni kubwa kabisa Kenya inayotengeneza mabati ya kuezekea mapaa, na inaongoza katika utanzu huu wa ufundi. Pia inaongoza katika bara la Afrika kwa kutengeneza mabati ikitumia teknolojia ya hali ya juu kabisa inayopatikana duniani. Mabati yake maarufu yanasifika na yanaaminiwa na mamilioni ya wajenzi. www.mabati.com</p>
+<p><img src="img/MRM.JPEG" style="width:30%"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p><strong>Safal MRM Foundation</strong>, yenye makao yake Kenya, ni kitengo cha Mabati Rolling Mills na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. Miongoni mwa misaada hiyo, inayotolewa Mariakani, Kenya, ni kuanzisha na kuendelea kugharimia uendeshaji wa Taasisi ya Mabati ya Mafunzo ya Teknolojia (Mabati Technical Training Institute), na Kituo cha Mabati cha Matibabu (Mabati Medical Centre). www.safalmrmfoundation.org</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><img src="img/ALAF.PNG" style="width:15%"></p><p>&nbsp;</p><p>&nbsp;</p>
+<p><strong>ALAF Limited (ALAF)&nbsp;</strong>ni kampuni ya Tanzania inayoongoza katika utengenezaji wa mabati ya kuezekea mapaa. Tangu ilipobuniwa mwaka 1960, ALAF imeendelea kuchangia kwa kiasi kikubwa katika shughuli za ujenzi nchini. ALAF haitengenezi mabati ya kuezekea mapaa tu, bali pia aina za nyaya za chuma zinazotumika katika ujenzi wa mapaa. ALAF pia inatengeneza mabomba ya metali yanayotumika katika shughuli mbalimbali za ufundi. www.alaf.co.tz</p>
+<p><img src="img/ALAF-Foundation.jpg" style="width:25%"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p><strong>Safal ALAF Foundation</strong>, yenye makao yake Tanzania, ni kitengo cha ALAF na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. www.safalalaffoundation.org</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Idara ya Taaluma za Afrika na Utafiti&nbsp;</strong>inachangia kwa kiasi kikubwa katika shughuli za kitaaluma, kitamaduni na za kijamii kwenye Chuo Kikuu cha Cornell, Ithaca.&nbsp;<a href="http://www.asrc.cornell.edu">http://africana.cornell.edu</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Ngugi Wa Thiong’o Foundation</strong>.Wakfu huu unapata nguvu zake kutokana na hamu na ari ya kukuza na kuonekana kwa Lugha za Kiafrika nchini Kenya, barani Afrika, na duniani, na kutambuliwa kuwa ni vyombo mwafaka vya kuendeshea shughuli za sanaa ya uigizaji, ubunifu, uvumbuzi, na taaluma. Pia unazitambua lugha hizi kwamba zina uwezo wa kuwa mstari wa mbele katika kila fani – tangu utamaduni, sayansi za kibiolojia, teknolojia hadi tiba.&nbsp;&nbsp; http://ngugiwathiongofoundation.org</p>
+<p>&nbsp;</p>
+
+<p><strong>Mkuki na Nyota Publishers&nbsp;</strong>ni shirika huru la uchapishaji vitabu vya kimaendeleo, kiukombozi, vya bei nafuu na maridadi. Shirika hili lilianzishwa mwaka 1991 kutokana na ukosefu wa vitabu vya kiwango cha juu nchini Tanzania. Kaulimbiu yake ni kuchapisha “Vitabu Vinavyofaa, Vitabu vya Bei Nafuu, na Vitabu Maridadi.&nbsp;<a href="http://www.mkukinanyota.com">http://www.mkukinanyota.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Africa Poetry Book Fund&nbsp;</strong>inaimarisha na kuendeleza uchapishaji wa sanaa za kishairi kupitia vitabu vyake, mashindano, warsha, semina, pamoja na kushirikiana na wachapishaji, matamasha, mawakala, vyuo, vyuo vikuu, makongamano, na vikundi vyengine vinavyohusika na ushairi Afrika.&nbsp;<a href="http://africanpoetrybf.unl.edu/">http://africanpoetrybf.unl.edu/</a></p>
 <p>&nbsp;</p>
 
 <p>Tunawashukuru kwa usaidizi na subira yenu tunavyoendelea katika changamoto hii ya lugha.</p>
