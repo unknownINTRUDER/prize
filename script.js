@@ -379,9 +379,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
                 <h1>${year} WINNERS</h1>
-               <div class="entry-content">
+               
 			<h1 style="text-align: center;"><strong>SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></h1>
-<h1 style="text-align: center;"></h1>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -390,30 +389,38 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 <P>
-<strong><img class=" wp-image-460 alignleft" src="img/majaliwa.jpg"  width="300" height="224"></a></strong>
+<strong><img class="left-img" src="img/majaliwa.jpg"  width="300" height="224"></strong>
 </p>
 
 <p>The Safal Kiswahili Prize for African Literature was founded in 2014 by Dr. Lizzy Attree and Dr. Mukoma Wa Ngugi to recognize writing in African languages and encourage translation from, between, and into African languages.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p>
     The 2022 judges; Prof F.E.M.K. Senkoro (chair, Professor Emeritus), Dr. Magdaline Nakhumicha Wafula (Moi University, Kenya), and Dr. Hamisi Babusa (Kenyatta University, Kenya) selected the following and they both received prize money of US $5,000 Dollars each. <p>&nbsp;</p> 
-    <strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category. <p>&nbsp;</p> 
-    <strong><img class=" wp-image-460 alignleft" src="img/dotto.jpg"  width="300" height="224"></a></strong>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
+</p>   
+<div class="clearfix"></div>
 
-    <strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.<p>&nbsp;</p>
-    <strong><img class=" wp-image-460 alignleft" src="img/salum.jpg"  width="300" height="224"></a></strong>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p><strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category.</p>
+    <p>&nbsp;</p> 
+    <img class="left-img" src="img/dotto.jpg"  width="300" height="224">
+    <p>&nbsp;</p>   
+<div class="clearfix"></div>
+<p>&nbsp;</p>
 
+
+ <p><strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.<p>&nbsp;</p>
+    <img class="left-img" src="img/salum.jpg"  width="300" height="224">
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="clearfix"></div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>Dotto Rangimoto </strong>was born in Morogoro, Tanzania, in 1986. He won the Safal Kiswahili Prize in 2017, and his winning manuscript, <em>Mwanangu Rudi Nyumbani,</em> was subsequently published by Mkuki na Nyota Publishers, Dar es Salaam. Dotto completed his secondary education in 2004 at Morogoro Secondary School. Thereafter he has been involved in small enterprise business and farming. He is a great enthusiast of Kiswahili Literature, especially novels and poetry.</p>
 <p>&nbsp;</p>
 
@@ -439,10 +446,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>The second-place winner in the Fiction category was<strong> Isaac Ndolo </strong>(Kenya) for his manuscript<strong> <em>Wimbo wa Hatima</em></strong> (<strong>The Final Song</strong>), and in the Poetry category was<strong> Ally Bakari Mchanyato </strong>(Tanzania) for his manuscript<strong> Uswahilini. </strong>Each received 2,500 USD.</p>
 <p>&nbsp;</p>
 
-    <strong><img class=" wp-image-460 alignleft" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
-    <strong><img class=" wp-image-460 alignleft" src="img/Ally.jpg"  width="300" height="224"></a></strong>
+    <strong><img class="left-img" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
+    <strong><img class="left-img" src="img/Ally.jpg"  width="300" height="224"></a></strong>
 
 
+<div class="clearfix"></div>
 <p>The winning manuscripts are published by Mkuki na Nyota publishers.</p>
 <p>&nbsp;</p>
 
@@ -453,7 +461,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-		</div>
+		
             `;
         }
 
@@ -533,11 +541,54 @@ document.addEventListener('DOMContentLoaded', function() {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
                 <h2>${year} Winners</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
-                    <p>&nbsp;</p>
-                </div>
+
+		
+				
+			<p><strong><u>2015 winners</u></strong></p>
+<p><strong>Fiction</strong></p>
+<p><strong>Winner</strong></p>
+<ul>
+<li>Anna Samwel – <a href="https://textbookcentre.com/catalogue/penzi-la-damu_220538/">Penzi la Damu</a> $5,000</li>
+</ul>
+<p><img  src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Anna-Samwel-200x300.jpg" alt="Anna Samwel" width="50" height="100"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Runners up</strong></p>
+<ul>
+<li>Enock Maregesi – <a href="https://www.amazon.com/Kolonia-Santita-Panthera-Tigrisi-Swahili/dp/1477222952">Kolonia Santita</a> $3,000</li>
+</ul>
+<p><img  src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Enock-Maregesi-199x300.jpg" alt="Enock Maregesi" width="199" height="300"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Poetry</strong></p>
+<p><strong>Winner</strong></p>
+
+<p>Mohammed K. Ghassani – <a href="https://www.amazon.com/Nna-Kwetu-Sauti-Mhamiaji-Swahili/dp/1535182725">N’na Kwetu</a> $5,000<p>
+
+<p><img class="left-img" src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Mohammed-Khelef-Ghassani-260x300.jpg" alt="Mohammed Khelef Ghassani" width="199" height="230"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Second runners up</strong></p>
+
+<p>Christopher Bundala Budebah – Kifaurongo $2,000<p>
+
+<p><a href="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-426" src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-225x300.jpg" alt="Christopher Budebah" width="199" height="265" srcset="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-225x300.jpg 225w, https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-768x1024.jpg 768w, https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-1152x1536.jpg 1152w, https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah.jpg 1440w" sizes="(max-width: 199px) 100vw, 199px"></a></p>
+<p>The six judges said that the winners used “captivating, measured, flowing and sometimes humorous poetic language” to address issues facing East African societies, such as drugs and the harm they unleash globally; gender relations and women’s rights; and political corruption. “This is African neo-realism in an African language at its best,” they said.</p>
+<p>Source: <a href="https://news.cornell.edu/stories/2015/11/first-mabati-cornell-kiswahili-prizes-announced">Cornell Chronicle</a></p>
+		
+
             `;
         }
 
