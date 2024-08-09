@@ -468,12 +468,95 @@ document.addEventListener('DOMContentLoaded', function() {
         else if (contentId.startsWith('content10')) {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
-                <h2>${year} Winners</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
-                    <p>&nbsp;</p>
-                </div>
+                <h1 class="entry-title">${year} Winners</h1>		
+			
+			<h2 style="text-align: center;"><strong>SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></h2>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The winners of the Safal Kiswahili Prize for African Literature 2021 were announced at a special ceremony on 27th of January 2022 at the Milimani City Conference Center in Dar es Salaam, where&nbsp;<strong>His Excellency Kassim Majaliwa</strong>, Prime Minister of the United Republic of Tanzania was the guest of honour. The winners were announced by the Chairman of the Board of Trustees,&nbsp;<strong>Abdilatif Abdalla</strong>. The guests of honour also included&nbsp;<strong>Mr. Anders Lindgren</strong>&nbsp;the Safal Group CEO,&nbsp;<strong>Hon. Mohammed Omar Mchengerwa (MP)&nbsp;</strong>the Minister of Art, Culture &amp; Sports and<strong>&nbsp;Hon. Amos Makalla</strong>&nbsp;the Regional Commissioner of Dar es Salaam.</p>
+<p>&nbsp;</p>
+
+<p><img class="left-img" src="swahili/img/CEO.jpg"  width="300" height="224"></p>
+<p><img class="left-img" src="swahili/img/Abu.jpg"  width="300" height="224"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p>The prize was founded in 2014 by&nbsp;<strong>Dr. Lizzy Attree&nbsp;</strong>(Short Story Day Africa) and&nbsp;<strong>Prof. Mukoma Wa Ngugi</strong>&nbsp;(Cornell University) and has the express goal of recognizing writing in African languages and encouraging translation from, between and into African languages.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<h2>Winners:</h2>
+<p>&nbsp;</p>
+
+<p>The judges;&nbsp;<strong>Prof. Aldin K. Mutembei, Dr. Salma Omar Hamad&nbsp;</strong>and<strong>&nbsp;Dr. Joseph N. Maitaria</strong>, selected&nbsp;<strong>Halfani Sudy’s “Kirusi Kipya” (“New Virus”)</strong>&nbsp;as the winner in the Fiction Category, and&nbsp;<strong>Moh’d Omar Juma’s “Chemichemi Jangwani” (“Water Spring in the Desert”)</strong>&nbsp;as the winner in the Poetry category.</p>
+<p>&nbsp;</p>
+<p><img class="left-img" src="swahili/img/kirusi-kipya.jpg"  width="300" height="280"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p>The second-place winner in the fiction category was<strong>&nbsp;Lucas Lubago</strong>, who wrote a novel titled,<strong>&nbsp;<em>Bweni la Wasichana</em>&nbsp;(<em>The Girls’ Dormitory</em>).</strong></p>
+<p>&nbsp;</p>
+<p><img class="left-img" src="swahili/img/bweni-la-wasichana.jpg"  width="300" height="280"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>As was announced when the prize was founded, the Runner’s Up Prize can be in any category. For this reason, the judges awarded&nbsp;<strong>Mbwana Kidato’s</strong>&nbsp;work, titled “<strong>Sinaubi”</strong>, which they described as a new form of writing a runner up position. The judges said, “This work presents a new form of writing. While it is highly creative, it is neither a novel, nor a play. In it you will find prose writing (as in a novel) and then there are interactions and dialogue between the characters (like in a play). That is why we gave this work a special place among the winners.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>The winners in each category received 5000 American dollars while the runners up received 2500 dollars.</p>
+<p>&nbsp;</p>
+
+<p>As earlier announced, Hafidh Athumani Kido was shortlisted in the fiction category for “<strong>Kanzu ya Ukubwa” (“The Robe of Greatness”)</strong>. Both Msusa Mohamedi Msusa and Mfaume Hamisi Mfaume were shortlisted in the poetry category for “<strong>Malenga wa Masasi” (“A Poet from Masasi”)</strong>&nbsp;and “<strong>Sinaye Baba” (“I Have no Father”)</strong>&nbsp;respectively.</p>
+<p>&nbsp;</p>
+
+<p>Both the winners and their fellow shortlistees were in attendance during the award giving ceremony in Dar es Salaam.</p>
+<p><strong>Halfani Sudy,</strong>&nbsp;born in 1989, is a novelist from the Lindi region in KILWA district in Tanzania. He has written novels since 2014, and has published&nbsp;<em>Penzi Chungu</em>&nbsp;(<em>A Bitter Love</em>),&nbsp;<em>Farida</em>,&nbsp;<em>Kipepeo Mwekundu</em>&nbsp;(<em>The Red Butterfly</em>),&nbsp;<em>Kanda ya Siri</em>&nbsp;(<em>The Secret Zone</em>) and&nbsp;<em>Msako Hatari</em>&nbsp;(<em>The Dangerous Search</em>). Currently, Halfani Sudy is the head of the social welfare department at New Mafinga Health College, an Allied Institute located in Mafinga town, Iringa region, where he also serves as a social work teacher.</p>
+<p><strong>Mohammed Omar Juma</strong>&nbsp;was born in 1986 in Wambaa village, a region located in the southern part of Pemba. He started his undergraduate studies in Arts and Teaching (B.A. ED) in 2011 at the Morogoro Islamic University studying Kiswahili and English Education. He currently teaches Kiswahili and English at Minazini Secondary School in Kigamboni Municipal Council, Dar es Salaam and is also studying for a Master’s degree in Education Administration, Planning and Policy Training (MED APPS) at the Open University of Tanzania.</p>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Notes to Editors</strong></p>
+<p>The Prize is primarily supported by:</p>
+<p><strong>The Safal Group &nbsp;</strong>(which include Mabati Rolling Mills Ltd of Kenya and ALAF Limited in Tanzania) is the largest producer of Steel Roofing on the African continent with 36 operations in 12 countries.&nbsp;<a href="http://www.safalgroup.com/">www.safalgroup.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>ALAF Limited&nbsp;</strong>(ALAF) is Tanzania’s leading steel roofing manufacturer. Established in 1960, ALAF has always, and continues to be, a key player in the development of the country’s construction sector. ALAF is a fully integrated operation, not only making steel roofing, but also producing the metal coated coils used by these roofing operations. ALAF manufactures metal tubing and piping for various applications.&nbsp;<a href="http://www.alaf.co.tz/">alaf.co.tz</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Mabati Rolling Mills</strong>&nbsp;<strong>Ltd</strong>&nbsp;(MRM) is the largest producer of steel roofing in Kenya. Established more than 50 years ago, the company is a leading innovator in its field. MRM led Africa in the manufacture of coated steel using the most advanced corrosion protection technology available worldwide, and its roofing brands are household names which are known and trusted by millions of consumers.&nbsp;<a href="http://www.mabati.com/">www.mabati.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>The Safal MRM Foundation</strong>, based in Kenya, is a philanthropic enterprise of Mabati Rolling Mills and the Safal Group. It founded, and continues to fully manage, both the Mabati Technical Training Institute, and the Mabati Medical Centre, both in Mariakani, Kenya.&nbsp;<a href="http://safalmrmfoundation.org/">safalmrmfoundation.org</a></p>
+<p>&nbsp;</p>
+
+
+<p><strong>Mkuki na Nyota Publishers&nbsp;</strong>is an independent, vibrant Tanzanian imprint publishing relevant, progressive, liberating, affordable and entertaining content.&nbsp; Established in 1991, Mkuki na Nyota Publishers emerged in response to the general absence of high quality, independent publishing in Tanzania. Its mission statement is to publish, “Relevant Books, Affordable Books, and Beautiful Books.” They have successfully published 2017 poetry winner, Dotto Rangimoto’s&nbsp;<em>Mwanangu Rudi Nyumbani&nbsp;</em>(December 2018) and published Ali Hilal Ali’s novel&nbsp;<em>Mmeza Fupa</em>&nbsp;(January 2019).&nbsp;<a href="http://www.mkukinanyota.com/">http://www.mkukinanyota.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>East African Educational Publishers</strong>&nbsp;is one of Africa’s leading publishers.&nbsp; EAEP strives to juggle the seemingly contradicting values of publishing works of enduring value cutting across the social, cultural, political and economic spectrum of society and at the same time excelling as a viable business that is ready to face the realities and vagaries of the technology age. &nbsp;They published 2015 winners A.S. Manyanza and Enock Maregesi’s novels&nbsp;<em>Penzi la Damu&nbsp;</em>and&nbsp;<em>Kolonia Santita&nbsp;</em>in 2016.&nbsp;&nbsp;<a href="http://www.eastafricanpublishers.com/">http://www.eastafricanpublishers.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>The Africa Poetry Fund</strong>&nbsp;promotes and advances the development and publication of the poetic arts through its book series, contests, workshops, and seminars and through its collaborations with publishers, festivals, booking agents, colleges, universities, conferences and all other entities that share an interest in the poetic arts of Africa. Website:&nbsp;<a href="http://africanpoetrybf.unl.edu/">http://africanpoetrybf.unl.edu/</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Ngugi Wa Thiong’o Foundation</strong>&nbsp;is powered by the interest and passion to raise the visibility of African Languages in Kenya, Africa and the world, as vehicles for performance, creativity, innovations, and scholarship. It sees African languages as the new intellectual frontier in everything from culture, biological sciences, technology and medicine.&nbsp;<a href="http://ngugiwathiongofoundation.org/">http://ngugiwathiongofoundation.org</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Board of Trustees:</strong>&nbsp;Abdilatif Abdalla (Chair), Mukoma Wa Ngugi, Lizzy Attree, Walter Bgoya, Henry Chakava, Chege Githiora, Clarissa Vierke, Farouk Topan, Carole Boyce Davies, and Ngugi Wa Thiong’o.</p>
+
+		
             `;
         }
 
@@ -483,7 +566,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>${year} Winners</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
+                    <p>Details of the ${year} winners will be added soon.</p>
                     <p>&nbsp;</p>
                 </div>
             `;
@@ -492,12 +575,106 @@ document.addEventListener('DOMContentLoaded', function() {
         else if (contentId.startsWith('content12')) {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
-                <h2>${year} Winners</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
-                    <p>&nbsp;</p>
-                </div>
+				<h1 class="entry-title">${year} Winners</h1>
+		
+			<h1><strong>SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></h1>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+<p>The winners of the Safal Kiswahili Prize for African Literature 2019 were announced by the Chairman of the Board of Trustees,&nbsp;<strong>Abdilatif Abdalla</strong>, together with the the Safal Group CEO,&nbsp;<strong>Mr. Anders Lindgren&nbsp;</strong>during a special ceremony at the Intercontinental Hotel, Nairobi on Thursday 27 February 2020. The guests of honor included&nbsp;<strong>Ms Josephta Mukobe</strong>, Permanent Secretary Ministry of Culture and Heritage and&nbsp;<strong>Hon. Safina Kwekwe</strong>, Permanent Secretary Ministry of Tourism.</p>
+<p>&nbsp;</p>
+
+<p>The prize was founded in 2014 by&nbsp;<strong>Dr. Lizzy Attree&nbsp;</strong>and&nbsp;<strong>Dr. Mukoma Wa Ngugi&nbsp;</strong>(Cornell University) and has the express goal of recognizing writing in African languages and encouraging&nbsp;translation from, between and into African languages.</p>
+<p>&nbsp;</p>
+
+<p>The judges;&nbsp;<strong>Prof. Clara Momanyi</strong>,&nbsp;<strong>Dkt. Amiri Swaleh&nbsp;</strong>and&nbsp;<strong>Bwana Ahmed Rajab</strong>, selected&nbsp;<strong>Lello Mmassy’s&nbsp;</strong>novel&nbsp;<strong>–&nbsp;<em>Mimi na Rais (The President and I)&nbsp;</em></strong>as the winner in the fiction category while&nbsp;<strong>Mohamed Songoro’s&nbsp;</strong>poetry manuscript&nbsp;<strong>–&nbsp;<em>Nusu ya Moyo (Half of a Heart)&nbsp;</em></strong>was selected as the winning entry in the poetry category. They both receive prize money of $5,000 US.</p>
+<p>&nbsp;</p>
+
+<p>Speaking on behalf of the judges, the chair, Prof Clara Momanyi said that Lello Mmassy’s novel&nbsp;<strong><em>Mimi na Rais (The President and I)&nbsp;</em></strong>won first place because “it is a modern novel that looks into the current political reality in many African countries, but with a distinct approach because the writer uses the tools of modern technology to increase readability.” She added that, “The writer shows where the Kiswahili novel is headed; to the highest standards of literature.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p>Regarding&nbsp;<strong>Moh’d Khamisi Songoro</strong>’s poetry manuscript,&nbsp;<strong><em>Nusu ya Moyo (Half of a Heart),&nbsp;</em></strong>the judges said that, “the manuscript employs very captivating language through the use of sarcasm and engaging language that is distinct and of the highest professionalism. Besides, the poet teaches the meaning of words and thus contributes to the development of Swahili. The poet’s composition is of the highest quality and is written with great skill.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><img class="left-img" src="swahili/img/Lello-Mmassy.jpg" alt="Lello Mmassy" width="300" height="200"></p>
+<p><strong>Lello Mmassy, </strong>from&nbsp;Tanzania, is an Economist by profession. He holds a bachelor’s degree in Economics of Development and works with one of the biggest Breweries in East Africa. His passion for writing fiction dates back to 2001. Since then, he has written different fiction stories as well as analytical articles on Economics, Politics and Development in newspapers and magazines.&nbsp;<strong><em>Mimi Na Rais (The President and I)&nbsp;</em></strong>is his first work to be published, even though he has other stories online. He is married with one little daughter.</p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><img class="left-img" src="swahili/img/Mohd-Khamisi-Songoro.jpeg" width="300" height="200"></p>
+<p><strong>Moh’d Khamisi Songoro</strong>, born in 1993, is a writer and poet who grew up in Zanzibar. His pen name is Mfalme. He is studying towards his bachelor’s degree in Literature and Education with a focus on languages at the State University of Zanzibar. He started writing poetry at the age of 14, where he participated in composing poems for school purposes under the close guide of his teacher. Songoro started professional writing in 2015 and a number of his poems have been broadcast on several radio stations on the island of Zanzibar.</p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p>The second place winner in the fiction category was Kenya’s&nbsp;<strong>John Wanyonyi,&nbsp;</strong>whose novel&nbsp;<strong><em>Safari ya Matumaini (A Journey of Hope)</em></strong>, was awarded $ 2,500 US. The judges called it “a special work that tackles topics that many works of Kiswahili literature fail to engage, that is, spotlighting the male child; his experiences and his place in today’s society at large.” The judges also noted that the novel is written in an interesting style which adopts simplicity to make it accessible to the reader.</p>
+<p>&nbsp;</p>
+<p><img class="left-img" src="swahili/img/John-Wanyonyi.jpeg" alt="John Wanyonyi " width="300" height="200"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p>The second place in the poetry category, which was also awarded $2,500 US, was&nbsp;<strong><em>Mji wa Kambare (The Township of Kambare),&nbsp;</em></strong>by&nbsp;<strong>Rashid Othman Ali</strong>. Ali was born in Pemba, Zanzibar. The judges commented on Ali’s poetry for its “mix of content with various composition elements that are very relevant to real life today.” And for its “careful selection of words and language which makes his poetry manuscript attractive and enjoyable for the reader, making them want to come back and read again. Ali’s poetry excites, entertains, inspires and teaches and this is another example of how Swahili poetry continues to grow and inspire current generations.”</p>
+<p>&nbsp;</p>
+<p><img class="left-img" src="swahili/img/Rashid-Othman-Ali.jpeg" alt="Rashid Othman Ali " width="300" height="200"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+<p>As earlier announced,&nbsp;<strong>Theuri Maina&nbsp;</strong>from Kenya was shortlisted for his novel,&nbsp;<strong><em>Ziaka Imetoboka&nbsp;</em></strong>and&nbsp;<strong>Nassor Hilal Kharusi&nbsp;</strong>from Zanzibar was shortlisted for his poetry manuscript named&nbsp;<strong><em>Mama Usihuzunike</em>.&nbsp;</strong>Both Theuri Maina and Nassor Hilal Kharusi were in attendance at the awards ceremony.</p>
+<p>&nbsp;</p>
+<p><img class="left-img" src="swahili/img/Winners-2020-02-28-at-19.28.34.jpeg" alt="2019 Winners" width="300" height="225"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Notes to Editors</strong></p>
+<p>The Prize is primarily supported by:</p>
+<p><strong>The Safal Group &nbsp;</strong>(which include Mabati Rolling Mills Ltd of Kenya and ALAF Limited in Tanzania) is the largest producer of Steel Roofing on the African continent with 36 operations in 12 countries.&nbsp;<a href="http://www.safalgroup.com/">www.safalgroup.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>ALAF Limited&nbsp;</strong>(ALAF) is Tanzania’s leading steel roofing manufacturer. Established in 1960, ALAF has always, and continues to be, a key player in the development of the country’s construction sector. ALAF is a fully integrated operation, not only making steel roofing, but also producing the metal coated coils used by these roofing operations. ALAF manufactures metal tubing and piping for various applications.&nbsp;<a href="http://www.alaf.co.tz/">alaf.co.tz</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Mabati Rolling Mills</strong>&nbsp;<strong>Ltd</strong>&nbsp;(MRM) is the largest producer of steel roofing in Kenya. Established more than 50 years ago, the company is a leading innovator in its field. MRM led Africa in the manufacture of coated steel using the most advanced corrosion protection technology available worldwide, and its roofing brands are household names which are known and trusted by millions of consumers.&nbsp;<a href="http://www.mabati.com/">www.mabati.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>The Safal MRM Foundation</strong>, based in Kenya, is a philanthropic enterprise of Mabati Rolling Mills and the Safal Group. It founded, and continues to fully manage, both the Mabati Technical Training Institute, and the Mabati Medical Centre, both in Mariakani, Kenya.&nbsp;<a href="http://safalmrmfoundation.org/">safalmrmfoundation.org</a></p>
+<p>&nbsp;</p>
+
+
+<p><strong>Mkuki na Nyota Publishers&nbsp;</strong>is an independent, vibrant Tanzanian imprint publishing relevant, progressive, liberating, affordable and entertaining content.&nbsp; Established in 1991, Mkuki na Nyota Publishers emerged in response to the general absence of high quality, independent publishing in Tanzania. Its mission statement is to publish, “Relevant Books, Affordable Books, and Beautiful Books.” They have successfully published 2017 poetry winner, Dotto Rangimoto’s&nbsp;<em>Mwanangu Rudi Nyumbani&nbsp;</em>(December 2018) and published Ali Hilal Ali’s novel&nbsp;<em>Mmeza Fupa</em>&nbsp;(January 2019).&nbsp;<a href="http://www.mkukinanyota.com/">http://www.mkukinanyota.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>East African Educational Publishers</strong>&nbsp;is one of Africa’s leading publishers.&nbsp; EAEP strives to juggle the seemingly contradicting values of publishing works of enduring value cutting across the social, cultural, political and economic spectrum of society and at the same time excelling as a viable business that is ready to face the realities and vagaries of the technology age. &nbsp;They published 2015 winners A.S. Manyanza and Enock Maregesi’s novels&nbsp;<em>Penzi la Damu&nbsp;</em>and&nbsp;<em>Kolonia Santita&nbsp;</em>in 2016.&nbsp;&nbsp;<a href="http://www.eastafricanpublishers.com/">http://www.eastafricanpublishers.com</a></p>
+<p>&nbsp;</p>
+
+<p><strong>The Africa Poetry Fund</strong>&nbsp;promotes and advances the development and publication of the poetic arts through its book series, contests, workshops, and seminars and through its collaborations with publishers, festivals, booking agents, colleges, universities, conferences and all other entities that share an interest in the poetic arts of Africa. Website:&nbsp;<a href="http://africanpoetrybf.unl.edu/">http://africanpoetrybf.unl.edu/</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Ngugi Wa Thiong’o Foundation</strong>&nbsp;is powered by the interest and passion to raise the visibility of African Languages in Kenya, Africa and the world, as vehicles for performance, creativity, innovations, and scholarship. It sees African languages as the new intellectual frontier in everything from culture, biological sciences, technology and medicine.&nbsp;<a href="http://ngugiwathiongofoundation.org/">http://ngugiwathiongofoundation.org</a></p>
+<p>&nbsp;</p>
+
+<p><strong>Board of Trustees:</strong>&nbsp;Abdilatif Abdalla (Chair), Mukoma Wa Ngugi, Lizzy Attree, Walter Bgoya, Henry Chakava, Chege Githiora, Clarissa Vierke, Farouk Topan, Carole Boyce Davies, and Ngugi Wa Thiong’o.</p>
+
             `;
         }
 
@@ -507,7 +684,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>${year} Winners</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
+                    <p>Details of the ${year} winners will be added soon.</p>
                     <p>&nbsp;</p>
                 </div>
             `;
@@ -519,7 +696,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>${year} Winners</h2>
                 <div class="entry-content">
                     <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
+                    <p>Details of the ${year} winners will be added soon.</p>
                     <p>&nbsp;</p>
                 </div>
             `;
@@ -543,15 +720,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h2>${year} Winners</h2>
 
 		
-				
-			<p><strong><u>2015 winners</u></strong></p>
+<p>&nbsp;</p>
 <p><strong>Fiction</strong></p>
 <p><strong>Winner</strong></p>
 <ul>
 <li>Anna Samwel – <a href="https://textbookcentre.com/catalogue/penzi-la-damu_220538/">Penzi la Damu</a> $5,000</li>
 </ul>
-<p><img  src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Anna-Samwel-200x300.jpg" alt="Anna Samwel" width="50" height="100"></p>
-<p>&nbsp;</p>
+<p><img  src="swahili/img/Anna.jpg" alt="Anna Samwel" width="200" height="300"></p>
+<div class="clearfix"></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -561,8 +737,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <ul>
 <li>Enock Maregesi – <a href="https://www.amazon.com/Kolonia-Santita-Panthera-Tigrisi-Swahili/dp/1477222952">Kolonia Santita</a> $3,000</li>
 </ul>
-<p><img  src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Enock-Maregesi-199x300.jpg" alt="Enock Maregesi" width="199" height="300"></p>
-<p>&nbsp;</p>
+<p><img  src="swahili/img/2015-Enock-Maregesi.jpg" alt="Enock Maregesi" width="199" height="300"></p>
+<div class="clearfix"></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -573,8 +749,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p>Mohammed K. Ghassani – <a href="https://www.amazon.com/Nna-Kwetu-Sauti-Mhamiaji-Swahili/dp/1535182725">N’na Kwetu</a> $5,000<p>
 
-<p><img class="left-img" src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Mohammed-Khelef-Ghassani-260x300.jpg" alt="Mohammed Khelef Ghassani" width="199" height="230"></p>
-<p>&nbsp;</p>
+<p><img class="left-img" src="swahili/img/2015-Mohammed-Khelef-Ghassani.jpg" alt="Mohammed Khelef Ghassani" width="199" height="230"></p>
+<div class="clearfix"></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -584,7 +760,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p>Christopher Bundala Budebah – Kifaurongo $2,000<p>
 
-<p><a href="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-426" src="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-225x300.jpg" alt="Christopher Budebah" width="199" height="265" srcset="https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-225x300.jpg 225w, https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-768x1024.jpg 768w, https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah-1152x1536.jpg 1152w, https://kiswahiliprize.cornell.edu/files/2020/12/2015-Christopher-Budebah.jpg 1440w" sizes="(max-width: 199px) 100vw, 199px"></a></p>
+<p><img class="left-img" src="swahili/img/2015-Christopher-Budebah.jpg" alt="Christopher Budebah" width="199" height="265"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>The six judges said that the winners used “captivating, measured, flowing and sometimes humorous poetic language” to address issues facing East African societies, such as drugs and the harm they unleash globally; gender relations and women’s rights; and political corruption. “This is African neo-realism in an African language at its best,” they said.</p>
 <p>Source: <a href="https://news.cornell.edu/stories/2015/11/first-mabati-cornell-kiswahili-prizes-announced">Cornell Chronicle</a></p>
 		
