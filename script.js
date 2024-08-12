@@ -681,12 +681,43 @@ document.addEventListener('DOMContentLoaded', function() {
         else if (contentId.startsWith('content13')) {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
-                <h2>${year} Winners</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added soon.</p>
-                    <p>&nbsp;</p>
-                </div>
+                <h1>${year} Winners</h1>
+
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>		
+			<p><img class="left-img" src="swahili/img/Zainab.jpg" width="258" height="300"></p>
+            <p><strong>Fiction</strong></p>
+            <p><em>Mungu Hakopeshwi</em> a novel by <strong>Zainab Alwi Baharoon</strong> (Tanzania) $5,000</p>
+            <p><em>God Doesn’t Waste/Borrow Time </em>(an idiomatic expression in Kiswahili meaning that God is swift in&nbsp;retribution)</p>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+
+
+
+            <p><img class="left-img" src="swahili/img/Jacob-Ngumbau-Julius.jpg" width="258" height="227"></p>
+            <p><strong>Poetry</strong></p>
+            <p><em>Moto wa Kifuu</em> by <strong>Jacob Ngumbau Julius</strong> (Kenya) $5,000</p>
+            <p><em>Fire of the Coconut Shell&nbsp;</em>(an idiomatic expression in Kiswahili because the fire doesn’t last long)</p>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+
+
+            <h3>The judges, in recognising the long Kiswahili literary tradition said, that: </h3>
+            <p>&nbsp;</p>
+
+            <p>“In <strong><em>Mungu Hakopeshwi</em></strong><em>,</em><strong><em>&nbsp;</em></strong>Zainab Alwi Baharoon, has&nbsp;used the standard unguja Swahili masterfully.&nbsp; The language used flows so effortlessly that the&nbsp; reader can also have fun while reading.&nbsp; &nbsp;The overriding issue&nbsp;handled in this work is women’s struggles against the backdrop of male chauvinism and domination where the women find themselves at the bottom rung of the societal ladder (especially in the Swahili society).”</p>
+            <p>&nbsp;</p>
+            <p>“In <em><strong>Moto wa Kifuu</strong></em>, the author’s language is superb and flows smoothly. The poet,&nbsp;Jacob Ngumbau Julius,&nbsp;is well-versed in the use of similes and metaphors. He has used all the Swahili poetic devices including three, four line stanzas and the double line popular <em>tenzi</em> formation.”</p>
+            <p>&nbsp;</p>
+		
             `;
         }
 
@@ -705,12 +736,69 @@ document.addEventListener('DOMContentLoaded', function() {
         else if (contentId.startsWith('content15')) {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
-                <h2>${year} Winners</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added here.</p>
-                    <p>&nbsp;</p>
-                </div>
+                <h1>${year} Winners</h1>
+                <p>&nbsp;</p><p>&nbsp;</p>
+		
+			<h2><strong>Fiction</strong></h2>
+            <p>&nbsp;</p>
+            <p><img class="left-img" src="swahili/img/Ally-Hilal.jpg" alt="" width="270" height="300"></p>
+            <p><b>Ali Hilal Ali</b></p>
+            <p>&nbsp;</p>
+            <p>Ali Hilal Ali is a budding Kiswahili novelist and poet. He was born in Kalani, Pemba, in 1989, and grew up in Wete, where he started his primary school education in 1997. He later received his secondary school education at the Islamic College, Micheweni, Pemba. Thereafter he joined the Institute for Financial Management (IFM), Dar es Salaam, where he graduated in 2013 with a BSc in Social Protection.</p>
+            <p>His initial attempt in novel and poetry writing was in 2008. His first novel, <em>Safari Yangu</em>, was published in 2015 by Buluu Publishing, in Paris, France. He has also contributed several poems in an anthology by five poets, <em>Diwani ya Kurasa Mpya</em>.</p>
+            <p>&nbsp;</p>
+            <p>Email: ahbenylal7@gmail.com</p>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+
+
+
+            <h2><strong>Poetry</strong></h2>
+            <p>&nbsp;</p>
+            <p><img class="left-img" src="swahili/img/Dotto-2-22iuavs.jpg" width="270" height="268"></p>
+            <p><b>Dotto Rangimoto</b></p>
+            <p>&nbsp;</p>
+            <p>Dotto Rangimoto, one of the upcoming Kiswahili poets, was born in Morogoro, Tanzania, in 1986. He completed his secondary education in 2004 at Morogoro Secondary School. Thereafter he has been involved in small enterprise business and farming. He is a great enthusiast of Kiswahili Literature, especially novels and poetry.</p>
+            <p>&nbsp;</p>
+            <p>Email: mzalendo.njano5@gmail.com</p>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+
+    <p>As previously announced, the other works shortlisted writers were:</p>
+<ol>
+<li><strong>Mbaruk Ally</strong> – <em>Hali Halisi</em> (poetry)</li>
+<li><strong>Hassan Omar Mambosasa</strong> – <em>Nsungi</em> (fiction)</li>
+<li><strong>Mwendas Mbatiah</strong> – <em>Kibweta cha Almasi</em> (fiction)</li>
+</ol>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    <p>Selected from 30 entries, the manuscripts were read by 3 judges:</p>
+    <p>&nbsp;</p>
+<p><strong>Ken Walibora Waliaula</strong>, the Judge Chair, scholar and writer,</p>
+<p><strong>Daulat Abdalla Said</strong>, Assistant Lecturer at the State University of Zanzibar (SUZA),</p>
+<p><strong>Ali Attas</strong>, Kiswahili and English teacher at the Ministry of Foreign Affairs, Japan</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The judges, in recognizing the long Kiswahili literary tradition said, that:</p>
+<p><em>“In </em><strong>Mwanangu Rudi Nyumbani</strong><em> one encounters seductive metaphors and imagery, effectively and successfully used in diverse Kiswahili poetic forms and styles while articulating concerns that have direct bearing to the human condition. Dotto discusses weighty and serious matters but in a manner that doesn’t burden the reader. Instead he encourages one to keep on reading. He is a master of the craft. The volume is a great contribution to contemporary Kiswahili poetry.”</em></p>
+
+<p>&nbsp;</p>
+<p><strong>Mmeza Fupa</strong></p>
+<p><em>“Rarely does one encounter a Kiswahili novel whose writer has exhibited the nuanced mastery of artistic language which naturally flows and without traces of artificiality. In Mmeza Fupa the various characters – main and otherwise – convey and represent the different social strata, with their attendant historical, political, psychological, cultural, rural and urban environments and concomitant contradictions.”</em></p>
+<p><em>“Although set on an imaginary island, the political novel is clearly speaking to what ails the African continent. Mmeza Fupa has opened a new door in this particular genre in Kiswahili Literature.”</em></p>
+<p>This year the Prize will be awarded in Nairobi on 13 February, 2018.</p>
+
+
+
             `;
         }
 
