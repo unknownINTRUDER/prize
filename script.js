@@ -724,12 +724,85 @@ document.addEventListener('DOMContentLoaded', function() {
         else if (contentId.startsWith('content14')) {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
-                <h2>${year} Winners</h2>
-                <div class="entry-content">
-                    <p>&nbsp;</p>
-                    <p>Details of the ${year} winners will be added soon.</p>
-                    <p>&nbsp;</p>
-                </div>
+                <h1>${year} Winners</h1>
+		
+<p><strong>Fiction</strong></p>
+<p><strong>Winner</strong></p>
+<ul>
+<li>Idrissa Haji Abdalla – Kilio cha Mwanamke $5,000</li>
+</ul>
+<p><img class="left-img" src="swahili/img/Idrissa.jpg" alt="" width="233" height="268"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Runners up</strong></p>
+<ul>
+<li>Hussein Wamaywa – Moyo Wangu Unaungua $3,000</li>
+</ul>
+<p><img class="left-img" src="swahili/img/Hussein.jpg" alt="" width="262" height="300" ></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Poetry</strong></p>
+<ul>
+<li>Ahmed Hussein Ahmed – “Haile Ngoma ya Wana.” $5,000</li>
+</ul>
+<p><img class="left-img" src="swahili/img/A.H.A-1owidl3.jpg" alt="A.H.A. Ahmed" width="261" height="300"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p>The prizes were awarded in Dar es Salaam, Tanzania on Jan. 16, 2017.</p>
+<p>&nbsp;</p>
+<p>The other fiction works shortlisted for the 2016 prize were “Mmeza Fupa” by Ally Hilal and “Mkakati wa Kuelekea Ikulu” by Hussein Wamaywa, both from Tanzania; the poetry work “Umalenga wa Nyanda za Juu”byRichard Atuti Nyabuya, from Kenya, was also shortlisted.</p>
+<p>&nbsp;</p>
+<p>The judges, in recognizing the long Kiswahili literary tradition, said that in Abdalla’s novel, “women’s issues are discussed in great depth. The imagery of woman is depicted clearly in her various roles and capacities. Oppressive traditions and patriarchy are shown to be the greatest obstacles to her progress. She fights and emerges the winner in the end.”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Wasifu wa Idrissa Haji Abdalla</strong></p>
+<p>IDRISSA HAJI ABDALLA alizaliwa katika kijiji cha Uroa, Zanzibar, Tanzania. Alianza kufanya kazi Idara ya Polisi, Tanzania, mwaka 1989, kwenye kituo cha Pemba Kaskazini.</p>
+<p>Mwaka 1998 alikata shauri kuendelea na masomo kwenye Taasisi ya Kiswahili na Lugha za Kigeni (TAKILUKI), ambako alifaulu mtihani wa Kidato cha Nne. Aliendelea na masomo ya Kidato cha Tano kwenye Shule ya Sekondari ya Lumumba, Zanzibar, ambako alihitimu na kufaulu mtihani wa Kidato cha Sita mwaka 2001.</p>
+<p>Alianza sanaa ya kutunga mashairi alipokuwa katika mwaka wa pili wa masomo ya sekondari. Baadaye, alipokuwa akifanya kazi Pemba, alianza kuandika hadithi fupi fupi na tamthilia. Baadhi kubwa ya mashairi na hadithi zake zilichapishwa katika magazeti ya Tanzania, na pia kusomwa kwenye kituo cha redio cha Sauti ya Tanzania, Zanzibar.</p>
+<p>Ana miswada miwili ambayo bado haijachapishwa vitabu: <em>Dhambi ya Ubinafsi</em> (riwaya), na <em>Saa ya&nbsp; Mabadiliko</em> (mashairi).</p>
+<p>Anaendelea kufanya kazi Idara ya Polisi, Tanzania. Ameoa na ana watoto watatu.</p>
+<p><strong>Biography&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+<p>IDRISSA HAJI ABDALLA was born in Uroa village, Zanzibar, Tanzania.</p>
+<p>He joined the Tanzanian police force in 1989, and was posted to Pemba North region initially.</p>
+<p>In 1998 he joined Taasisi ya Kiswahili na Lugha za Kigeni, Zanzibar, (Institute of Kiswahili and Foreign Languages), where he passed his O-Level examination. In 1999 he attended Lumumba Secondary School for A-Level education, where he successfully graduated in 2001.</p>
+<p>He began writing poetry while in his second year at secondary school. Later on, while in Pemba, he embarked on writing short stories and plays. Many of his short stories and poems were published in Tanzanian newspapers as well as broadcast in a local radio station, Sauti ya Tanzania, Zanzibar (Voice of Tanzania, Zanzibar). He has two yet to be published works, <em>Dhambi ya Ubinafsi </em>(a novel) and <em>Saa ya Mabadiliko</em> (poetry).</p>
+<p>He works as a police officer in Zanzibar, and is married with three children.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Wasifu wa Hussien Wamwaya</strong></p>
+<p>HUSSEIN WAMWAYA alizaliwa Ujiji, Tanzania, mwaka 1980. Baada ya masomo ya shule ya sekondari, mwaka 2004 alipata stishihada ya kozi ya Jinsia na Maendeleo katika kituo cha Tanzania Gender and Networking Programme.</p>
+<p>Mwaka 2007 alipata Diploma katika shughuli za utengenezaji na uongozaji filamu kwenye Chuo cha Dhahabu cha Sanaa ya Filamu baada ya mafunzo ya miaka miwili. Pia alishiriki katika kozi fupi Chuo Kikuu cha Dar es Salaam kuhusu uandishi wa kazi za ubunifu. Ana stishihada ya Uandishi wa Habari kutoka Royal College of Tanzania.</p>
+<p>Tangu miaka kumi iliyopita, Hussein Wamaywa amekuwa akifanya kazi kwenye magazeti mbalimbali. Hivi sasa anayafanyia kazi magazeti ya Sani na Raia Tanzania. Yeye pia ni mwanaharakati wa haki za kibinadamu, usawa wa jinsia na maendeleo; pamoja na kuwa ni mkufunzi wa mafunzo ya maendeleo endelevu</p>
+<p>Huu ukiwa upande mmoja, upande wa pili Wamaywa ni mwanaharakati wa Haki za Binadamu, Jinsia na Maendeleo na Mwezeshaji ngazi ya Jamii na amefanya kazi na Mashirika mbalimbali ya ndani na nje ya nchi katika kupigania maendeleo endelevu kwa walio masikini na wanaoishi vijijini.</p>
+<p>Hussein ni Afisa Mipango wa shirika lisilo la serikali, Mpakani Tunaweza.</p>
+<p><strong>Biography</strong></p>
+<p>HUSSEIN WAMAYWA was born in Ujiji, Tanzania, in 1980. After completing his secondary school education, in 2004 he received a Certificate in Gender and Development, at Tanzania Gender Networking Programme. He acquired a Diploma in film production and directing at Dhahabu Film Art College in 2007. Hussein attended a short course in creative writing at the University of Dar es Salaam. He also has a Certificate in Journalism from the Royal College of Tanzania.</p>
+<p>For the last ten years he has been working as a journalist for several publications.&nbsp; Currently he works for Sani and Raia Mtanzania newspapers. He is an advocate for human rights, gender equality and development, as well as a trainer for different local and external organizations in community issues, promoting sustainable development for poor and rural communities. He is the Programme Officer for a non-government organization, Mpakani Tunaweza Organization.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Wasifu wa Ahmed Hussein Ahmed</strong></p>
+<p>AHMED HUSSEIN AHMED ana shahada ya BA kutoka Chuo Kikuu cha Kenyatta, Nairobi; na pia Diploma ya Lugha ya Kiarabu, na shahada ya Uzamili (MA), kutoka Chuo Kikuu cha Sokoto, Nigeria. Ni Mhadhiri katika Chuo Kikuu cha Pwani, Kilifi, Kenya.</p>
+<p>Mwaka 2012 alitunukiwa Tuzo ya Mshairi Bora, kutoka Taasisi ya Taaluma za Kiswahili Afrika ya Mashairiki (RISSEA), Mombasa.</p>
+<p>Mwaka 2010 alichapisha diwani yake ya kwanza,<em> Mashairi Bulbul</em> (Oxford University Press, Nairobi). Alishirikiana na washairi wengine katika diwani ya <em>Sauti ya Shangwe</em>, waliyoichapisha wenyewe mwaka 2011. Mwaka 2012 alihariri na kuchapisha <em>Ambari</em>, diwani ya mashairi ya washairi mbalimbali.</p>
+<p>Hadithi zake fupi fupi,<em> Kesho! Kesho!</em> (2009),<em> Mgeni Njoo!</em> (2009) na <em>Kifimbo Cheza</em> (2003) zilichapishwa pia na shirika la Oxford University Press, Nairobi.</p>
+<p>Hivi sasa ni mwanafunzi wa Shahada ya Uzamifu (PhD), na pia Mtafiti katika Kituo cha Taaluma ya Utamaduni wa Miswada, Chuo Kikuu cha Hamburg, Ujerumani.</p>
+<p><strong>Biography</strong></p>
+<p>AHMED HUSSEIN AHMED has a BA from Kenyatta University, Nairobi, and holds a Diploma in Arabic Language, as well as an MA, from the University of Sokoto, Nigeria. He is a Lecturer at Pwani University, Kilifi, Kenya.</p>
+<p>In 2012 he won an award for best poet from Research Institute for Swahili Studies of East Africa (RISSEA), Mombasa.</p>
+<p>In 2010 he published his first collection of poetry, <em>Mashairi Bulbul</em> (Oxford University Press, Nairobi). He co-authored and, in 2011 self-published, a collection of poetry, <em>Sauti ya Shangwe</em>. In 2012 he edited and self-published <em>Ambari</em>, a collection of poems by various poets.</p>
+<p>His short stories,<em> Kesho! Kesho!</em> (2009), <em>Mgeni Njoo!</em>&nbsp; (2009) and <em>Kifimbo Cheza</em> (2003) have also been published by Oxford University Press, Nairobi.</p>
+<p>He is currently a PhD student at University of Hamburg; and Doctoral Research Fellow at the Centre for the Study of Manuscript Cultures, University of Hamburg, Germany.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+		</div><!-- end .entry-content -->
+		
+	</div>
             `;
         }
 
