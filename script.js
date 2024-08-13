@@ -183,18 +183,39 @@ document.addEventListener('DOMContentLoaded', function() {
                     <p>The company&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>and its branches (including Mabati Rolling Mills Limited, Kenya, and ALAF Limited, Tanzania) are commonly known as The Safal Group. This is the largest roofing sheet manufacturing company in 12 African countries.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
 <p>&nbsp;</p>
 
-<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>was established over 50 years ago. It is the largest roofing sheet manufacturing company in Kenya and leads in this craft segment. It also leads the African continent in manufacturing roofing sheets using the highest available technology. Its famous roofing sheets are highly regarded and trusted by millions of builders. www.mabati.com</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<p><strong>Safal MRM Foundation</strong>, headquartered in Kenya, is the charitable arm of Mabati Rolling Mills and Safal Group that deals with various types of assistance. Among the assistance provided in Mariakani, Kenya, is the establishment and continued funding of the Mabati Technical Training Institute, and the Mabati Medical Centre. www.safalmrmfoundation.org</p>
-<p>&nbsp;</p>
+<p><img src="swahili/img/MRM.PNG" style="width:15%"></p>
+<div class="clearfix"></div>
+<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>was established over 50 years ago. It is the largest roofing sheet manufacturing company in Kenya and leads in this craft segment. It also leads the African continent in manufacturing roofing sheets using the highest available technology. Its famous roofing sheets are highly regarded and trusted by millions of builders. www.mabati.com</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p><img src="img/ALAF.PNG" style="width:15%"></p><p>&nbsp;</p><p>&nbsp;</p>
-<p><strong>ALAF Limited (ALAF)&nbsp;</strong>is a leading roofing sheet manufacturing company in Tanzania. Since its establishment in 1960, ALAF has made significant contributions to the country's construction activities. ALAF not only manufactures roofing sheets but also various types of metal wires used in roof construction. ALAF also manufactures metal pipes used in various craft activities. www.alaf.co.tz</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<p><img src="swahili/img/MRM-Foundation.JPEG" style="width:20%"></p>
+<div class="clearfix"></div>
+<p><strong>Safal MRM Foundation</strong>, headquartered in Kenya, is the charitable arm of Mabati Rolling Mills and Safal Group that deals with various types of assistance. Among the assistance provided in Mariakani, Kenya, is the establishment and continued funding of the Mabati Technical Training Institute, and the Mabati Medical Centre. www.safalmrmfoundation.org</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><img src="swahili/img/ALAF.PNG" style="width:15%"></p>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p><strong>ALAF Limited (ALAF)&nbsp;</strong>is a leading roofing sheet manufacturing company in Tanzania. Since its establishment in 1960, ALAF has made significant contributions to the country's construction activities. ALAF not only manufactures roofing sheets but also various types of metal wires used in roof construction. ALAF also manufactures metal pipes used in various craft activities. www.alaf.co.tz</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><img src="swahili/img/ALAF-Foundation.JPG" style="width:20%"></p><p>&nbsp;</p><p>&nbsp;</p>
+<div class="clearfix"></div>
 <p><strong>Safal ALAF Foundation</strong>, headquartered in Tanzania, is the charitable arm of ALAF and Safal Group that deals with various types of assistance. www.safalalaffoundation.org</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
 
 <p><strong>Ngugi Wa Thiong’o Foundation</strong>. This foundation draws its strength from the desire and passion to promote and highlight African languages in Kenya, across Africa, and globally, recognizing them as suitable tools for conducting activities in the arts, creativity, innovation, and academics. It also recognizes these languages as having the potential to lead in every field – from culture, biological sciences, technology to medicine.&nbsp;&nbsp; http://ngugiwathiongofoundation.org</p>
 <p>&nbsp;</p>
