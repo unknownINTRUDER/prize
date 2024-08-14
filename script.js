@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 <p>&nbsp;</p>
                 <div class="entry-content">
-                    <p><img class="size-medium wp-image-550" src="img/prize.jpg" alt="" width="300" height="200"></p>
+                    <p><img class="left-img" src="img/prize.jpg" alt="" width="300" height="200"></p>
                     <p>&nbsp;</p>
                     <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
                     <p>&nbsp;</p>
