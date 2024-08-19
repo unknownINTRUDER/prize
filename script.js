@@ -216,10 +216,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-
-<p><strong>Ngugi Wa Thiong’o Foundation</strong>. This foundation draws its strength from the desire and passion to promote and highlight African languages in Kenya, across Africa, and globally, recognizing them as suitable tools for conducting activities in the arts, creativity, innovation, and academics. It also recognizes these languages as having the potential to lead in every field – from culture, biological sciences, technology to medicine.&nbsp;&nbsp; http://ngugiwathiongofoundation.org</p>
-<p>&nbsp;</p>
-
 <p><strong>Mkuki na Nyota Publishers&nbsp;</strong>is an independent organization publishing developmental, liberating, affordable, and elegant books. This organization was established in 1991 due to the lack of high-quality books in Tanzania. Its motto is to publish "Books That Matter, Affordable Books, and Elegant Books."&nbsp;<a href="http://www.mkukinanyota.com">http://www.mkukinanyota.com</a></p>
 <p>&nbsp;</p>
 
