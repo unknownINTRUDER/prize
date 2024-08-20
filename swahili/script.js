@@ -203,26 +203,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-<p><img src="img/MRM.PNG" style="width:15%"></p>
+<img src="img/MRM.PNG" style="width:15%">
 <div class="clearfix"></div>
-<div class="clearfix"></div>
-<div class="clearfix"></div>
-<div class="clearfix"></div>
-<div class="clearfix"></div>
-
 <p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>ilibuniwa zaidi ya miaka 50 iliyopita. Ni kampuni kubwa kabisa Kenya inayotengeneza mabati ya kuezekea mapaa, na inaongoza katika utanzu huu wa ufundi. Pia inaongoza katika bara la Afrika kwa kutengeneza mabati ikitumia teknolojia ya hali ya juu kabisa inayopatikana duniani. Mabati yake maarufu yanasifika na yanaaminiwa na mamilioni ya wajenzi. www.mabati.com</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p><img src="img/MRM.PNG" style="width:15%"></p>
-<div class="clearfix"></div>
-<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>was established over 50 years ago. It is the largest roofing sheet manufacturing company in Kenya and leads in this craft segment. It also leads the African continent in manufacturing roofing sheets using the highest available technology. Its famous roofing sheets are highly regarded and trusted by millions of builders. www.mabati.com</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
+
+
+<p><img src="img/MRM-Foundation.JPEG" style="width:20%"></p>
+<div class="clearfix"></div>
+<p><strong>Safal MRM Foundation</strong>, yenye makao yake Kenya, ni kitengo cha Mabati Rolling Mills na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. Miongoni mwa misaada hiyo, inayotolewa Mariakani, Kenya, ni kuanzisha na kuendelea kugharimia uendeshaji wa Taasisi ya Mabati ya Mafunzo ya Teknolojia (Mabati Technical Training Institute), na Kituo cha Mabati cha Matibabu (Mabati Medical Centre). www.safalmrmfoundation.org</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><img src="img/ALAF.PNG" style="width:15%"></p>
-<div class="clearfix"></div>
+<div class="clearfix"></div><p>&nbsp;</p>
 <p><strong>ALAF Limited (ALAF)&nbsp;</strong>ni kampuni ya Tanzania inayoongoza katika utengenezaji wa mabati ya kuezekea mapaa. Tangu ilipobuniwa mwaka 1960, ALAF imeendelea kuchangia kwa kiasi kikubwa katika shughuli za ujenzi nchini. ALAF haitengenezi mabati ya kuezekea mapaa tu, bali pia aina za nyaya za chuma zinazotumika katika ujenzi wa mapaa. ALAF pia inatengeneza mabomba ya metali yanayotumika katika shughuli mbalimbali za ufundi. www.alaf.co.tz</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -230,6 +228,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p><img src="img/ALAF-Foundation.JPG" style="width:20%"></p><p>&nbsp;</p><p>&nbsp;</p>
 <div class="clearfix"></div>
+<p>&nbsp;</p>
 <p><strong>Safal ALAF Foundation</strong>, yenye makao yake Tanzania, ni kitengo cha ALAF na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. www.safalalaffoundation.org</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -704,7 +703,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
 
-			<img src="img/Mukoma.PNG" alt="Mukoma-Jeremy Weate(1) photo" width="201" height="250" class="left-img">
+			<img src="img/Mukoma.PNG" alt="Mukoma-Jeremy Weate(1) photo" width="170" height="192" class="left-img">
             <p><strong>Mukoma Wa Ngugi, </strong>mwanzilishi mmoja, ni Profesa wa Kiingereza katika Chuo Kikuu cha Cornell na mwandishi wa <i><span style="text-decoration: underline;">Black Star Nairobi </span></i>(Melville, 2013) na <i><span style="text-decoration: underline;">Nairobi Heat</span></i> (Penguin, SA 2009, <span style="text-decoration: underline;">Melville House Publishing, </span>2011) na diwani ya mashari iitwayo <i><span style="text-decoration: underline;">Hurling Words at Consciousness</span></i> (AWP, 2006). Yeye ni mwandishi wa <span style="text-decoration: underline;">This is Africa. </span>Mukoma ana Shahada ya Udaktari katika Kiingereza kutoka Chuo Kikuu cha Wisconsin, Madison, Shahada ya Ufundi (MA) katika Uandishi wa Kubuni kutoka Chuo Kikuu cha Boston na Digrii ya Kiingereza na Sayansi ya Siasa kutoka Chuo cha Albright. Jarida la <i>New African </i>lilimtaja kama mmojawapo wa Waafrika 100 wenye wadhifa 2013.</p>
             <p>Tafsiri ya Kijerumani ya <i>Nairobi Heat </i>ilitambuliwa na <span style="text-decoration: underline;">Buchkultur</span> kama Kitabu cha Riwaya ya Uhalifu cha Msimu. Mwaka wa 2009, aliteuliwa mmojawapo wa washindi waliopendekezwa kushinda Caine Prize for African Writing <span style="text-decoration: underline;">Tuzo ya Caine ya Uandishi wa Kiafrika </span>&nbsp;na mwaka wa 2010 kwa <span style="text-decoration: underline;">Penguin Prize for African Writing </span>kwa nakala ya riwaya yake, <i>The First and Second Books of Transition. </i>Riwaya mpya inayoitwa <i>Mrs. Shaw </i>itachapishwa karibuni na Ohio U/Swallow Press na <i>Hunting Words with my Father </i>(mashairi) kutoka Akiba ya Afrika ya Ushairi mwaka wa 2016. Tafsiri ya Kijerumani ya <i>Black Star Nairobi </i>itachapishwa karibuni.</p>
             <p>&nbsp;</p>
@@ -736,7 +735,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             
 
-            <img class="left-img" src="img/Vierke.jpg" alt="Clarissa Vierke" width="261" height="300">
+            <img class="left-img" src="img/Vierke.jpg" alt="Clarissa Vierke" width="261" height="210">
             <P><strong>Clarissa Vierke</strong><br> Ni professa wa fasihi ya lugha za kiafrika katika Chuo Kikuu cha Bayreuth, nchini Ujerumani. Yeye ni mpenzi wa lugha na fasihi za Kiswahili. Alianza kusaidia kuandaa Kongamano la Kiswahili la Bayreuth la kimataifa wakati alipokuwa bado mwanafunzi wa lugha na fasihi za Kiafrika zaidi ya miaka ishirini iliyopita, na bado analiendesha kila mwaka. Katika utafiti wake amejishughulisha haswa na na fasihi ya Kiswahili, hususan tenzi na mashairi za zamani zilizohifadhiwa kwa khati za Kiarabu. Hivi karibuni amefanya utafiti kuhusu miswada „iliyosafiri“ na inayopatikana pwani kote Afrika Mashariki, kama Kenya, Tanzania na vilevile Msumbiji. Pamoja na professa wengine wa fasihi ya kifaransa na fasihi linganishi anaendesha mradi wa utafiti kuhusu uhusiano wa kifasihi na kisanaa baina ya nchi mbalimbali na pande mbalimbali za bahari ya Hindi. Clarissa Vierke ni mtafiti mkuu wa “Cluster of Excellence Africa Multiple. Reconfiguring African Studies”, mradi mkuu wa utafiti unaofadhiliwa na serikali ya Ujerumani, na mwenyekiti wa jopo la “Ujumi na Sanaa” (“Arts and Aesthetics”). Pamoja na wenzake from Leipzig na Colgone nchini Ujerumani, Stellenbosch (Afrika Kusini), Wukari (Nigeria) na Eldoret (Kenya), alianzisha mradi wa “Recalibrating Afrikanistik” unaosaidiwa na Volkswagen Foundation na unaolenga kupanga masomo ya lugha na fasihi za Kiafrika kwa miaka ya mbele</p>
 
             <p>&nbsp;</p>
