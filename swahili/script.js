@@ -591,10 +591,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 				<h1 class="entry-title">Washindi wa mwaka 2018 ni</h1>
 		
-				<div class="entry-content">
 			<p><img class="left-img" src="img/Zainab.jpg" width="258" height="300"></p>
             <p><strong>Zainab Alwi Baharoon</strong>&nbsp;(Tanzania), kwa riwaya yake,&nbsp;<em>Mungu Hakopeshwi</em>, (Tuzo ya Dola 5,000 za Marekani).</p>
-            
+
+
+            <p>&nbsp;</p><p>&nbsp;</p>
+            <div class="clearfix"></div>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
             <p><img class="left-img" src="img/Jacob-Ngumbau-Julius.jpg" width="300" height="264"></p>
             <p><strong>Jacob Ngumbau Julius</strong>&nbsp;(Kenya) , kwa diwani yake ya mashairi,&nbsp;<em>Moto wa Kifuu</em>, (Tuzo ya Dola 5,000 za Marekani).</p>
 		
