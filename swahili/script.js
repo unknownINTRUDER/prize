@@ -177,6 +177,8 @@ document.addEventListener('DOMContentLoaded', function() {
 				<h1 class="entry-title">Kuhusu Tuzo</h1>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
+                                <div class="entry-content">
+
 		
 <p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Kiafrika ilianzishwa na Mukoma Wa Ngugi na Lizzy Attree 2014 kuimarisha uandishi katika lugha za Kiafrika na kuhimiza utafsiri kutoka, kati ya na kwa lugha za Kiafrika. Tuzo hii inatoa mfano wa kihistoria wa ufadhili kwa Afrika kutoka Waafrika na kuonyesha kuwa hisani ya Kiafrika inaweza na inafaa kuwa kiini cha utungaji wa sanaa za kitamaduni za Kiafrika.”</p>
 <p>&nbsp;</p>
@@ -199,17 +201,42 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>Kampuni ya&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>na matawi yake (ambayo ni pamoja na Mabati Rolling Mills Limited, Kenya, na ALAF Limited, Tanzania) inajulikana kwa jina la jumla la The Safal Group. Hii ni kampuni kubwa kabisa inayotengeneza mabati katika nchi 12 za Afrika.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
 <p>&nbsp;</p>
 
+
+
+<p><img src="img/MRM.PNG" style="width:15%"></p>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+
 <p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>ilibuniwa zaidi ya miaka 50 iliyopita. Ni kampuni kubwa kabisa Kenya inayotengeneza mabati ya kuezekea mapaa, na inaongoza katika utanzu huu wa ufundi. Pia inaongoza katika bara la Afrika kwa kutengeneza mabati ikitumia teknolojia ya hali ya juu kabisa inayopatikana duniani. Mabati yake maarufu yanasifika na yanaaminiwa na mamilioni ya wajenzi. www.mabati.com</p>
-<p><img src="img/MRM.JPEG" style="width:30%"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><img src="img/MRM.PNG" style="width:15%"></p>
+<div class="clearfix"></div>
+<p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>was established over 50 years ago. It is the largest roofing sheet manufacturing company in Kenya and leads in this craft segment. It also leads the African continent in manufacturing roofing sheets using the highest available technology. Its famous roofing sheets are highly regarded and trusted by millions of builders. www.mabati.com</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><img src="img/MRM-Foundation.JPEG" style="width:20%"></p>
+<div class="clearfix"></div>
 <p><strong>Safal MRM Foundation</strong>, yenye makao yake Kenya, ni kitengo cha Mabati Rolling Mills na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. Miongoni mwa misaada hiyo, inayotolewa Mariakani, Kenya, ni kuanzisha na kuendelea kugharimia uendeshaji wa Taasisi ya Mabati ya Mafunzo ya Teknolojia (Mabati Technical Training Institute), na Kituo cha Mabati cha Matibabu (Mabati Medical Centre). www.safalmrmfoundation.org</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
-<p><img src="img/ALAF.PNG" style="width:15%"></p><p>&nbsp;</p><p>&nbsp;</p>
+<p><img src="img/ALAF.PNG" style="width:15%"></p>
+<div class="clearfix"></div>
 <p><strong>ALAF Limited (ALAF)&nbsp;</strong>ni kampuni ya Tanzania inayoongoza katika utengenezaji wa mabati ya kuezekea mapaa. Tangu ilipobuniwa mwaka 1960, ALAF imeendelea kuchangia kwa kiasi kikubwa katika shughuli za ujenzi nchini. ALAF haitengenezi mabati ya kuezekea mapaa tu, bali pia aina za nyaya za chuma zinazotumika katika ujenzi wa mapaa. ALAF pia inatengeneza mabomba ya metali yanayotumika katika shughuli mbalimbali za ufundi. www.alaf.co.tz</p>
-<p><img src="img/ALAF-Foundation.jpg" style="width:25%"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><img src="img/ALAF-Foundation.JPG" style="width:20%"></p><p>&nbsp;</p><p>&nbsp;</p>
+<div class="clearfix"></div>
 <p><strong>Safal ALAF Foundation</strong>, yenye makao yake Tanzania, ni kitengo cha ALAF na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. www.safalalaffoundation.org</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -225,7 +252,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 <p>Tunawashukuru kwa usaidizi na subira yenu tunavyoendelea katika changamoto hii ya lugha.</p>
-		
+
+                </div>
+
             `;
         } else if (contentId === 'content5') {
             contentArea.innerHTML = `
