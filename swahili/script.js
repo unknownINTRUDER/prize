@@ -221,13 +221,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>&nbsp;</p>
 
 
-<p><img src="img/MRM-Foundation.JPEG" style="width:20%"></p>
-<div class="clearfix"></div>
-<p><strong>Safal MRM Foundation</strong>, yenye makao yake Kenya, ni kitengo cha Mabati Rolling Mills na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. Miongoni mwa misaada hiyo, inayotolewa Mariakani, Kenya, ni kuanzisha na kuendelea kugharimia uendeshaji wa Taasisi ya Mabati ya Mafunzo ya Teknolojia (Mabati Technical Training Institute), na Kituo cha Mabati cha Matibabu (Mabati Medical Centre). www.safalmrmfoundation.org</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <p><img src="img/ALAF.PNG" style="width:15%"></p>
 <div class="clearfix"></div>
 <p><strong>ALAF Limited (ALAF)&nbsp;</strong>ni kampuni ya Tanzania inayoongoza katika utengenezaji wa mabati ya kuezekea mapaa. Tangu ilipobuniwa mwaka 1960, ALAF imeendelea kuchangia kwa kiasi kikubwa katika shughuli za ujenzi nchini. ALAF haitengenezi mabati ya kuezekea mapaa tu, bali pia aina za nyaya za chuma zinazotumika katika ujenzi wa mapaa. ALAF pia inatengeneza mabomba ya metali yanayotumika katika shughuli mbalimbali za ufundi. www.alaf.co.tz</p>
