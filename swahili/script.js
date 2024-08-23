@@ -447,56 +447,134 @@ document.addEventListener('DOMContentLoaded', function() {
             const year = contentId.split('-')[1];
             contentArea.innerHTML = `
 
-				<h1>Tangazo la Washindi wa ${year} </h1>
 		
 			<h1 style="text-align: center;"><strong>TUZO YA KISWAHILI YA SAFAL</strong></h1>
-<h1 style="text-align: center;"><strong>YA FASIHI YA AFRIKA</strong></h1>
+            <h1 style="text-align: center;"><strong>YA FASIHI YA AFRIKA</strong></h1>
 <h1 style="text-align: center;"><strong>&nbsp;</strong></h1>
 <p>&nbsp;</p>
+				<h2>Tangazo la Washindi wa ${year} </h2>
+<p>&nbsp;</p>
+
+<p>Washindi wa Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika kwa mwaka 2022 walituzwa na <strong>Mheshimiwa Kassim Majaliwa Majaliwa</strong>, Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania kwenye hafla maalumu iliyofanyika Januari 25, 2023, kwenye Ukumbi wa Mlimani City, Dar es Salaam.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p>Washindi wa Tuzo ya Kiswahili ya Safal-Cornell ya Fasihi ya Afrika kwa mwaka 2022 walituzwa na <strong>Mheshimiwa Kassim Majaliwa Majaliwa</strong>, Waziri Mkuu wa Jamhuri ya Muungano wa Tanzania kwenye hafla maalumu iliyofanyika Januari 25, 2023, kwenye Ukumbi wa Mlimani City, Dar es Salaam.</p>
+<strong><img class="left-img" src="img/majaliwa.jpg"  width="300" height="224"></strong>
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+
+
 <p>Tuzo hii inafadhiliwa na kampuni ya Safal Group, kupitia matawi yake ya Mabati Rolling Mills (MRM), Kenya, na ALAF, Tanzania, Kituo cha Taaluma za Afrika katika Chuo Kikuu cha Cornell, Marekani USA; na Wakfu wa Ngugi wa Thiong’o.</p>
-<p>Madhumuni makuu ya Tuzo hii, iliyoanzishwa mwaka 2014 na <strong>Dkt. Lizzy Attree</strong> na <strong>Dkt. Mukoma wa Ngugi</strong> (Chuo Kikuu cha Cornell, Marekani), ni kuthamini uandishi kwa lugha za Kiafrika, kuhimiza sanaa ya tafsiri baina ya lugha za Kiafrika zenyewe kwa zenyewe, na pia kutafsiri maandishi ya lugha nyengine kwa lugha za Kiafrika.</p>
+<p>&nbsp;</p>
+
+<p>Madhumuni makuu ya Tuzo hii, iliyoanzishwa mwaka 2014 na <strong>Dkt. Lizzy Attree</strong> na <strong>Dkt. Mukoma wa Ngugi</strong>, ni kuthamini uandishi kwa lugha za Kiafrika, kuhimiza sanaa ya tafsiri baina ya lugha za Kiafrika zenyewe kwa zenyewe, na pia kutafsiri maandishi ya lugha nyengine kwa lugha za Kiafrika.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <p>Majaji wa mwaka 2022, Prof. F.E.M.K. Senkoro (Prefesa mstaafu), Dkt. Magdaline Nakhumicha Wafula (Chuo Kikuu cha Moi, Kenya), na Dkt. Hamisi Babusa (Chuo Kikuu cha Kenyatta, Kenya) walichagua mswada wa <strong><em>Ujanajike</em></strong> ulioandikwa na <strong>Dotto Daudi Rangimoto</strong>, kuwa mshindi wa kwanza katika Kitengo cha Riwaya, na mswada wa <strong><em>Mamangu Nipe Wosia</em></strong>, wa<em> Salum Makamba</em>, kuwa mshindi katika kitengo cha Ushairi. Kila mmoja wao alipokea Dola za Marekani 5,000.</p>
+
+<p>&nbsp;</p> 
+
+
+<img class="left-img" src="img/dotto.jpg"  width="300" height="224">
 <p><strong>Dotto Rangimoto</strong> alizaliwa Morogoro, Tanzania, mwaka wa 1986. Alishinda nafasi ya kwanza (Ushairi) katika Tuzo ya Kiswahili ya Mabati-Cornell mwaka wa 2018, na mswada wake ulioshinda, <em>Mwanangu Rudi Nyumbani,</em> baadaye ukachapishwa kitabu na shirika la Mkuki na Nyota Publishers, Dar es Salaam. Dotto alimaliza elimu yake ya sekondari mwaka 2004 katika Shule ya Sekondari Morogoro. Baada ya hapo amejihusisha na biashara ndogo ndogo na kilimo. Ni mkereketwa mkubwa wa Fasihi ya Kiswahili, hasa riwaya na ushairi.</p>
-<p><strong>Salum Makamba</strong> ni mwandishi chipukizi ambaye, mbali na riwaya, huandika hadithi fupi, mashairi, tamthiliya, insha na makala juu ya maswala mbalimbali ya kijamii. Alisomea udaktari kutoka Chuo Kikuu cha Dar es Salaam.</p>
+    <p>&nbsp;</p>   
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+
+<img class="left-img" src="img/salum.jpg"  width="300" height="224">
+<p><strong>Salum Makamba</strong> ni mwandishi chipukizi ambaye, mbali na riwaya, huandika hadithi fupi, mashairi, tamthiliya, insha na makala juu ya maswala mbalimbali ya kijamii. Alisomea udaktari kutoka Chuo Kikuu cha Dar es Salaam.</p>    
+<p>&nbsp;</p>
+    <p>&nbsp;</p>  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="clearfix"></div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <p>Katika hotuba yake kwenye hafla hio, Waziri Mkuu, Mheshimiwa Kassim Majaliwa Majaliwa, aliwapongeza washindi hao na pia uongozi na bodi ya Tuzo ya Safal-Cornell ya Fasihi ya Afrika na wadhamini wote, wakiongozwa na Safal Group, kwa kazi nzuri wanayoifanya ya kuendeleza fasihi kwa lugha za Kiafrika, hasa Kiswahili.</p>
+<p>&nbsp;</p>
+
 <p>Mkurugenzi Mtendaji wa Safal Group, Bw. Andrew Lindgren, naye alizungumza katika hafla hiyo na kuangazia umuhimu wa lugha ya Kiswahili katika maendeleo ya ukanda wa Afrika Mashariki. “Kupitia uungwaji mkono wetu wa tuzo hizi, Kundi la SAFAL limejitolea kwa dhati kuendeleza lugha za Kiafrika, na nawapongeza ALAF Limited na MRM kwa kazi yao ya kuandaa sherehe za Tuzo kila mwaka.”</p>
+<p>&nbsp;</p>
+
 <p>Kwa niaba ya Jopo la Majaji, <strong>Prof. Senkoro </strong>(mwenyekiti) alisema kwamba miswada iliyoshirikishwa mwaka huu ilikuwa ya kiwango cha juu kiasi cha kwamba ilikuwa vigumu sana kwa majaji kuchagua washindi wa kwanza. “Kupokelewa kwa idadi kubwa sana ya miswada ya riwaya na ushairi, kutoka sehemu mbalimbali za Afrika, hasa Afrika ya Mashariki, ni dalili tosha kuwa tunayo hazina kubwa ya ubunifu, hasa miongoni mwa vijana, ivukayo mipaka ya nchi mojamoja, na ambayo ikimwagiliwa maji ya misingi ya uandishi bora na uchapishaji wa kazi za kifasihi itaiimarisha sana tasnia ya Fasihi ya Kiswahili,” aliongeza Prof. Senkoro.</p>
+<p>&nbsp;</p>
+
 <p>Naye Bwana Walter Bgoya wa shirika la Mkuki na Nyota Publishers, mchapishaji rasmi wa miswada inayoshinda, alisema, “Tuzo ya Safal–Cornell imeibua waandishi wenye vipaji katika uwanja wa fasihi tangu ilipoanzishwa mwaka 2014, na hakuna shaka kuwa imewapa waandishi msukumo na kufanya sherehe hizi za kutoa tuzo, siku ya furaha kubwa katika maisha ya wale wanaopata bahati ya kushinda.”</p>
+<p>&nbsp;</p>
+
 <p>Pia, alisisitiza kuhusu kuamsha ari ya wasomi wanazuoni wa Tanzania na kwingineko, kuanza kukuza lugha ya Kiswahili katika sayansi na teknolojia.&nbsp; Alisema, “wako wanazuoni ambao tayari wamejikita katika kufanya hayo; wanachohitaji ni kazi zao kutambulika na kutumika.”</p>
+<p>&nbsp;</p>
+
 <p>Nafasi ya pili katika Kitengo cha Riwaya ilichukuliwa na <strong>Isaac Ndolo </strong>(Kenya), aliyeandika riwaya ya <strong>Wimbo wa Hatima</strong>. Naye <strong>Ally Bakari Mchanyato</strong> alipata nafasi ya pili katika kitengo cha Ushairi kwa diwani itwaayo <strong>Uswahilini. </strong>Kila mmoja alitunukiwa Dola za Marekani 2,500.</p>
+<p>&nbsp;</p>
+
+    <strong><img class="left-img" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
+    <strong><img class="left-img" src="img/Ally.jpg"  width="300" height="224"></a></strong>
+
+
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <p>Miswada inayoshinda huchapishwa na shirika la Mkuki na Nyota Publishers, Dar es Salaam.</p>
+<p>&nbsp;</p>
+
 <p>Kama ilivyotangazwa hapo awali, kazi za waandishi wengine walioteuliwa kwenye Orodha Fupi zilikuwa: <strong>Dunia na Watu Wake (</strong>Riwaya<strong>)</strong> ya <strong>Ahmad Simba Mwaita</strong> na <strong>Mzoga Unaonukia </strong>(Ushairi) ya <strong>Lenard Mtesigwa.</strong></p>
+<p>&nbsp;</p>
+
 <p>Washindi hao na wenzao walikuwemo katika Orodha Fupi pia walihudhuria hafla hiyo ya utoaji tuzo jijini Dar es Salaam.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
 <p><strong>Kwa Wahariri:&nbsp;</strong></p>
+<p>&nbsp;</p>
+
 <p>Tuzo ya Kiswahili ya Mabati-Cornell ya Fasihi ya Kiafrika, yenye thamani ya jumla ya Dola za Marekani 15,000, hutolewa kila mwaka kwa miswada bora, au kwa vitabu vilivyochapishwa miaka miwili kabla ya mwaka wa kutolewa zawadi, katika fani za riwaya, ushairi, wasifu, tamthilia na riwaya za picha. Miswada inayoshinda huchapishwa na shirika la Mkuki na Nyota. Na mswada bora wa ushairi hufasiriwa kwa Kiingereza na kuchapishwa kitabu na shirika la Africa Poetry Book Fund.</p>
+<p>&nbsp;</p>
+
 <p>Tuzo hii inadhaminiwa na kampuni ya Mabati Rolling Mills, Kenya, na kampuni ya ALAF Limited, Tanzania (ambazo ni miongoni mwa kampuni za Safal Mauritius Limited); pia na Ofisi ya Makamu wa Mkuu wa Maswala ya Kimataifa katika Chuo Kikuu cha Cornell, Idara ya Taaluma za Afrika ya Chuo Kikuu cha Cornell, Marekani, na Wakfu wa Ngugi wa Thiong’o (Ngugi wa Thiong’o Foundation).</p>
+<p>&nbsp;</p>
+
 <p>Kampuni ya&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>na matawi yake (ambayo ni pamoja na Mabati Rolling Mills Limited, Kenya, na ALAF Limited, Tanzania) inajulikana kwa jina la jumla la The Safal Group. Hii ni kampuni kubwa kabisa inayotengeneza mabati katika nchi 12 za Afrika.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
+<p>&nbsp;</p>
+
 <p><strong>Mabati Rolling Mills Limited (MRM)&nbsp;</strong>ilibuniwa zaidi ya miaka 50 iliyopita. Ni kampuni kubwa kabisa Kenya inayotengeneza mabati ya kuezekea mapaa, na inaongoza katika utanzu huu wa ufundi. Pia inaongoza katika bara la Afrika kwa kutengeneza mabati ikitumia teknolojia ya hali ya juu kabisa inayopatikana duniani. Mabati yake maarufu yanasifika na yanaaminiwa na mamilioni ya wajenzi. www.mabati.com</p>
+<p>&nbsp;</p>
+
 <p><strong>Safal MRM Foundation</strong>, yenye makao yake Kenya, ni kitengo cha Mabati Rolling Mills na Safal Group kinachoshughulika na kutoa misaada ya aina mbalimbali. Miongoni mwa misaada hiyo, inayotolewa Mariakani, Kenya, ni kuanzisha na kuendelea kugharimia uendeshaji wa Taasisi ya Mabati ya Mafunzo ya Teknolojia (Mabati Technical Training Institute), na Kituo cha Mabati cha Matibabu (Mabati Medical Centre). www.safalmrmfoundation.org</p>
+<p>&nbsp;</p>
+
 <p><strong>ALAF Limited (ALAF)&nbsp;</strong>ni kampuni ya Tanzania inayoongoza katika utengenezaji wa mabati ya kuezekea mapaa. Tangu ilipobuniwa mwaka 1960, ALAF imeendelea kuchangia kwa kiasi kikubwa katika shughuli za ujenzi nchini. ALAF haitengenezi mabati ya kuezekea mapaa tu, bali pia aina za nyaya za chuma zinazotumika katika ujenzi wa mapaa. ALAF pia inatengeneza mabomba ya metali yanayotumika katika shughuli mbalimbali za ufundi. www.alaf.co.tz</p>
-<p><strong>Ofisi ya Makamu wa Mkuu wa Maswala ya Kimataifa&nbsp;</strong>katika Chuo Kikuu cha Cornell inatoa mwongozo na kusaidia katika kusimamia juhudi za kuzidisha shughuli za kimataifa Cornell. Lengo lake ni kushirikiana na shule, vyuo na taasisi nyengine ili kuendeleza na kutekeleza mipango inayohusiana na shughuli za kimataifa za Chuo Kikuu hiki. Ofisi hii inaisaidia Halmashauri mpya ya Kimataifa, ambayo mwenyekiti wake ni Makamu wa Mkuu. http://international.cornell.edu/international_vision</p>
-<p><strong>Idara ya Taaluma za Afrika na Utafiti&nbsp;</strong>inachangia kwa kiasi kikubwa katika shughuli za kitaaluma, kitamaduni na za kijamii kwenye Chuo Kikuu cha Cornell, Ithaca.&nbsp;<a href="http://www.asrc.cornell.edu">http://www.asrc.cornell.edu</a></p>
-<p><strong>Ngugi Wa Thiong’o Foundation </strong>Wakfu huu unapata nguvu zake kutokana na hamu na ari ya kukuza kuonekana kwa Lugha za Kiafrika nchini Kenya, barani Afrika, na duniani, na kutambuliwa kuwa ni vyombo mwafaka vya kuendeshea shughuli za sanaa ya uigizaji, ubunifu, uvumbuzi, na taaluma. Pia unazitambua lugha hizi kwamba zina uwezo wa kuwa mstari wa mbele katika kila fani – tangu utamaduni, sayansi za kibiolojia, teknolojia hadi tiba.&nbsp;&nbsp; http://ngugiwathiongofoundation.org</p>
+<p>&nbsp;</p>
+
+
 <p><strong>Mkuki na Nyota Publishers&nbsp;</strong>ni shirika huru la uchapishaji vitabu vya kimaendeleo, kiukombozi, vya bei nafuu na maridadi. Shirika hili lilianzishwa mwaka 1991 kutokana na ukosefu wa vitabu vya kiwango cha juu nchini Tanzania. Kaulimbiu yake ni kuchapisha “Vitabu Vinavyofaa, Vitabu vya Bei Nafuu, na Vitabu Maridadi.” Disemba 2018 shirika hili liliichapisha diwani ya mshairi Dotto Rangimoto,&nbsp;<em>Mwanangu Rudi Nyumbani</em>, iliyoshinda nafasi ya kwanza ya ushairi katika mashindano haya ya mwaka 2017. Na mwezi wa Januari 2019 likaichapisha riwaya ya Ali Hilal Ali,&nbsp;<em>Mmeza Fupa,&nbsp;</em>iliyoshinda nafasi ya kwanza ya mashindano haya katika sehemu ya riwaya, mwaka 2017.&nbsp;<a href="http://www.mkukinanyota.com">http://www.mkukinanyota.com</a></p>
+<p>&nbsp;</p>
+
 <p><strong>Africa Poetry Book Fund&nbsp;</strong>inaimarisha na kuendeleza uchapishaji wa sanaa za kishairi kupitia vitabu vyake, mashindano, warsha, semina, pamoja na kushirikiana na wachapishaji, matamasha, mawakala, vyuo, vyuo vikuu, makongamano, na vikundi vingine vinavyohusika na ushairi Afrika.&nbsp;<a href="http://africanpoetrybf.unl.edu/">http://africanpoetrybf.unl.edu/</a></p>
-<p><strong>Bodi ya Wadhamini:&nbsp;</strong>Abdilatif Abdalla (Chair), Mukoma Wa Ngugi, Lizzy Attree, Walter Bgoya, Henry Chakava, Chege Githiora, Clarissa Vierke, Farouk Topan, Carole Boyce Davies, and Ngugi Wa Thiong’o.</p>
-<p>Mkurugenzi: <strong>Moses Kilolo</strong></p>
-<p>Majaji wa 2022</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<h3>Majaji wa 2022</h3>
+<p>&nbsp;</p>
+
 <p><strong>Prof. </strong><strong>F.E.M.K. Senkoro </strong>ana shahada za B.A. (Education), M.A (Kiswahili) na Ph.D. (Kiswahili) kutoka Chuo Kikuu cha Dar es Salaam, na M.A.&nbsp; (Fasihi Linganishi) kutoka Chuo Kikuu cha&nbsp;&nbsp; Alberta, Canada. Pamoja na kufundisha Kiswahili kwa muda mrefu katika Chuo Kikuu cha Dar es Salaam, kabla ya kustaafu Profesa Senkoro alikuwa pia Mratibu wa Kituo cha Fasihi Andishi na Fasihi Simulizi za Kiafrika na Mkuu wa Idara ya Fasihi zote katika Taasisi ya Taaluma za Kiswahili (TATAKI); na Mkuu wa Kitivo Mshiriki (Utafiti na Machapisho) katika kilichokuwa Kitivo cha Fani na Sayansi za Jamii katika chuo hichohicho. Wakati huohuo, kwa mihula miwili mfululizo, Profesa Senkoro alikuwa katika Kamati ya Utendaji ya Baraza la Maendeleo ya Utafiti wa Sayansi za Kijamii Afrika (CODESRIA) kama Mwenyekiti wa Kamati Ndogo ya Utawala Bora. Vilevile Profesa Senkoro amekuwa Mwanazuoni na Profesa Mualikwa katika vyuo vikuu mbalimbali vikiwemo vya UNISA na Durban-Westville, Afrika Kusini; Wisconsin-Madison, Boston, Harvard, na Princeton nchini Marekani; na Chuo Kikuu cha Namibia (UNAM). Amechapisha zaidi ya makala 100 zihusuzo vipengele mbalimbali vya fasihi ya Kiafrika, hasa ile ya Kiswahili, na pia vitabu 12 vikiwemo vya nadharia ya fasihi, riwaya mbili na diwani moja ya hadithi fupi. &nbsp;Amepata tuzo kadhaa ikiwemo ya CODESRIA kwa ajili ya uandishi wa kazi yake ya “The Social Significance of&nbsp; the Journey in Folktales&nbsp;&nbsp; from&nbsp; &nbsp;Zanzibar”;&nbsp;&nbsp; Tuzo ya Rockefeller&nbsp; African&nbsp; Humanities Institute, W.E.B. Du Bois Institute for Afro American Research, ya Chuo Kikuu cha Harvard (2000 –2001); na Nishani ya Kiswahili ya Shaaban Robert iliyotolewa na Baraza la Kiswahili la Taifa (BAKITA) &nbsp;(2001). Kwa sasa, zaidi ya kufundisha kozi za uzamivu za fasihi ya Kiswahili katika vyuo vikuu kadhaa, Profesa Senkoro anaendelea na uandishi wa vitabu na makala mbalimbali kuhusu lugha, fasihi na utamaduni wa Kiswahili.</p>
 <p>&nbsp;</p>
 <p><strong>Dkt. Magdaline Nakhumicha Wafula </strong>ana shahada za B.A. (Honours) na P.G.D.E. kutoka Chuo Kikuu cha Egerton, MPhil (Kiswahili) kutoka Chuo Kikuu cha Moi na Ph.D. (Fasihi za Kiafrika) kutoka Chuo Kikuu cha Bayreuth, Germany. Amekuwa akifundisha lugha na fasihi ya Kiswahili katika Chuo Kikuu cha Moi,Eldoret&nbsp; tangu mwaka 2014. Kwa sasa anashikilia wadhifa wa Mkuu wa Idara ya Kiswahili na Lugha Nyingine za Kiafrika. Amefanya utafiti katika vitengo vya Isimujamii, riwaya ya Kiswahili, Tafsiri na masuala ya Jinsia. Anachangamkia zaidi tanzu za kinathari na hasa riwaya ya Kiswahili.Tasnifu yake ya Uzamifu ni tahakiki ya migogoro ya vizazi katika riwaya za <em>Vuta n’kuvute,Kufa Kuzikana</em>, <em>Kipimo cha Mizani</em> na&nbsp; <em>Tumaini</em>. Ameandika&nbsp; na kuchapisha tahakiki juu ya <em>Kisima cha Giningi</em>, <em>Msimu wa Vipepeo</em>, <em>Nakuruto, Unaitwa Nani?Dunia&nbsp; Yao, Babu Alipofufuka </em>na <em>Bin-Adamu! </em>Pamoja na kufundisha kozi za fasihi ya Kiswahili kwa muda mrefu katika Chuo Kikuu cha Moi, amesimamia na kutahini zaidi ya tasnifu&nbsp; 10 za uzamili na uzamifu katika fasihi simulizi na fasihi andishi ya Kiswahili. Tangu mwaka wa 2016 amekuwa miongoni mwa wahariri wa <em>Mwanga wa Lugha;</em> Jarida la Idara ya Kiswahili na Lugha Nyingine za Kiafrika linalochapishwa kila mwaka.</p>
+<p>&nbsp;</p>
+
 <p><strong>Dkt. Hamisi&nbsp;Babusa</strong>&nbsp;ni mhadhiri wa Kiswahili na Ufundishaji Lugha. Amefunza katika vyuo vikuu vingi vikiwemo Chuo Kikuu cha St. Lawrence, kilicho Canton, NY, Marekani. Kwa sasa ni mhadhiri na Mkuu wa Kitengo katika Chuo Kikuu cha Kenyatta. Mbali na kuwa mhadhiri, Dkt. Babusa pia ni mwandishi kazi za kibunilizi na za Kitaaluma. Ameandika kazi anuwai kama vile Kamusi Teule na pia A Dictionary of English and Swahili Equivaleny Proverbs na nyingine nyingi. Amechangia katika mikusanyiko mingi ya Hadithi Fupi na Mashairi na pia akahariri kadhaa. Dkt. Babusa pia ameandika novela za watoto kama vile <em>Msururu Wa Binti Kitabu</em> na <em>Msururu Wa Makumba</em>. Yeye ndiye mwandishi wa kwanza kuwahi kutunga hadithi za Kiswahili za Sayansi Bunilizi <em>Msururu Wa Makumba</em> ambazo zilimfanya akapewa tuzo ya kuwa mmoja wa wanasayansi ishirini bora nchini Kenya, Mwaka 2018.&nbsp; Aidha yeye ndiye mwasisi na Meneja Msimamizi wa BABUSA&nbsp;TV, chaneli ya mtandaoni ya kufunza watoto lugha ya Kiswahili kwa kupitia vikaragosi na nyimbo.</p>
-<p><strong>Tovuti: </strong><a href="http://blogs.cornell.edu/kiswahiliprize/">http://blogs.cornell.edu/kiswahiliprize/</a></p>
-<p><strong>Twitter: </strong>@KiswahiliPrize</p>
-<p><strong>Facebook: </strong>https://www.facebook.com/pages/Mabati-Cornell-Kiswahili-Prize for</p>
-<p>African-Literature/1534905843433822</p>
+<p>&nbsp;</p>
+
+<p><strong>Tovuti: </strong><a href="http://kiswahiliprize.org/">http:kiswahiliprize.org</a></p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>Mawasiliano: </strong>Prof. Mukoma Wa Ngugi, Cornell University, kiswahiliprize@cornell.edu Dr Lizzy Attree, <a href="mailto:kiswahiliprize@cornell.edu">kiswahiliprize@cornell.edu</a>, Moses Kilolo&nbsp; <a href="mailto:kiswahiliprize@cornell.edu">kiswahiliprize@cornell.edu</a>.</p>
-		</div><!-- end .entry-content -->
 		
 	</div>
             `;
