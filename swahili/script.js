@@ -70,7 +70,6 @@ document.addEventListener('DOMContentLoaded', function() {
     function loadContent(contentId) {
         if (contentId === 'content1') {
             contentArea.innerHTML = `
-            	<h1 style="text-align: left;" class="entry-title">HOME</h1>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
             <h2><strong>TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA</strong></h2>
@@ -168,7 +167,36 @@ document.addEventListener('DOMContentLoaded', function() {
             initializeSlideshow();
         } else if (contentId === 'content2') {
             contentArea.innerHTML = `
-                <h1 class="entry-title">Taarifa</h1>
+                    <div class="clearfix"></div>
+                    <div class="clearfix"></div>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+                    
+                <p><img  src="img/1.jpg" style="width:80%"></p>
+                    <p>&nbsp;</p>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+
+
+                    <h1 class="entry-title">Anajulikana kama "Mwanafalisafa wa Kiswahili" - SHAABAN ROBERT</h1>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+
+
+                    <p><img class="left-img" src="img/poster1.jpeg"  width="250" height="224"></p>
+                    <p><img class="left-img" src="img/poster2.jpeg"  width="250" height="224"></p>
+                    <p><img class="left-img" src="img/poster3.jpeg"  width="250" height="224"></p>
+
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+                    <p><img  src="img/poster-4.jpeg" style="width:80%"></p>
+
                 
             `;
         } else if (contentId === 'content4') {
@@ -178,6 +206,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                                 <div class="entry-content">
+
+                                
 
 		
 <p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Kiafrika ilianzishwa na Mukoma Wa Ngugi na Lizzy Attree 2014 kuimarisha uandishi katika lugha za Kiafrika na kuhimiza utafsiri kutoka, kati ya na kwa lugha za Kiafrika. Tuzo hii inatoa mfano wa kihistoria wa ufadhili kwa Afrika kutoka Waafrika na kuonyesha kuwa hisani ya Kiafrika inaweza na inafaa kuwa kiini cha utungaji wa sanaa za kitamaduni za Kiafrika.”</p>
