@@ -72,9 +72,16 @@ document.addEventListener('DOMContentLoaded', function() {
             contentArea.innerHTML = `
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
-            <h2><strong>TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA</strong></h2>
-            <p>&nbsp;</p>
 
+             <p><img  src="img/1.jpg" style="width:80%"></p>
+                    <p>&nbsp;</p>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+                    <h2><strong>TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA</strong></h2>
+            <p>&nbsp;</p>
             <p>Tuzo hii ya kiswahili inafadhiliwa na kampuni ya Safal Group, kupitia matawi yake ya Mabati Rolling Mills (MRM), Kenya na ALAF, Tanzania; na Wakfu wa Ngugi wa Thiong’o.</p>
             <p>Madhumuni makuu ya Tuzo hii, iliyoanzishwa mwaka 2014 na <strong>Dkt. Lizzy Attree</strong> na <strong>Dkt. Mukoma wa Ngugi</strong>, ni kuthamini uandishi kwa lugha za Kiafrika, kuhimiza sanaa ya tafsiri baina ya lugha za Kiafrika zenyewe kwa zenyewe, na pia kutafsiri maandishi ya lugha nyengine kwa lugha za Kiafrika.</p>
             <p>&nbsp;</p>
