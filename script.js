@@ -148,11 +148,56 @@ document.addEventListener('DOMContentLoaded', function() {
             initializeSlideshow();
         } else if (contentId === 'content2') {
             contentArea.innerHTML = `
-                <h1 class="entry-title">Safal Kiswahili Prize for</h1>
-                <h1 class="entry-title">African Literature</h1>
+
+
+                    <p>&nbsp;</p>
+
+
+             <div class="entry-content">
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+                    
+                <p><img  src="swahili/img/2.jpg" style="width:80%"></p>
+                    <p>&nbsp;</p>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+
+
+                    <h1 class="entry-title">Anajulikana kama "Mwanafalisafa wa Kiswahili" - SHAABAN ROBERT</h1>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+
+
+                    <p><img class="left-img" src="swahili/img/poster1.jpeg"  width="250" height="224"></p>
+                    <p><img class="left-img" src="swahili/img/poster2.jpeg"  width="250" height="224"></p>
+                    <p><img class="left-img" src="swahili/img/poster3.jpeg"  width="250" height="224"></p>
+
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+                    <p><img  src="swahili/img/poster-4.jpeg" style="width:80%"></p>
+                    <div class="clearfix"></div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+                    <h1 class="entry-title">SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</h1>
+                    <p>&nbsp;</p>
+                    
+                    <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
+                    <p>&nbsp;</p>
+                    <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Prize for African Literature</strong></p>
+                    <p>&nbsp;</p>
+                
 
                 <p>&nbsp;</p>
-                <div class="entry-content">
+                
                     <p><img class="left-img" src="img/prize.jpg" alt="" width="300" height="200"></p>
                     <p>&nbsp;</p>
                     <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
@@ -1038,7 +1083,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         function startSlideshow() {
-            interval = setInterval(showSlides, 4000); // Change image every 3 seconds
+            interval = setInterval(showSlides, 8000); // Change image every 8 seconds
         }
 
         function stopSlideshow() {

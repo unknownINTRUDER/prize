@@ -44,7 +44,7 @@
                 <ul>
                     <li><a href="#" id="home-link" class="sidebar-link" data-content="content1">Home</a></li>
 
-                    <li><a href="#" class="sidebar-link" data-content="content2">Update</a></li>
+                    <li><a href="#" class="sidebar-link" data-content="content2">Update and Media</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content3">2024 Call for Submissions</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content4">About the Prize</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content5">Rules of Submission</a></li>
