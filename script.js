@@ -69,13 +69,18 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>&nbsp;</p>
               <div class="slideshow-container">
                   <div class="mySlides fade">
-                      <img src="img/majaliwa.jpg" style="width:100%">
+                      <img src="img/home1.jpg" style="width:100%">
                   </div>
+                  
+                  <div class="mySlides fade">
+                  <img src="img/home2.jpg" style="width:100%">
+                  </div>
+
                   <div class="mySlides fade">
                       <img src="img/2nd-place.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/1st-place.jpg" style="width:100%">
+                      <img src="img/home4.jpg" style="width:100%">
                   </div>
 
                   <div class="mySlides fade">
@@ -98,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img src="swahili/img/3rd-place.jpg" style="width:100%"></p>
+<p><img src="swahili/img/home3.jpg" style="width:100%"></p>
 <p>&nbsp;</p>   
 <p><img src="swahili/img/Ally.jpg" style="width:100%"></p>
 <p>&nbsp;</p>
@@ -112,101 +117,117 @@ document.addEventListener('DOMContentLoaded', function() {
             `;
             initializeSlideshow();
         } else if (contentId === 'content3') {
-            contentArea.innerHTML = `
-            <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
-            <p>&nbsp;</p>
-
-
-            <p>Dar es Salaam, Tanzania, July 30, 2024... <b>The Safal Kiswahili African Literature Prize</b> today announced that participants should submit their manuscripts for this year’s 2024 competition.</p>
-            <p>&nbsp;</p>
-            <p>Previously known as the Safal-Cornell Kiswahili African Literature Prize, its name has now been changed to reflect the sponsor's name - namely Safal Group, through its subsidiaries<b> Mabati Rolling Mills (MRM)</b> of Kenya and <b>ALAF Limited</b> of Tanzania. Safal Group is a leading company manufacturing high-quality building materials in nine East and Southern African countries, providing superior products to millions of customers across Africa. It also distributes a variety of trusted brand products in the market.</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-
-                <img src="swahili/img/call-for-submission-english.JPG" style="width:100%">    
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-
-
-            <h2>SEND THE SUBMISSION TO: <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a></h2>
-
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-
-            <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
-            <p>&nbsp;</p>
-        <p>Submissions for this year's competition begin today,<b> July 30, 2024</b>, and end on <b>November 30, 2024.</b> Writers from East Africa and anywhere in the world who write in Kiswahili are encouraged to submit their manuscripts and participate in the competition. Once again, female writers are especially encouraged to come forward and participate in large numbers.</p>
-        <p>&nbsp;</p>
-        <p>Those wishing to participate in this year's competition are encouraged to submit manuscripts that have not been published in any form in the categories of novel, poetry, short story collection, drama, biography, and graphic novels. Published books will not be considered.</p>
-        <p>&nbsp;</p>
-        <p>Total prizes of <b>$15,000</b> will be awarded as follows: the first-place winner in the novel and poetry categories will each receive<b> $5,000</b>; and the second-place winners in the novel or poetry categories, or any other category, will receive <b>$2,500</b> each.</p>
-        <p>&nbsp;</p>
-        <p>The winning manuscripts will be published by Mkuki na Nyota Publishers (Tanzania), which may collaborate with other publishers to facilitate the availability of the winning books. The poetry manuscripts that win will be translated into English and published by the Africa Poetry Book Fund.</p>
-        <p>&nbsp;</p>
-        <p><b>The award ceremony for the 2024 winners will take place in July 2025, and all shortlisted authors will attend.</b></p>            <p>&nbsp;</p>
-            `;
-            initializeSlideshow();
+            const now = new Date();
+            const deadline = new Date('2024-11-30T23:59:59'); // Submission deadline
+        
+            if (now < deadline) {
+                // Still accepting submissions – show original content
+                contentArea.innerHTML = `
+                    <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
+                    <p>&nbsp;</p>
+                    <p>Dar es Salaam, Tanzania, July 30, 2024... <b>The Safal Kiswahili African Literature Prize</b> today announced that participants should submit their manuscripts for this year’s 2024 competition.</p>
+                    <p>&nbsp;</p>
+                    <p>Previously known as the Safal-Cornell Kiswahili African Literature Prize, its name has now been changed to reflect the sponsor's name - namely Safal Group, through its subsidiaries<b> Mabati Rolling Mills (MRM)</b> of Kenya and <b>ALAF Limited</b> of Tanzania...</p>
+                    <p>&nbsp;</p>
+                    <img src="swahili/img/call-for-submission-english.JPG" style="width:100%">
+                    <p>&nbsp;</p>
+                    <h2>SEND THE SUBMISSION TO: <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a></h2>
+                    <p>&nbsp;</p>
+                    <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
+                    <p>&nbsp;</p>
+                    <p>Submissions for this year's competition begin today,<b> July 30, 2024</b>, and end on <b>November 30, 2024.</b> ...</p>
+                    <p>&nbsp;</p>
+                    <p><b>The award ceremony for the 2024 winners will take place in July 2025, and all shortlisted authors will attend.</b></p>
+                    <p>&nbsp;</p>
+                `;
+            } else {
+                // Submission is closed – show animated message
+                contentArea.innerHTML = `
+                    <div id="closed-message" style="
+                        font-size: 26px;
+                        text-align: center;
+                        color: #b30000;
+                        margin-top: 20%;
+                        opacity: 0;
+                        transition: opacity 2s ease-in-out;
+                    ">
+                        🛑 Submissions are now closed.<br><br>
+                        Please wait for the next submission window
+                        <strong>COMING SOON</strong>.
+                    </div>
+                `;
+        
+                // Trigger fade-in animation after slight delay
+                setTimeout(() => {
+                    document.getElementById('closed-message').style.opacity = '1';
+                }, 100);
+            }
+        
+        
+    
         } else if (contentId === 'content2') {
             contentArea.innerHTML = `
-
-
+                <div id="fade-content" style="opacity: 0; transition: opacity 1s ease-in-out;">
+        
                     <p>&nbsp;</p>
-
-
-             <div class="entry-content">
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-
-                    
-                <p><img  src="swahili/img/2.jpg" style="width:80%"></p>
-                    <p>&nbsp;</p>
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p><p>&nbsp;</p>
-                    <p>&nbsp;</p><p>&nbsp;</p>
-
-
-                    <h1 class="entry-title">Anajulikana kama "Mwanafalisafa wa Kiswahili" - SHAABAN ROBERT</h1>
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p><p>&nbsp;</p>
-
-
-                    <p><img class="left-img" src="swahili/img/poster1.jpeg"  width="250" height="224"></p>
-                    <p><img class="left-img" src="swahili/img/poster2.jpeg"  width="250" height="224"></p>
-                    <p><img class="left-img" src="swahili/img/poster3.jpeg"  width="250" height="224"></p>
-
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-
-                    <p><img  src="swahili/img/poster-4.jpeg" style="width:80%"></p>
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-
-                    <h1 class="entry-title">SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</h1>
-                    <p>&nbsp;</p>
-                    
-                    <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
-                    <p>&nbsp;</p>
-                    <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Prize for African Literature</strong></p>
-                    <p>&nbsp;</p>
-                
-
-                <p>&nbsp;</p>
-                
-                    <p><img class="left-img" src="img/prize.jpg" alt="" width="300" height="200"></p>
-                    <p>&nbsp;</p>
-                    <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
-                    <p>&nbsp;</p>
-                    <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Prize for African Literature</strong></p>
-                    <p>&nbsp;</p>
+        
+                    <div class="entry-content">
+                        <div class="clearfix"></div>
+        
+                        <h1 class="entry-title">SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</h1>
+                        <h1 class="entry-title">2024 WINNERS</h1>
+        
+                        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+                            <img src="swahili/img/finalists.jpg" style="width: 90%;">
+                        </div>
+        
+                        <p>&nbsp;</p>
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <h1 class="entry-title">Anajulikana kama "Mwanafalisafa wa Kiswahili" - SHAABAN ROBERT</h1>
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <p><img class="left-img" src="swahili/img/poster1.jpeg" width="255" height="224"></p>
+                        <p><img class="left-img" src="swahili/img/poster2.jpeg" width="255" height="224"></p>
+                        <p><img class="left-img" src="swahili/img/poster3.jpeg" width="255" height="224"></p>
+        
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+                            <img src="swahili/img/poster-4.jpeg" style="width: 90%;">
+                        </div>
+        
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <h1 class="entry-title">SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</h1>
+                        <p>&nbsp;</p>
+        
+                        <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
+                        <p>&nbsp;</p>
+                        <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Prize for African Literature</strong></p>
+                        <p>&nbsp;</p>
+        
+                        <p><img class="left-img" src="img/prize.jpg" alt="" width="300" height="200"></p>
+                        <p>&nbsp;</p>
+                        <p>In <strong>2022</strong>, the prize name changed from <strong>Mabati Cornell Kiswahili Prize</strong> to <strong>Safal Cornell Kiswahili Prize</strong></p>
+                        <p>&nbsp;</p>
+                        <p>In <strong>2024</strong>, the prize name has been transformed from <strong>Safal Cornell Kiswahili Prize</strong> to <strong>Safal Kiswahili Prize for African Literature</strong></p>
+                        <p>&nbsp;</p>
+                    </div>
                 </div>
             `;
-        } else if (contentId === 'content4') {
+        
+            // Trigger the fade-in after slight delay
+            setTimeout(() => {
+                document.getElementById("fade-content").style.opacity = "1";
+            }, 100);
+        }
+         else if (contentId === 'content4') {
             contentArea.innerHTML = `
                 <h2>About the Prize</h2>
                 <div class="entry-content">
@@ -227,6 +248,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <p>&nbsp;</p>
                     <p>The company&nbsp;<strong>Safal Investments Mauritius Limited&nbsp;</strong>and its branches (including Mabati Rolling Mills Limited, Kenya, and ALAF Limited, Tanzania) are commonly known as The Safal Group. This is the largest roofing sheet manufacturing company in 12 African countries.&nbsp;<a href="http://www.safalgroup.com">www.safalgroup.com</a></p>
 <p>&nbsp;</p>
+
 
 <p><img src="swahili/img/MRM.PNG" style="width:15%"></p>
 <div class="clearfix"></div>
@@ -455,6 +477,98 @@ document.addEventListener('DOMContentLoaded', function() {
 </p>
 
 <p>The Safal Kiswahili Prize for African Literature was founded in 2014 by Dr. Lizzy Attree and Dr. Mukoma Wa Ngugi to recognize writing in African languages and encourage translation from, between, and into African languages.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>
+    The 2022 judges; Prof F.E.M.K. Senkoro (chair, Professor Emeritus), Dr. Magdaline Nakhumicha Wafula (Moi University, Kenya), and Dr. Hamisi Babusa (Kenyatta University, Kenya) selected the following and they both received prize money of US $5,000 Dollars each. <p>&nbsp;</p> 
+</p>   
+<div class="clearfix"></div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>1.Dotto Daudi Rangimoto’s </strong>novel<strong> <em>Ujanajike</em></strong> (Womanhood)<strong>,</strong> as the winner in the Fiction category.</p>
+    <p>&nbsp;</p> 
+    <img class="left-img" src="img/dotto.jpg"  width="300" height="224">
+    <p>&nbsp;</p>   
+<div class="clearfix"></div>
+<p>&nbsp;</p>
+
+
+ <p><strong>2.Salum Makamba’s </strong>poetry collection<strong> Mamangu Nipe Wosia </strong>(Mother, Counsel me) as the winner in the Poetry category.<p>&nbsp;</p>
+    <img class="left-img" src="img/salum.jpg"  width="300" height="224">
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="clearfix"></div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Dotto Rangimoto </strong>was born in Morogoro, Tanzania, in 1986. He won the Safal Kiswahili Prize in 2017, and his winning manuscript, <em>Mwanangu Rudi Nyumbani,</em> was subsequently published by Mkuki na Nyota Publishers, Dar es Salaam. Dotto completed his secondary education in 2004 at Morogoro Secondary School. Thereafter he has been involved in small enterprise business and farming. He is a great enthusiast of Kiswahili Literature, especially novels and poetry.</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Salum Makamba</strong> is a young writer from Tanzania. In addition to novels, he writes short stories, poems, fiction, essays and articles on various social issues. Salum trained as a medical doctor from the University of Dar es Salaam.</p>
+<p>&nbsp;</p>
+
+<p>In his speech, the Prime Minister His Excellency Kassim Majaliwa congratulated the winners and praised the management of the Prize, its board, and the sponsors, led by Safal Group, for their important work in promoting literature in African languages, particularly Kiswahili.</p>
+<p>&nbsp;</p>
+
+<p>The CEO of Safal Group, Mr. Andrew Lindgren, also spoke at the ceremony and highlighted the importance of the Kiswahili language in the development of the East African region. “Through our support of these awards, The Safal Group is firmly committed to the course of African languages. I commend ALAF Limited and MRM for organizing the award ceremony each year.”</p>
+<p>&nbsp;</p>
+
+<p>On behalf of the panel of judges, Prof Senkoro (chair) commended the 2022 entrants for the high quality of their writing, saying that it made it very difficult for the judges to pick out the first-place winners. “This is sufficient evidence that we have a great treasure of creativity, especially among young people, that transcends the boundaries of each country, and which if sprinkled with the basics of writing and publishing literary works will greatly strengthen Kiswahili literature,” added Prof Senkoro.</p>
+<p>&nbsp;</p>
+
+<p>Mr. Walter Bgoya of the Mkuki and Nyota Publishers, the official publisher of the winning manuscripts, said, “The Safal Award has raised talented writers in the field of literature since it was established in 2014, and there is no doubt that it has given writers inspiration and made the award ceremonies a day of great joy in the lives of those who are lucky enough to win.”</p>
+<p>&nbsp;</p>
+
+<p>He also emphasized on awakening the spirit of scholars in Tanzania and elsewhere to start promoting the Kiswahili language in science and technology. “There are scholars who are already focused on doing that. What they need is for their work to be recognized and used,” he added.</p>
+<p>&nbsp;</p>
+
+<p>The second-place winner in the Fiction category was<strong> Isaac Ndolo </strong>(Kenya) for his manuscript<strong> <em>Wimbo wa Hatima</em></strong> (<strong>The Final Song</strong>), and in the Poetry category was<strong> Ally Bakari Mchanyato </strong>(Tanzania) for his manuscript<strong> Uswahilini. </strong>Each received 2,500 USD.</p>
+<p>&nbsp;</p>
+
+    <strong><img class="left-img" src="img/Isaac.jpg"  width="300" height="224"></a></strong>
+    <strong><img class="left-img" src="img/Ally.jpg"  width="300" height="224"></a></strong>
+
+
+<div class="clearfix"></div>
+<p>The winning manuscripts are published by Mkuki na Nyota publishers.</p>
+<p>&nbsp;</p>
+
+<p>As earlier announced, other shortlisted works and authors were:&nbsp;<strong>Dunia na Watu Wake</strong>&nbsp;by Ahmad Simba Mwaita and <strong>Mzoga Unaonukia</strong>&nbsp;by Lenard Mtesigwa both from Tanzania.</p>
+<p>&nbsp;</p>
+
+<p>Both the winners and their fellow shortlistees were in attendance during the award giving ceremony in Dar es Salaam.</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+		
+            `;
+        }
+
+
+        else if (contentId.startsWith('content18')) {
+            const year = contentId.split('-')[1];
+            contentArea.innerHTML = `
+                <h1><strong>${year} WINNERS</strong></h1>
+               
+			<h1 style="text-align: center;"><strong>SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></h1>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>The winners of the Safal Kiswahili Prize for African Literature 2022 were awarded by <strong>His Excellency Majaliwa Kassim Majaliwa</strong>, Prime Minister of the United Republic of Tanzania at a special ceremony at the Mlimani City Conference Center in Dar es Salaam, on the 25th of January 2023.</p>
+<p>&nbsp;</p>
+
+<P>
+<strong><img class="left-img" src="img/mgeni-rasmi2024.jpg"  width="300" height="250"></strong>
+</p>
+
+<p>The Safal Kiswahili Prize for African Literature was founded in 2014 by Dr. Lizzy Attree and Dr. Mukoma Wa Ngugi to recognize
+ writing in African languages and encourage translation from, between, and into African languages.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -1083,7 +1197,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         function startSlideshow() {
-            interval = setInterval(showSlides, 8000); // Change image every 8 seconds
+            interval = setInterval(showSlides, 5000); // Change image every 8 seconds
         }
 
         function stopSlideshow() {

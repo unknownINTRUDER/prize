@@ -45,7 +45,7 @@
                     <li><a href="#" id="home-link" class="sidebar-link" data-content="content1">Home</a></li>
 
                     <li><a href="#" class="sidebar-link" data-content="content2">Update and Media</a></li>
-                    <li><a href="#" class="sidebar-link" data-content="content3">2024 Call for Submissions</a></li>
+                    <li><a href="#" class="sidebar-link" data-content="content3">Call for Submissions</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content4">About the Prize</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content5">Rules of Submission</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content6">Awards Criteria</a></li>
@@ -53,9 +53,9 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle">Winners</a>
                         <ul class="dropdown-menu">
-                          <!--
+                          
+                            <li><a href="#" class="sidebar-link" data-content="content18-2024">2024 Winners</a></li>
                             <li><a href="#" class="sidebar-link" data-content="content8-2023">2023 Winners</a></li>
-                          -->
                             <li><a href="#" class="sidebar-link" data-content="content9-2022">2022 Winners</a></li>
                             <li><a href="#" class="sidebar-link" data-content="content10-2021">2021 Winners</a></li>
                             <!--
