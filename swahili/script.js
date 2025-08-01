@@ -70,16 +70,10 @@ document.addEventListener('DOMContentLoaded', function() {
     function loadContent(contentId) {
         if (contentId === 'content1') {
             contentArea.innerHTML = `
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-
-             <p><img  src="img/1.jpg" style="width:80%"></p>
-                    <p>&nbsp;</p>
+                
                     <div class="clearfix"></div>
                     <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-
+                    
                     <h2><strong>TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA</strong></h2>
             <p>&nbsp;</p>
             <p>Tuzo hii ya kiswahili inafadhiliwa na kampuni ya Safal Group, kupitia matawi yake ya Mabati Rolling Mills (MRM), Kenya na ALAF, Tanzania; na Wakfu wa Ngugi wa Thiong’o.</p>
@@ -90,10 +84,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
               <div class="slideshow-container">
                   <div class="mySlides fade">
-                      <img src="img/majaliwa.jpg" style="width:100%">
+                      <img src="img/mgeni-rasmi2024.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/2nd-place.jpg" style="width:100%">
+                      <img src="img/majaliwa.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
                       <img src="img/1st-place.jpg" style="width:100%">
@@ -120,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <p>&nbsp;</p>
-<p><img src="img/3rd-place.jpg" style="width:100%"></p>
+<p><img src="img/home6.jpg" style="width:100%"></p>
 <p>&nbsp;</p>   
 <p><img src="img/Ally.jpg" style="width:100%"></p>
 <p>&nbsp;</p>
@@ -136,10 +130,16 @@ document.addEventListener('DOMContentLoaded', function() {
 		
 
             `;
+
             initializeSlideshow();
         } else if (contentId === 'content3') {
-            contentArea.innerHTML = `
-            <h1 class="entry-title">UTARATIBU WA KUSHIRIKI</h1>
+            const now = new Date();
+            const deadline = new Date('2024-11-30T23:59:59'); // Submission deadline
+        
+            if (now < deadline) {
+                // Still accepting submissions – show original content
+                contentArea.innerHTML = `
+                    <h1 class="entry-title">UTARATIBU WA KUSHIRIKI</h1>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <p><strong>WITO WA KUWASILISHA MISWADA KATIKA TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA - KWA MWAKA 2024</strong></p>
@@ -170,8 +170,33 @@ document.addEventListener('DOMContentLoaded', function() {
 
             <p>Wanaotaka kushiriki wanaombwa wapeleke miswada yao kwa anwani hii: <a href=kiswahiliprize@kiswahiliprize.org>kiswahiliprize@kiswahiliprize.org</a> Tarehe ya mwisho ya kupokewa miswada ni 30 Novemba, 2024. <strong>Miswada ya riwaya lazima iwe ni baina ya maneno 40,000 hadi 60,000; mkusanyo wa hadithi fupi usizidi maneno 40,000, na kila hadithi isipungue maneno 1,000 na isizidi maneno 6,000; na diwani ya mashairi iwe ni baina ya kurasa 60 na 70.</strong></p>
             
-            `;
-            initializeSlideshow();
+                `;
+            } else {
+                // Submission is closed – show animated message
+                contentArea.innerHTML = `
+                    <div id="closed-message" style="
+                        font-size: 26px;
+                        text-align: center;
+                        color: #b30000;
+                        margin-top: 20%;
+                        opacity: 0;
+                        transition: opacity 2s ease-in-out;
+                    ">
+                        🛑 Dirisha la kutuma miswada limefungwa.<br><br>
+                      
+                        <strong>Msimu wa 2025 utatangazwa hivi karibuni</strong>.
+                    </div>
+                `;
+        
+                // Trigger fade-in animation after slight delay
+                setTimeout(() => {
+                    document.getElementById('closed-message').style.opacity = '1';
+                }, 100);
+            }
+        
+        
+    
+        
         } else if (contentId === 'content2') {
             contentArea.innerHTML = `
                     <div class="clearfix"></div>

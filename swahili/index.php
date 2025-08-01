@@ -45,7 +45,7 @@
                     <li><a href="#" id="home-link" class="sidebar-link" data-content="content1">Home</a></li>
 
                     <li><a href="#" class="sidebar-link" data-content="content2">Habari</a></li>
-                    <li><a href="#" class="sidebar-link" data-content="content3">2024 Utaratibu wa Kushiriki</a></li>
+                    <li><a href="#" class="sidebar-link" data-content="content3">Utaratibu wa Kushiriki</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content4">Kuhusu Tuzo</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content5">Maagizo ya Kutuma Kazi</a></li>
                     <li><a href="#" class="sidebar-link" data-content="content6">Masharti ya Tuzo</a></li>
