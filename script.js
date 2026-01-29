@@ -61,12 +61,16 @@ document.addEventListener('DOMContentLoaded', function() {
     function loadContent(contentId) {
         if (contentId === 'content1') {
             contentArea.innerHTML = `
+          
 
                 <h2><strong>SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></h2>
                 <p>&nbsp;</p>
+                
 
 
                 <p>&nbsp;</p>
+                
+
               <div class="slideshow-container">
                   <div class="mySlides fade">
                       <img src="img/home1.jpg" style="width:100%">
@@ -77,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   </div>
 
                   <div class="mySlides fade">
-                      <img src="img/2nd-place.jpg" style="width:100%">
+                      <img src="img/home3.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
                       <img src="img/home4.jpg" style="width:100%">
@@ -118,26 +122,26 @@ document.addEventListener('DOMContentLoaded', function() {
             initializeSlideshow();
         } else if (contentId === 'content3') {
             const now = new Date();
-            const deadline = new Date('2024-11-30T23:59:59'); // Submission deadline
+            const deadline = new Date('2026-03-30T23:59:59'); // Submission deadline
         
             if (now < deadline) {
                 // Still accepting submissions – show original content
                 contentArea.innerHTML = `
-                    <h1 class="entry-title">CALL FOR SUBMISSION 2024</h1>
+                    <h1 class="entry-title">CALL FOR SUBMISSION 2025</h1>
                     <p>&nbsp;</p>
-                    <p>Dar es Salaam, Tanzania, July 30, 2024... <b>The Safal Kiswahili African Literature Prize</b> today announced that participants should submit their manuscripts for this year’s 2024 competition.</p>
+                    <p><b>The Safal Kiswahili African Literature Prize</b> announced officially that participants should submit their manuscripts for this year’s 2025 competition.</p>
                     <p>&nbsp;</p>
                     <p>Previously known as the Safal-Cornell Kiswahili African Literature Prize, its name has now been changed to reflect the sponsor's name - namely Safal Group, through its subsidiaries<b> Mabati Rolling Mills (MRM)</b> of Kenya and <b>ALAF Limited</b> of Tanzania...</p>
                     <p>&nbsp;</p>
-                    <img src="swahili/img/call-for-submission-english.JPG" style="width:100%">
+                    <img src="swahili/img/call-for-submission-english2025.JPG" style="width:100%">
                     <p>&nbsp;</p>
                     <h2>SEND THE SUBMISSION TO: <a href="mailto:kiswahiliprize@kiswahiliprize.org">kiswahiliprize@kiswahiliprize.org</a></h2>
                     <p>&nbsp;</p>
                     <p><strong>CALL FOR SUBMISSIONS FOR THE 2024 SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</strong></p>
                     <p>&nbsp;</p>
-                    <p>Submissions for this year's competition begin today,<b> July 30, 2024</b>, and end on <b>November 30, 2024.</b> ...</p>
+                    <p>Submissions for this year's competition begin,<b> January 29, 2026</b>, and end on <b>March 31, 2026.</b> ...</p>
                     <p>&nbsp;</p>
-                    <p><b>The award ceremony for the 2024 winners will take place in July 2025, and all shortlisted authors will attend.</b></p>
+                    <p><b>The award ceremony for the 2025 winners will be announced and all shortlisted authors will attend.</b></p>
                     <p>&nbsp;</p>
                 `;
             } else {

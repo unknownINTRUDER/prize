@@ -130,7 +130,7 @@
   </div>
   <div class="bottom-details">
     <div class="bottom_text">
-      <span class="copyright_text">Copyright &#169; 2024. All rights reserved</span>
+      <span class="copyright_text">Copyright &#169; 2026. All rights reserved</span>
       <span class="policy_terms">
         <a href="#">Privacy policy</a>
         <a href="#">Terms & condition</a>
