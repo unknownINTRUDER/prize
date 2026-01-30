@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
             initializeSlideshow();
         } else if (contentId === 'content3') {
             const now = new Date();
-            const deadline = new Date('2024-11-30T23:59:59'); // Submission deadline
+            const deadline = new Date('2026-03-30T23:59:59'); // Submission deadline
         
             if (now < deadline) {
                 // Still accepting submissions – show original content
@@ -142,15 +142,15 @@ document.addEventListener('DOMContentLoaded', function() {
                     <h1 class="entry-title">UTARATIBU WA KUSHIRIKI</h1>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
-            <p><strong>WITO WA KUWASILISHA MISWADA KATIKA TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA - KWA MWAKA 2024</strong></p>
+            <p><strong>WITO WA KUWASILISHA MISWADA KATIKA TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA - KWA MWAKA 2025</strong></p>
             <p>&nbsp;</p>
-            <p>Dar es Salaam, Tanzania 30 Julai 2024…. Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika hivi leo imewatangazia washiriki kuwasilisha miswada yao kwa ajili ya shindano la mwaka huu wa 2024.<p/>
+            <p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika inawatangazia washiriki kuwasilisha miswada yao kwa ajili ya shindano la mwaka huu wa 2025.<p/>
             <p>&nbsp;</p>
             <p>Hapo awali, Tuzo hii ikiitwa Tuzo ya Kiswahili ya Safal-Cornell ya Fasihi ya Afrika. Sasa jina lake limebadilishwa ili kuakisi jina la mdhamini - yaani kampuni ya Safal Group, kupitia kampuni zake tanzu za Mabati Rolling Mills (MRM) ya Kenya, na ALAF Limited ya Tanzania. Safal Group ni kampuni kubwa inayotengeneza vifaa vya ujenzi katika nchi tisa za Afrika ya Mashariki na Kusini, vyenye ubora wa hali ya juu kwa wateja wake mamilioni barani Afrika. Na pia husambaza bidhaa mbalimbali za chapa ambazo zinaaminika sokoni.</p>
             <p>&nbsp;</p>
-            <p>Uwasilishaji wa miswada kwa mashindano ya mwaka huu unaanza leo tarehe <strong>30 Julai 2024</strong> na kumalizika tarehe <strong>30 Novemba, 2024</strong>. Waandishi kutoka Afrika Mashariki, na popote duniani wanaoandika kwa Kiswahili, wanahimizwa kuwasilisha miswada yao na kushiriki katika mashindano. Kwa mara nyengine tena, waandishi wanawake wanahimizwa nao wajitokeze  Kwa wingi kushiriki katika mashindano haya. </p>
+            <p>Uwasilishaji wa miswada kwa mashindano ya mwaka huu unaanza tarehe <strong>29 Jan 2025</strong> na kumalizika tarehe <strong>31 Machi, 2025</strong>. Waandishi kutoka Afrika Mashariki, na popote duniani wanaoandika kwa Kiswahili, wanahimizwa kuwasilisha miswada yao na kushiriki katika mashindano. Kwa mara nyengine tena, waandishi wanawake wanahimizwa nao wajitokeze  Kwa wingi kushiriki katika mashindano haya. </p>
             <p>&nbsp;</p>
-            <p><img src="img/submission-swahili.jpg" style="width:100%"></p>
+            <p><img src="img/submission-swahili2025.jpg" style="width:100%"></p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>&nbsp;</p>
             <p><strong>Miswada itakayoshinda itachapishwa vitabu na kampuni ya uchapishaji ya Mkuki na Nyota Publishers (Tanzania),</strong> ambayo inaweza kushirikiana na wachapishaji wengine ili kurahisisha upatikanaji wa vitabu vilivyoshinda. Vitabu vya miswada ya ushairi itakayoshinda vitafasiriwa kwa Kiingereza na kuchapishwa na Africa Poetry Book Fund</p>
             <p>&nbsp;</p>
-            <h3>Sherehe ya kuwapa zawadi washindi wa mwaka 2024 itafanyika Julai 2025, na waandishi wote walioorodheshwa watahudhuria.</h3>
+            <h3>Sherehe ya kuwapa zawadi washindi wa mwaka 2025 itataganzwa, na waandishi wote walioorodheshwa watahudhuria.</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
