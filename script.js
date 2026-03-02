@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img src="swahili/img/home3.jpg" style="width:100%"></p>
+<p><img src="swahili/img/Finalist-1.jpg" style="width:100%"></p>
 <p>&nbsp;</p>   
 <p><img src="swahili/img/Ally.jpg" style="width:100%"></p>
 <p>&nbsp;</p>
@@ -179,10 +179,10 @@ document.addEventListener('DOMContentLoaded', function() {
                         <div class="clearfix"></div>
         
                         <h1 class="entry-title">SAFAL KISWAHILI PRIZE FOR AFRICAN LITERATURE</h1>
-                        <h1 class="entry-title">2024 WINNERS</h1>
+                        <h1 class="entry-title">2025 WINNERS</h1>
         
                         <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-                            <img src="swahili/img/finalists.jpg" style="width: 90%;">
+                            <img src="swahili/img/Finalists.jpg" style="width: 90%;">
                         </div>
         
                         <p>&nbsp;</p>
