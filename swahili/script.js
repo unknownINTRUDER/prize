@@ -84,13 +84,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
               <div class="slideshow-container">
                   <div class="mySlides fade">
-                      <img src="img/mgeni-rasmi2024.jpg" style="width:100%">
+                      <img src="img/home1.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/majaliwa.jpg" style="width:100%">
+                      <img src="img/home2.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade">
-                      <img src="img/1st-place.jpg" style="width:100%">
+                      <img src="img/home3.jpg" style="width:100%">
+                  </div>
+
+                  <div class="mySlides fade">
+                      <img src="img/home4.jpg" style="width:100%">
                   </div>
 
                   <div class="mySlides fade">
@@ -114,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <p>&nbsp;</p>
-<p><img src="img/home6.jpg" style="width:100%"></p>
+<p><img src="img/Finalist-1.jpg" style="width:100%"></p>
 <p>&nbsp;</p>   
 <p><img src="img/Ally.jpg" style="width:100%"></p>
 <p>&nbsp;</p>
@@ -142,13 +146,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     <h1 class="entry-title">UTARATIBU WA KUSHIRIKI</h1>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
-            <p><strong>WITO WA KUWASILISHA MISWADA KATIKA TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA - KWA MWAKA 2025</strong></p>
+            <p><strong>WITO WA KUWASILISHA MISWADA KATIKA TUZO YA KISWAHILI YA SAFAL YA FASIHI YA AFRIKA - KWA MWAKA 2026</strong></p>
             <p>&nbsp;</p>
-            <p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika inawatangazia washiriki kuwasilisha miswada yao kwa ajili ya shindano la mwaka huu wa 2025.<p/>
+            <p>Tuzo ya Kiswahili ya Safal ya Fasihi ya Afrika inawatangazia washiriki kuwasilisha miswada yao kwa ajili ya shindano la mwaka huu wa 2026.<p/>
             <p>&nbsp;</p>
             <p>Hapo awali, Tuzo hii ikiitwa Tuzo ya Kiswahili ya Safal-Cornell ya Fasihi ya Afrika. Sasa jina lake limebadilishwa ili kuakisi jina la mdhamini - yaani kampuni ya Safal Group, kupitia kampuni zake tanzu za Mabati Rolling Mills (MRM) ya Kenya, na ALAF Limited ya Tanzania. Safal Group ni kampuni kubwa inayotengeneza vifaa vya ujenzi katika nchi tisa za Afrika ya Mashariki na Kusini, vyenye ubora wa hali ya juu kwa wateja wake mamilioni barani Afrika. Na pia husambaza bidhaa mbalimbali za chapa ambazo zinaaminika sokoni.</p>
             <p>&nbsp;</p>
-            <p>Uwasilishaji wa miswada kwa mashindano ya mwaka huu unaanza tarehe <strong>29 Jan 2025</strong> na kumalizika tarehe <strong>31 Machi, 2025</strong>. Waandishi kutoka Afrika Mashariki, na popote duniani wanaoandika kwa Kiswahili, wanahimizwa kuwasilisha miswada yao na kushiriki katika mashindano. Kwa mara nyengine tena, waandishi wanawake wanahimizwa nao wajitokeze  Kwa wingi kushiriki katika mashindano haya. </p>
+            <p>Uwasilishaji wa miswada kwa mashindano ya mwaka huu unaanza tarehe <strong>29 Jan 2026</strong> na kumalizika tarehe <strong>31 Machi, 2026</strong>. Waandishi kutoka Afrika Mashariki, na popote duniani wanaoandika kwa Kiswahili, wanahimizwa kuwasilisha miswada yao na kushiriki katika mashindano. Kwa mara nyengine tena, waandishi wanawake wanahimizwa nao wajitokeze  Kwa wingi kushiriki katika mashindano haya. </p>
             <p>&nbsp;</p>
             <p><img src="img/submission-swahili2025.jpg" style="width:100%"></p>
             <p>&nbsp;</p>
@@ -168,7 +172,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <h2>Mwongozo wa Uwasilishaji:</h2>
             <p>&nbsp;</p>
 
-            <p>Wanaotaka kushiriki wanaombwa wapeleke miswada yao kwa anwani hii: <a href=kiswahiliprize@kiswahiliprize.org>kiswahiliprize@kiswahiliprize.org</a> Tarehe ya mwisho ya kupokewa miswada ni 30 Novemba, 2024. <strong>Miswada ya riwaya lazima iwe ni baina ya maneno 40,000 hadi 60,000; mkusanyo wa hadithi fupi usizidi maneno 40,000, na kila hadithi isipungue maneno 1,000 na isizidi maneno 6,000; na diwani ya mashairi iwe ni baina ya kurasa 60 na 70.</strong></p>
+            <p>Wanaotaka kushiriki wanaombwa wapeleke miswada yao kwa anwani hii: <a href=kiswahiliprize@kiswahiliprize.org>kiswahiliprize@kiswahiliprize.org</a> Tarehe ya mwisho ya kupokewa miswada ni 31 Machi, 2026. <strong>Miswada ya riwaya lazima iwe ni baina ya maneno 40,000 hadi 60,000; mkusanyo wa hadithi fupi usizidi maneno 40,000, na kila hadithi isipungue maneno 1,000 na isizidi maneno 6,000; na diwani ya mashairi iwe ni baina ya kurasa 60 na 70.</strong></p>
             
                 `;
             } else {
@@ -195,42 +199,59 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         
         
-    
-        
-        } else if (contentId === 'content2') {
+              } else if (contentId === 'content2') {
             contentArea.innerHTML = `
-                    <div class="clearfix"></div>
-                    <div class="clearfix"></div>
-                    <div class="clearfix"></div>
+                <div id="fade-content" style="opacity: 0; transition: opacity 1s ease-in-out;">
+        
                     <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-
-                    
-                <p><img  src="img/1.jpg" style="width:80%"></p>
-                    <p>&nbsp;</p>
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p><p>&nbsp;</p>
-                    <p>&nbsp;</p><p>&nbsp;</p>
-
-
-                    <h1 class="entry-title">Anajulikana kama "Mwanafalisafa wa Kiswahili" - SHAABAN ROBERT</h1>
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p><p>&nbsp;</p>
-
-
-                    <p><img class="left-img" src="img/poster1.jpeg"  width="250" height="224"></p>
-                    <p><img class="left-img" src="img/poster2.jpeg"  width="250" height="224"></p>
-                    <p><img class="left-img" src="img/poster3.jpeg"  width="250" height="224"></p>
-
-                    <div class="clearfix"></div>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-
-                    <p><img  src="img/poster-4.jpeg" style="width:80%"></p>
-
-                
+        
+                    <div class="entry-content">
+                        <div class="clearfix"></div>
+        
+                        <h1 class="entry-title">TUZO YA KISWAHILI YA SAFAL YA FASIHI YA KIAFRIKA</h1>
+                        <h1 class="entry-title">WASHINDI 2024</h1>
+        
+                        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+                            <img src="img/Finalists.jpg" style="width: 90%;">
+                        </div>
+        
+                        <p>&nbsp;</p>
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <h1 class="entry-title">Anajulikana kama "Mwanafalisafa wa Kiswahili" - SHAABAN ROBERT</h1>
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <p><img class="left-img" src="img/poster1.jpeg" width="255" height="224"></p>
+                        <p><img class="left-img" src="img/poster2.jpeg" width="255" height="224"></p>
+                        <p><img class="left-img" src="img/poster3.jpeg" width="255" height="224"></p>
+        
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+        
+                        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+                            <img src="img/poster-4.jpeg" style="width: 90%;">
+                        </div>
+        
+                        <div class="clearfix"></div>
+                        <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+        
+        
+                        
+                    </div>
+                </div>
             `;
+        
+            // Trigger the fade-in after slight delay
+            setTimeout(() => {
+                document.getElementById("fade-content").style.opacity = "1";
+            }, 100);
+        
+
+        
+       
         } else if (contentId === 'content4') {
             contentArea.innerHTML = `
 
