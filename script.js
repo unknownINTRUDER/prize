@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
             initializeSlideshow();
         } else if (contentId === 'content3') {
             const now = new Date();
-            const deadline = new Date('2026-03-30T23:59:59'); // Submission deadline
+            const deadline = new Date('2026-04-30T23:59:59'); // Submission deadline
         
             if (now < deadline) {
                 // Still accepting submissions – show original content
